@@ -105,6 +105,7 @@ jobs:
           databranch: main
 
   update-stats-external:
+    needs: update-stats
     runs-on: ubuntu-latest
     strategy:
       matrix:
