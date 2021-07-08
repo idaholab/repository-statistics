@@ -104,6 +104,7 @@ jobs:
           databranch: main
 
   update-stats-external:
+    if: always()
     needs: update-stats
     runs-on: ubuntu-latest
     strategy:
