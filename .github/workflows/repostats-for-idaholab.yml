@@ -103,3 +103,19 @@ jobs:
           repository: ${{ matrix.statsRepo }}
           ghtoken: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
           databranch: main
+
+  update-stats-external:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        statsRepoExt:
+          - cisagov/Malcolm
+      fail-fast: false
+      max-parallel: 1
+    steps:
+      - name: run-ghrs-ext
+        uses: jgehrcke/github-repo-stats@v1.1.0
+        with:
+          repository: ${{ matrix.statsRepoExt }}
+          ghtoken: ${{ secrets.GHRS_EXT_GITHUB_API_TOKEN }}
+          databranch: main
