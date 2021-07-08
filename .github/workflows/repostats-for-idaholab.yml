@@ -1,0 +1,23 @@
+name: update-stats
+concurrency: 'update-stats'
+
+on:
+  schedule:
+    - cron: "* 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        statsRepo: ['idaholab/Malcolm', 'idaholab/STIG', 'idaholab/moose']
+      fail-fast: false
+      max-parallel: 1
+    steps:
+      - name: run-ghrs
+        uses: jgehrcke/github-repo-stats@v1.1.0
+        with:
+          repository: ${{ matrix.statsRepo }}
+          ghtoken: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
+          databranch: main
