@@ -110,6 +110,13 @@ jobs:
     strategy:
       matrix:
         statsRepoExt:
+          - cisagov/ICSNPP
+          - cisagov/icsnpp-bacnet
+          - cisagov/icsnpp-bsap
+          - cisagov/icsnpp-dnp3
+          - cisagov/icsnpp-enip
+          - cisagov/icsnpp-ethercat
+          - cisagov/icsnpp-modbus
           - cisagov/Malcolm
       fail-fast: false
       max-parallel: 1
