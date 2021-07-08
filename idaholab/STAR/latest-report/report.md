@@ -1,5 +1,5 @@
 % Statistics for idaholab/STAR
-% Generated for [idaholab/STAR](https://github.com/idaholab/STAR) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-08 18:04 UTC.
+% Generated for [idaholab/STAR](https://github.com/idaholab/STAR) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-08 21:17 UTC.
 
 
 ## Views
