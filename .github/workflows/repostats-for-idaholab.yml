@@ -53,7 +53,6 @@ jobs:
           - idaholab/presentations
           - idaholab/PRISM
           - idaholab/raven
-          - idaholab/repository-statistics
           - idaholab/schematics
           - idaholab/SIEVAS
           - idaholab/SPEMMCRA
