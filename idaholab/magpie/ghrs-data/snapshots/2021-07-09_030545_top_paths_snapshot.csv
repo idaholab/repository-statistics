@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,20,6
+/idaholab/magpie/tree/devel/include,7,1
+/idaholab/magpie/tree/devel/doc/content,6,1
+/idaholab/magpie/tree/devel/doc,5,1
+/idaholab/magpie/tree/devel/examples,5,1
+/idaholab/magpie/blob/devel/examples/grand_potential_magpie/GP_MAGPIE_density.i,4,1
+/idaholab/magpie/tree/devel/examples/grand_potential_magpie,4,1
+/idaholab/magpie/tree/devel/test,4,1
+/idaholab/magpie/tree/devel/tests,4,1
+/idaholab/magpie/tree/devel/tests/userobjects/spparks,4,1
