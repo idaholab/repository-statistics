@@ -26,12 +26,12 @@ jobs:
           - idaholab/EMRALD
           - idaholab/EMV
           - idaholab/falcon
-          - idaholab/FieLDS
+          # - idaholab/FieLDS
           - idaholab/Gauss_Algorithms
           - idaholab/GranularFlowModels
           - idaholab/HERON
           - idaholab/homebrew-moose
-          - idaholab/HPC_Job_Tracker
+          # - idaholab/HPC_Job_Tracker
           - idaholab/hpcswtest
           - idaholab/HYBRID
           - idaholab/hyrax
