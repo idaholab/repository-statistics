@@ -1,5 +1,5 @@
 % Statistics for idaholab/PRISM
-% Generated for [idaholab/PRISM](https://github.com/idaholab/PRISM) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-18 03:28 UTC.
+% Generated for [idaholab/PRISM](https://github.com/idaholab/PRISM) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-19 03:32 UTC.
 
 
 ## Views
