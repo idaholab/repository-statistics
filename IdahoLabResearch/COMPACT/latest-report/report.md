@@ -1,5 +1,5 @@
 % Statistics for IdahoLabResearch/COMPACT
-% Generated for [IdahoLabResearch/COMPACT](https://github.com/IdahoLabResearch/COMPACT) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-24 04:15 UTC.
+% Generated for [IdahoLabResearch/COMPACT](https://github.com/IdahoLabResearch/COMPACT) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-25 04:19 UTC.
 
 
 ## Views
