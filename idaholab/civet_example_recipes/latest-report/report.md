@@ -1,5 +1,5 @@
 % Statistics for idaholab/civet_example_recipes
-% Generated for [idaholab/civet_example_recipes](https://github.com/idaholab/civet_example_recipes) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-25 02:11 UTC.
+% Generated for [idaholab/civet_example_recipes](https://github.com/idaholab/civet_example_recipes) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-07-26 02:14 UTC.
 
 
 ## Views
