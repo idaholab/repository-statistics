@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/blackbear,23,13
+/idaholab/blackbear/pull/243,9,4
+/idaholab/blackbear/pull/243/files,4,3
+/idaholab/blackbear/pulls,3,2
+/idaholab/blackbear/issues/242,2,2
+/idaholab/blackbear/releases,2,1
+/idaholab/blackbear/tree/devel/contrib,2,1
+/idaholab/blackbear/blob/devel/Makefile,1,1
+/idaholab/blackbear/blob/devel/src/auxkernels/MineralDissolutionPrecipAux.C,1,1
+/idaholab/blackbear/blob/devel/test/tests/mazars_damage/mazars.i,1,1
