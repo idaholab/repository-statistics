@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,38,8
+/idaholab/civet/pull/522,26,1
+/idaholab/civet/pulls,23,3
+/idaholab/civet/compare/master...envprint,12,1
+/idaholab/civet/tree/envprint,8,2
+/idaholab/civet/pull/522/files,8,1
+/idaholab/civet/blob/envprint/civet/settings.py,7,1
+/idaholab/civet/find/master,7,1
+/idaholab/civet/compare,4,2
+/idaholab/civet/blob/13e73a5c2fcc660e6b0a607c35a5d22fcb46fa63/ci/views.py,4,1
