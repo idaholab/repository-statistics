@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,817,425
+/cisagov/Malcolm/search,47,10
+/cisagov/Malcolm/releases/tag/v3.2.1,34,18
+/cisagov/Malcolm/releases,32,19
+/cisagov/Malcolm/issues,30,13
+/cisagov/Malcolm/tree/master/scripts,29,8
+/cisagov/Malcolm/tree/master/scripts/beats,28,13
+/cisagov/Malcolm/blob/master/scripts/install.py,27,5
+/cisagov/Malcolm/tree/master/Dockerfiles,26,16
+/cisagov/Malcolm/tree/master/docs,23,16
