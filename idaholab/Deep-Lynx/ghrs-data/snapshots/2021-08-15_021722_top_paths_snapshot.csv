@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Deep-Lynx,42,28
+/idaholab/Deep-Lynx/wiki,15,10
+/idaholab/Deep-Lynx/wiki/Getting-Started,13,5
+/idaholab/Deep-Lynx/wiki/Querying-Data,10,5
+/idaholab/Deep-Lynx/wiki/How-to-Ingest-Data,10,4
+/idaholab/Deep-Lynx/wiki/Creating-an-Ontology,6,4
+/idaholab/Deep-Lynx/wiki/Exporting-Data,3,3
+/idaholab/Deep-Lynx/wiki/Admin-Web-GUI,3,2
+/idaholab/Deep-Lynx/wiki/Creating-a-Deep-Lynx-App,3,2
+/idaholab/Deep-Lynx/tree/master/src/data_access_layer/mappers,3,1
