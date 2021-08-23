@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bsap,15,4
+/cisagov/icsnpp-bsap/tree/master/examples,2,2
+/cisagov/icsnpp-bsap/blob/master/examples/packet_filter.log,1,1
+/cisagov/icsnpp-bsap/blob/master/scripts/icsnpp/bsap/main.zeek,1,1
+/cisagov/icsnpp-bsap/tree/master/scripts,1,1
