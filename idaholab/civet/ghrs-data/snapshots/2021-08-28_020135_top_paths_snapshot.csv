@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,20,8
+/idaholab/civet/pulls,9,2
+/idaholab/civet/pull/524/files,8,2
+/idaholab/civet/pull/524,8,1
+/idaholab/civet/pull/521,2,2
+/idaholab/civet/blob/master/client/JobRunner.py,2,1
+/idaholab/civet/find/master,2,1
+/idaholab/civet/issues,2,1
+/idaholab/civet/issues/495,2,1
+/idaholab/civet/blob/master/civet/apps.py,1,1
