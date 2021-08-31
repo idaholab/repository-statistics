@@ -1,5 +1,5 @@
 % Statistics for idaholab/schematics
-% Generated for [idaholab/schematics](https://github.com/idaholab/schematics) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-08-31 03:38 UTC.
+% Generated for [idaholab/schematics](https://github.com/idaholab/schematics) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2021-08-31 19:01 UTC.
 
 
 ## Views
