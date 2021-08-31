@@ -47,6 +47,7 @@ jobs:
           - idaholab/moose
           - idaholab/moosetools
           - idaholab/mytrim
+          - idaholab/NAVV
           - idaholab/NRIC-DE
           - idaholab/package_builder
           - idaholab/pika
