@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,24,13
+/idaholab/virtual_test_bed/pull/18,12,4
+/idaholab/virtual_test_bed/pulls,6,4
+/idaholab/virtual_test_bed/tree/main/msfr/mesh,5,3
+/idaholab/virtual_test_bed/blob/main/mrad/steady/tests,4,3
+/idaholab/virtual_test_bed/tree/main/pbfhr/meshes,4,3
+/idaholab/virtual_test_bed/blob/main/msfr/mesh/make_mesh_cubit.py,4,2
+/idaholab/virtual_test_bed/blob/main/pbfhr/meshes/generate_core_with_reflectors.py,3,3
+/idaholab/virtual_test_bed/tree/main/sfr,3,3
+/idaholab/virtual_test_bed/issues,3,2
