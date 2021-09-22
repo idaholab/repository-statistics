@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/advcubit,10,5
+/idaholab/advcubit/tree/master/advcubit,4,2
+/idaholab/advcubit/tree/master/tests,3,2
+/idaholab/advcubit/blob/master/examples/basic.py,2,2
+/idaholab/advcubit/tree/master/examples,2,2
+/idaholab/advcubit/blob/devel/advcubit/vertex_module.py,1,1
+/idaholab/advcubit/blob/devel/advcubit/wrapper_module.py,1,1
+/idaholab/advcubit/blob/master/advcubit/block_module.py,1,1
+/idaholab/advcubit/blob/master/advcubit/common_module.py,1,1
+/idaholab/advcubit/blob/master/advcubit/function_module.py,1,1
