@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/schematics,3,2
+/idaholab/schematics/tree/master/schematics,3,2
+/idaholab/schematics/blob/master/schematics/tests/test_graph.py,1,1
+/idaholab/schematics/blob/master/schematics/tests/test_kwarg_processing.py,1,1
+/idaholab/schematics/blob/master/schematics/tests/test_rectangle.py,1,1
+/idaholab/schematics/blob/master/schematics/tests/test_transformation.py,1,1
+/idaholab/schematics/tree/master/schematics/examples,1,1
+/idaholab/schematics/tree/master/schematics/examples/edge,1,1
+/idaholab/schematics/tree/master/schematics/tests,1,1
