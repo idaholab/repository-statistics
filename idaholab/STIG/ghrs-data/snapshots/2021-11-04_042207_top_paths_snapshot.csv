@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/STIG,67,23
+/idaholab/STIG/pull/73,12,3
+/idaholab/STIG/pulls,10,3
+/idaholab/STIG/commit/4b4ff59c84c8fd919a0cd5028a01935d75146646,6,2
+/idaholab/STIG/releases/tag/2.0.1.alpha,5,2
+/idaholab/STIG/commit/efe9ceef9dd1c66c5c57a1f095daf7eb2be434c6,4,2
+/idaholab/STIG/issues,4,2
+/idaholab/STIG/blob/4b4ff59c84c8fd919a0cd5028a01935d75146646/src/db/db.ts,4,1
+/idaholab/STIG/commits/master,4,1
+/idaholab/STIG/search,4,1
