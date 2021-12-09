@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,163,89
+/idaholab/malcolm,50,20
+/idaholab/Malcolm/releases/tag/v5.0.0,19,16
+/idaholab/Malcolm/issues/54,18,13
+/idaholab/Malcolm/releases,13,9
+/idaholab/Malcolm/issues,11,6
+/idaholab/Malcolm/tree/main,6,6
+/idaholab/Malcolm/blob/main/docker-compose.yml,6,5
+/idaholab/Malcolm/blob/main/sensor-iso/config/includes.binary/install/preseed_base.cfg,6,2
+/idaholab/Malcolm/tree/main/sensor-iso/config/includes.binary/install,6,2
