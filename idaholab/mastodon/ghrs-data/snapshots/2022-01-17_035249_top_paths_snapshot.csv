@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,15,12
+/idaholab/mastodon/issues/62,8,5
+/idaholab/mastodon/tree/devel/examples,3,3
+/idaholab/mastodon/blob/devel/doc/config.yml,3,1
+/idaholab/mastodon/tree/devel/src,3,1
+/idaholab/mastodon/tree/devel/examples/ex01a,2,2
+/idaholab/mastodon/issues,2,1
+/idaholab/mastodon/pulse,2,1
+/idaholab/mastodon/tree/70bea489a32c5039918c09eb22a7300770e92431,2,1
+/idaholab/mastodon/blob/70bea489a32c5039918c09eb22a7300770e92431/include/vectorpostprocessors/Fragility.h,1,1
