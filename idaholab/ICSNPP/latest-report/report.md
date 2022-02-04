@@ -1,5 +1,5 @@
 % Statistics for idaholab/ICSNPP
-% Generated for [idaholab/ICSNPP](https://github.com/idaholab/ICSNPP) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-02-03 03:17 UTC.
+% Generated for [idaholab/ICSNPP](https://github.com/idaholab/ICSNPP) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-02-04 03:12 UTC.
 
 
 ## Views
