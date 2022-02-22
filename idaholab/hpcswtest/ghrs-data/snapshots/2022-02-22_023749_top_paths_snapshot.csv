@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/hpcswtest,10,3
+/idaholab/hpcswtest/blob/master/sub_mcnp_version_slurm,9,3
+/idaholab/hpcswtest/branches,7,1
+/idaholab/hpcswtest/branches/all,5,1
+/idaholab/hpcswtest/compare/master...zhiweiw1:utsa,3,1
+/idaholab/hpcswtest/branches/active,2,1
+/idaholab/hpcswtest/branches/stale,2,1
+/idaholab/hpcswtest/compare/master...zhiweiw1:master,1,1
+/idaholab/hpcswtest/issues,1,1
+/idaholab/hpcswtest/pulls,1,1
