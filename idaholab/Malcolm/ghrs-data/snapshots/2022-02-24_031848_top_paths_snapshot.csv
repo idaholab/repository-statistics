@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,184,104
+/idaholab/malcolm,36,20
+/idaholab/Malcolm/actions,27,1
+/idaholab/Malcolm/releases,24,10
+/idaholab/Malcolm/issues/78,20,13
+/idaholab/Malcolm/releases/tag/v5.2.5,18,13
+/idaholab/Malcolm/issues,17,9
+/idaholab/Malcolm/tree/main/sensor-iso,17,9
+/idaholab/Malcolm/blob/main/.github/workflows/sensor-iso-build-docker-wrap-push-ghcr.yml,13,1
+/idaholab/Malcolm/blob/main/docker-compose.yml,12,9
