@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IdahoLabUnsupported/inl-azure-devops-tasks,11,4
+/IdahoLabUnsupported/inl-azure-devops-tasks/tree/master/Tasks,10,3
+/IdahoLabUnsupported/inl-azure-devops-tasks/tree/master/Tasks/ExecutePlSqlV1,7,3
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/Tasks/ExecutePlSqlV1/ExecuteSqlPlus.ts,6,3
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/Tasks/ExecutePlSqlV2/ExecuteSqlPlus.ts,4,3
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/Tasks/ExecutePlSqlV1/PlSqlCommon.ts,2,2
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/Tasks/tslint.json,2,2
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/README.MD,2,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/VSCodeBuildHelper.ps1,2,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/commit/7b6a76b9dd90d2ab8f018822c63ebffb2400318a,2,1
