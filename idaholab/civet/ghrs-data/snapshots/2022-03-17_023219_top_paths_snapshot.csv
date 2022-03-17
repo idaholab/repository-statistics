@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,5,2
+/idaholab/civet/issues/414,4,3
+/idaholab/civet/issues,4,2
+/idaholab/civet/pulls,3,2
+/idaholab/civet/tree/master/ci,2,2
+/idaholab/civet/wiki,2,2
+/idaholab/civet/wiki/Setting-up-a-GitHub-repository-to-be-tested,2,2
+/idaholab/civet/blob/master/client/inl_client.py,2,1
+/idaholab/civet/find/master,2,1
+/idaholab/civet/blob/master/ci/EventsStatus.py,1,1
