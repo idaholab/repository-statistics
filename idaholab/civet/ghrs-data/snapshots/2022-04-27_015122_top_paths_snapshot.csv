@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,18,12
+/idaholab/civet/pulls,3,2
+/idaholab/civet/branches,3,1
+/idaholab/civet/blob/master/client/client.py,2,2
+/idaholab/civet/issues,2,2
+/idaholab/civet/wiki,2,2
+/idaholab/civet/compare,2,1
+/idaholab/civet/compare/master...joshua-cogliati-inl:master,2,1
+/idaholab/civet/issues/487,2,1
+/idaholab/civet/blob/master/ci/client/ProcessCommands.py,1,1
