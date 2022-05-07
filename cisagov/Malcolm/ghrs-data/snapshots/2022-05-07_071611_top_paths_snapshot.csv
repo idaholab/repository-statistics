@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,1936,841
+/cisagov/Malcolm/releases,99,60
+/cisagov/Malcolm/issues,90,27
+/cisagov/Malcolm/search,43,17
+/cisagov/Malcolm/releases/tag/v5.2.11,39,29
+/cisagov/Malcolm/tree/main/scripts,37,17
+/cisagov/Malcolm/tree/main/sensor-iso,29,17
+/cisagov/Malcolm/tree/main/Dockerfiles,25,15
+/cisagov/Malcolm/blob/main/docker-compose.yml,25,13
+/cisagov/Malcolm/releases/tag/v5.2.10,24,15
