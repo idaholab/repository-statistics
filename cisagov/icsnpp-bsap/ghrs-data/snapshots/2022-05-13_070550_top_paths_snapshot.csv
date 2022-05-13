@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bsap,39,18
+/cisagov/icsnpp-bsap/compare/main...mmguero-dev:vector_vars,26,11
+/cisagov/icsnpp-bsap/pull/4,8,4
+/cisagov/icsnpp-bsap/pulls,7,4
+/cisagov/icsnpp-bsap/search,7,1
+/cisagov/icsnpp-bsap/blob/main/README.md,5,2
+/cisagov/icsnpp-bsap/tree/main/scripts,4,2
+/cisagov/icsnpp-bsap/tree/main/scripts/icsnpp/bsap,4,2
+/cisagov/icsnpp-bsap/blob/main/scripts/icsnpp/bsap/main.zeek,3,2
+/cisagov/icsnpp-bsap/pull/4/commits,3,2
