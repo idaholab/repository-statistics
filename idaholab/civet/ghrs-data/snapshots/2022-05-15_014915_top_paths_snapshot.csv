@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet/pull/535,10,2
+/idaholab/civet/pull/535/files,8,2
+/idaholab/civet,3,1
+/idaholab/civet/issues/483,2,1
+/idaholab/civet/pulls,2,1
+/https://github.com/idaholab/civet,1,1
+/idaholab/civet/blame/master/ci/models.py,1,1
+/idaholab/civet/blob/master/ci/admin.py,1,1
+/idaholab/civet/blob/master/ci/GitCommitData.py,1,1
+/idaholab/civet/blob/master/ci/github/urls.py,1,1
