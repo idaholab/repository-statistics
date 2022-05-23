@@ -1,5 +1,5 @@
 % Statistics for IdahoLabResearch/TAPsolver
-% Generated for [IdahoLabResearch/TAPsolver](https://github.com/IdahoLabResearch/TAPsolver) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-05-22 05:55 UTC.
+% Generated for [IdahoLabResearch/TAPsolver](https://github.com/IdahoLabResearch/TAPsolver) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-05-23 05:53 UTC.
 
 
 ## Views
