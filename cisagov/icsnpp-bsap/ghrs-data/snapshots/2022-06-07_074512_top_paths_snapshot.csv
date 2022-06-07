@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bsap,32,17
+/cisagov/icsnpp-bsap/blob/main/src/bsap-protocol.pac,6,2
+/cisagov/icsnpp-bsap/blob/main/scripts/icsnpp/bsap/main.zeek,5,2
+/cisagov/icsnpp-bsap/tree/main/src,5,2
+/cisagov/icsnpp-bsap/blob/main/src/bsap.cc,1,1
+/cisagov/icsnpp-bsap/blob/main/src/events.bif,1,1
+/cisagov/icsnpp-bsap/commit/main,1,1
+/cisagov/icsnpp-bsap/commits/main,1,1
+/cisagov/icsnpp-bsap/tree/main/scripts,1,1
+/cisagov/icsnpp-bsap/tree/main/scripts/icsnpp,1,1
