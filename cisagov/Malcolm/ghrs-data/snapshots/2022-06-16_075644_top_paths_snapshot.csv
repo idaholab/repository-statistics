@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,1187,668
+/cisagov/Malcolm/releases,73,37
+/cisagov/Malcolm/tree/main/logstash/pipelines/zeek,71,4
+/cisagov/Malcolm/blob/main/logstash/pipelines/zeek/11_zeek_logs.conf,61,3
+/cisagov/Malcolm/tree/main/logstash/pipelines,40,5
+/cisagov/Malcolm/blob/main/sensor-iso/README.md,32,18
+/cisagov/Malcolm/blob/main/docker-compose.yml,31,12
+/cisagov/Malcolm/tree/main/Dockerfiles,30,11
+/cisagov/Malcolm/tree/main/logstash/pipelines/enrichment,29,4
+/cisagov/Malcolm/issues,28,14
