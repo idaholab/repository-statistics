@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/package_builder/issues/114,23,17
+/idaholab/package_builder/tree/master/build_from_source,5,2
+/idaholab/package_builder,4,2
+/idaholab/package_builder/tree/master/build_from_source/template,3,1
+/idaholab/package_builder/blob/master/build_from_source/template/gperftools,2,1
+/idaholab/package_builder/blob/master/build_from_source/template/autojump,1,1
+/idaholab/package_builder/blob/master/build_from_source/template/vtk-clang,1,1
+/idaholab/package_builder/tree/master/common_files,1,1
+/idaholab/package_builder/tree/master/create_redistributable,1,1
