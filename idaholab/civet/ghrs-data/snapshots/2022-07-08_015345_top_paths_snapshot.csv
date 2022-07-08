@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,15,5
+/idaholab/civet/pull/538,11,2
+/idaholab/civet/pull/537,9,3
+/idaholab/civet/pulls,6,3
+/idaholab/civet/pull/538/files,3,2
+/idaholab/civet/wiki,3,1
+/idaholab/civet/compare/master...milljm:civet:update-django,2,1
+/idaholab/civet/wiki/Server-Installation,2,1
+/idaholab/civet/blob/64591a1d1d6134bb7fc8cb944ea4a9beef9b7d34/client/INLClient.py,1,1
+/idaholab/civet/blob/master/client/INLClient.py,1,1
