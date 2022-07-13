@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,20,12
+/idaholab/mastodon/issues/224,8,1
+/idaholab/mastodon/pulls,6,2
+/idaholab/mastodon/projects,5,2
+/idaholab/mastodon/tree/devel/src,4,3
+/idaholab/mastodon/issues,4,2
+/idaholab/mastodon/pull/394,4,2
+/idaholab/mastodon/tree/devel/test,3,3
+/idaholab/mastodon/blob/devel/test/tests/vectorpostprocessors/response_spectra_calculator/response_spectra_calculator.i,3,2
+/idaholab/mastodon/tree/devel/examples/ex01a,3,2
