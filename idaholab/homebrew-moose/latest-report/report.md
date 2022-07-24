@@ -1,5 +1,5 @@
 % Statistics for idaholab/homebrew-moose
-% Generated for [idaholab/homebrew-moose](https://github.com/idaholab/homebrew-moose) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-23 03:12 UTC.
+% Generated for [idaholab/homebrew-moose](https://github.com/idaholab/homebrew-moose) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-24 03:11 UTC.
 
 
 ## Views
