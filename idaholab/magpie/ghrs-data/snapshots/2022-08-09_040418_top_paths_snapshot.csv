@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,22,7
+/idaholab/magpie/tree/devel/src,11,3
+/idaholab/magpie/tree/devel/src/userobjects,5,2
+/idaholab/magpie/tree/devel/include,3,2
+/idaholab/magpie/tree/devel/include/auxkernels,3,2
+/idaholab/magpie/blob/devel/src/auxkernels/RadialGreensAux.C,3,1
+/idaholab/magpie/blob/devel/src/userobjects/RadialGreensConvolution.C,3,1
+/idaholab/magpie/issues,3,1
+/idaholab/magpie/tree/devel/src/auxkernels,3,1
+/idaholab/magpie/tree/devel/src/kernels,3,1
