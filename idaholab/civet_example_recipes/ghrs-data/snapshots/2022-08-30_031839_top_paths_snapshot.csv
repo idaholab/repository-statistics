@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/civet_example_recipes/tree/master/recipes,2,1
+/idaholab/civet_example_recipes,1,1
+/idaholab/civet_example_recipes/blob/master/recipes/Basic.cfg,1,1
+/idaholab/civet_example_recipes/blob/master/recipes/Merge.cfg,1,1
+/idaholab/civet_example_recipes/blob/master/recipes/Valgrind.cfg,1,1
+/idaholab/civet_example_recipes/blob/master/Recipe_Template.cfg,1,1
+/idaholab/civet_example_recipes/blob/master/scripts/run_cmd.sh,1,1
+/idaholab/civet_example_recipes/blob/master/scripts/tests.sh,1,1
+/idaholab/civet_example_recipes/tree/master/scripts,1,1
