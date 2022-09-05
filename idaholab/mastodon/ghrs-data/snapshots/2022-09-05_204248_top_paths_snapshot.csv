@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,14,9
+/idaholab/mastodon/projects,10,1
+/idaholab/mastodon/pulls,9,3
+/idaholab/mastodon/pull/419,4,1
+/idaholab/mastodon/projects/1,3,1
+/idaholab/mastodon/fork,2,2
+/idaholab/mastodon/tree/devel/src,2,2
+/idaholab/mastodon/graphs/contributors,2,1
+/idaholab/mastodon/pull/418,2,1
+/idaholab/mastodon/blob/920af121abbb33eaf73ddeb086849df1677c37bc/src/base/MastodonApp.C,1,1
