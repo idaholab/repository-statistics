@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/IdahoLabCuttingBoard/FakeADFS,3,2
+/IdahoLabCuttingBoard/FakeADFS/tree/master/src,3,2
+/IdahoLabCuttingBoard/FakeADFS/blob/master/src/CoreWebApp/Startup.cs,1,1
+/IdahoLabCuttingBoard/FakeADFS/blob/master/src/FakeADFSSecurity/CustomSecurityTokenService.cs,1,1
+/IdahoLabCuttingBoard/FakeADFS/tree/master/src/CoreWebApp,1,1
+/IdahoLabCuttingBoard/FakeADFS/tree/master/src/FakeADFS,1,1
+/IdahoLabCuttingBoard/FakeADFS/tree/master/src/FakeADFSSecurity,1,1
+/IdahoLabUnsupported/FakeADFS,1,1
