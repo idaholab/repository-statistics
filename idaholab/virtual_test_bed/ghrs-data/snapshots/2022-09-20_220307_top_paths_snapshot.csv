@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,82,32
+/idaholab/virtual_test_bed/pulls,34,6
+/idaholab/virtual_test_bed/pull/123,33,5
+/idaholab/virtual_test_bed/pull/123/files,13,5
+/idaholab/virtual_test_bed/tree/devel/doc/content,11,5
+/idaholab/virtual_test_bed/issues,10,7
+/idaholab/virtual_test_bed/pull/125,10,3
+/idaholab/virtual_test_bed/tree/devel/doc,7,5
+/idaholab/virtual_test_bed/tree/devel/msr,5,5
+/idaholab/virtual_test_bed/issues/124,5,3
