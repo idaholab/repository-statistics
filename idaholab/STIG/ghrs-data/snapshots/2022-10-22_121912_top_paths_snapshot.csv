@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/STIG,41,26
+/idaholab/STIG/tree/master/src,5,3
+/idaholab/STIG/blob/master/README.md,3,2
+/idaholab/STIG/blob/master/18-179_STIG_Innovation_Sheet.pdf,2,2
+/idaholab/STIG/tree/master/src/ui,2,2
+/idaholab/STIG/blob/master/src/ui/main-window-menu.ts,2,1
+/idaholab/STIG/blob/master/src/graph/graphFunctions.ts,1,1
+/idaholab/STIG/blob/master/src/index.html,1,1
+/idaholab/STIG/blob/master/src/ui/queryHistoryWidget.ts,1,1
+/idaholab/STIG/commit/4f9089a1fc2aea7bf700c85c39ceb3e4b809480b,1,1
