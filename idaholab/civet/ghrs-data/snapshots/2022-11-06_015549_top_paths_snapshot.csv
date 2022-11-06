@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,20,8
+/idaholab/civet/search,15,2
+/idaholab/civet/pull/550,9,2
+/idaholab/civet/blob/master/requirements.txt,5,2
+/idaholab/civet/pull/550/files,4,2
+/idaholab/civet/issues/414,2,2
+/idaholab/civet/wiki,2,1
+/idaholab/civet/wiki/Server-Installation,2,1
+/idaholab/civet/blob/85e7ca9643b73f8b234a663cb3e78b59312b2e93/requirements.txt,1,1
+/idaholab/civet/blob/e9034abf3e52ab3e0abe31c4eb2c7b634edf1bc8/civet/settings.py,1,1
