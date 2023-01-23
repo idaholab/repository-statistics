@@ -47,7 +47,6 @@ jobs:
           - idaholab/moose
           - idaholab/moosetools
           - idaholab/mytrim
-          - idaholab/network-architecture-verification-and-validation
           - idaholab/NRIC-DE
           - idaholab/package_builder
           - idaholab/pika
@@ -116,8 +115,12 @@ jobs:
           - cisagov/icsnpp-dnp3
           - cisagov/icsnpp-enip
           - cisagov/icsnpp-ethercat
+          - cisagov/icsnpp-genisys
           - cisagov/icsnpp-modbus
+          - cisagov/icsnpp-opcua-binary
+          - cisagov/icsnpp-s7comm
           - cisagov/Malcolm
+          - cisagov/network-architecture-verification-and-validation
       fail-fast: false
       max-parallel: 1
     steps:
