@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/conda-moose,10,6
+/idaholab/conda-moose/tree/devel/recipes,3,1
+/idaholab/conda-moose/blob/devel/build_packages.sh,1,1
+/idaholab/conda-moose/blob/devel/get_formulas.py,1,1
+/idaholab/conda-moose/blob/devel/package_version,1,1
+/idaholab/conda-moose/blob/devel/upload_packages.sh,1,1
+/idaholab/conda-moose/commits/devel,1,1
+/idaholab/conda-moose/tree/devel/recipes/moose-petsc,1,1
+/idaholab/conda-moose/tree/devel/recipes/moose-petsc/recipe,1,1
