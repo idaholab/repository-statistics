@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IdahoLabUnsupported/inl-azure-devops-tasks,7,5
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/package.json,2,2
+/IdahoLabUnsupported/inl-azure-devops-tasks/tree/master/Tasks,2,2
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/extension/Tasks/ExecutePlSqlV1/PlSqlCommon.ts,2,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/Tasks/AssetSuiteJobs/AssetSuiteJobs.ts,2,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/VSCodeBuildHelper.ps1,2,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/.vscode/tasks.json,2,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/tree/master/.vscode,2,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/extension/Tasks/ExecutePlSqlV1/ExecuteSqlPlus.ts,1,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/extension/Tasks/ExecutePlSqlV1/PackagedSqlPlus.ts,1,1
