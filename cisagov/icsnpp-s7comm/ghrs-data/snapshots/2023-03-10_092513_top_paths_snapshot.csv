@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-s7comm,62,36
+/cisagov/icsnpp-s7comm/blob/2c9f6dc70b91b1d1eb3c5f9470e891b0fd21517e/src/s7comm-protocol.pac,29,1
+/cisagov/icsnpp-s7comm/blob/2c9f6dc70b91b1d1eb3c5f9470e891b0fd21517e/tests/baseline/analyzer.snap7/s7comm.log,14,1
+/cisagov/icsnpp-s7comm/tree/main/src,13,6
+/cisagov/icsnpp-s7comm/blob/2c9f6dc70b91b1d1eb3c5f9470e891b0fd21517e/scripts/consts.zeek,11,2
+/cisagov/icsnpp-s7comm/blob/2c9f6dc70b91b1d1eb3c5f9470e891b0fd21517e/src/s7comm-analyzer.pac,11,2
+/cisagov/icsnpp-s7comm/tree/2c9f6dc70b91b1d1eb3c5f9470e891b0fd21517e,10,7
+/cisagov/icsnpp-s7comm/blob/main/scripts/icsnpp/s7comm/main.zeek,9,6
+/cisagov/icsnpp-s7comm/tree/main/scripts,8,5
+/cisagov/icsnpp-s7comm/blob/2c9f6dc70b91b1d1eb3c5f9470e891b0fd21517e/tests/baseline/analyzer.snap7/s7comm_read_szl.log,8,1
