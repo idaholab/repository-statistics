@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/conda-moose,6,5
+/idaholab/conda-moose/blob/devel/recipes/moose-petsc/recipe/build.sh,4,1
+/idaholab/conda-moose/tree/devel/recipes,4,1
+/idaholab/conda-moose/tree/devel/recipes/moose-petsc,4,1
+/idaholab/conda-moose/tree/devel/recipes/moose-petsc/recipe,4,1
+/idaholab/conda-moose/blame/devel/recipes/moose-petsc/recipe/build.sh,2,1
+/idaholab/conda-moose/blob/devel/recipes/moose-petsc/recipe/no-cppflags-in-pkgconfig-cflags.patch,2,1
+/idaholab/conda-moose/blob/devel/recipes/moose-mpich/recipe/conda_build_config.yaml,1,1
+/idaholab/conda-moose/blob/devel/recipes/moose-mpich/recipe/run_test.sh,1,1
+/idaholab/conda-moose/blob/devel/recipes/moose-petsc/recipe/mpiexec.sh,1,1
