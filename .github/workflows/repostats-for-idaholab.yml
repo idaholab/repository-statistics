@@ -14,84 +14,99 @@ jobs:
         statsRepo:
           - idaholab/advcubit
           - idaholab/atDisco
+          - idaholab/ATIS
+          - idaholab/BayCal
+          - idaholab/BinaryDriller
+          - idaholab/BinDrill
           - idaholab/blackbear
+          - idaholab/Caldera_Grid
+          - idaholab/Caldera_ICM
           - idaholab/civet
           - idaholab/civet_example_recipes
-          - idaholab/CMIP
-          - idaholab/Code_Generator
-          - idaholab/conda-moose
+          - idaholab/DaRT
           - idaholab/Deep-Lynx
+          - idaholab/Deep-Lynx-Data-Historian
+          - idaholab/Deep-Lynx-JS-SDK
+          - idaholab/Deep-Lynx-Machine-Learning
+          - idaholab/Deep-Lynx-MOOSE
           - idaholab/Deep-Lynx-Python-Package
+          - idaholab/Deep-Lynx-UNC
           - idaholab/DIAMOND
+          - idaholab/DISCOverflow
           - idaholab/EMRALD
           - idaholab/EMV
+          - idaholab/Enhanced_STIX_Elevator
           - idaholab/falcon
-          - idaholab/FieLDS
-          - idaholab/Gauss_Algorithms
+          - idaholab/FORCE
+          - idaholab/GEM
+          - idaholab/General-Simulator-Intermediary
           - idaholab/GranularFlowModels
           - idaholab/HERON
-          - idaholab/homebrew-moose
-          - idaholab/HPC_Job_Tracker
-          - idaholab/hpcswtest
+          - idaholab/hit
           - idaholab/HYBRID
-          - idaholab/hyrax
+          - idaholab/Hydro_Hybrids
           - idaholab/ICSNPP
+          - idaholab/IDEAS
+          - idaholab/isopod
+          - idaholab/IX-DiscoveryTools
+          - idaholab/Jester
           - idaholab/labrat
           - idaholab/large_media
           - idaholab/LIGGGHTS-INL
           - idaholab/Location-Generalizer
           - idaholab/LOGOS
           - idaholab/magpie
+          - idaholab/malamute
           - idaholab/Malcolm
           - idaholab/mastodon
           - idaholab/moose
+          - idaholab/moose-language-support
           - idaholab/moosetools
           - idaholab/mytrim
-          - idaholab/NRIC-DE
-          - idaholab/package_builder
-          - idaholab/pika
-          - idaholab/presentations
+          - idaholab/ncrc-client
           - idaholab/PRISM
           - idaholab/raven
-          - idaholab/schematics
-          - idaholab/SIEVAS
           - idaholab/SPEMMCRA
           - idaholab/SPPARKS
           - idaholab/SR2ML
           - idaholab/STAR
           - idaholab/STEM
           - idaholab/STIG
+          - idaholab/STIXEnforcer
           - idaholab/stork
           - idaholab/STOTS
           - idaholab/TEAL
           - idaholab/TMAP8
-          - idaholab/Topology_Generator
           - idaholab/VDEA
           - idaholab/virtual_test_bed
           - idaholab/WiiBin
           - idaholab/XFEMParaviewPlugin
+          - IdahoLabResearch/5GAD
+          - IdahoLabResearch/BIhNNs
+          - IdahoLabResearch/Buggy-Program-Program
+          - IdahoLabResearch/CDB_Analysis_Program
           - IdahoLabResearch/CIACS
+          - IdahoLabResearch/CMAT
           - IdahoLabResearch/CoCuNi
           - IdahoLabResearch/DREEM
           - IdahoLabResearch/HEA_Code
+          - IdahoLabResearch/HFVT
+          - IdahoLabResearch/HPCACT-2022
+          - IdahoLabResearch/HydroGenerate
+          - IdahoLabResearch/Hydropower_Unit_Models
+          - IdahoLabResearch/HyPAT
+          - IdahoLabResearch/INLIDD
           - IdahoLabResearch/LISA
-          - IdahoLabResearch/MFSCO
+          - IdahoLabResearch/OMDD
+          - IdahoLabResearch/PowDDeR-Python
+          - IdahoLabResearch/PyEmission
+          - IdahoLabResearch/ReMAIn
+          - IdahoLabResearch/Scramble
+          - IdahoLabResearch/SFWDSubsurface
+          - IdahoLabResearch/tapsap
           - IdahoLabResearch/TAPsolver
+          - IdahoLabResearch/TROPFE
           - IdahoLabResearch/WOODCOM
-          - IdahoLabCuttingBoard/ADREM
-          - IdahoLabCuttingBoard/CLATesting
-          - IdahoLabCuttingBoard/DAIRIEES
-          - IdahoLabCuttingBoard/FakeADFS
-          - IdahoLabCuttingBoard/Gauss_Algorithms_C
-          - IdahoLabCuttingBoard/IGCAPT
-          - IdahoLabCuttingBoard/IGCAPT_XMLConverter
-          - IdahoLabCuttingBoard/inl-azure-devops-tasks
-          - IdahoLabCuttingBoard/LEAF
-          - IdahoLabCuttingBoard/LinuxSA
-          - IdahoLabCuttingBoard/LRS_SORT
-          - IdahoLabCuttingBoard/PolyPole
-          - IdahoLabCuttingBoard/PowDDeR
-          - IdahoLabCuttingBoard/WEST
       fail-fast: false
       max-parallel: 1
     steps:
@@ -119,6 +134,7 @@ jobs:
           - cisagov/icsnpp-modbus
           - cisagov/icsnpp-opcua-binary
           - cisagov/icsnpp-s7comm
+          - cisagov/icsnpp-synchrophasor
           - cisagov/Malcolm
           - cisagov/network-architecture-verification-and-validation
       fail-fast: false
