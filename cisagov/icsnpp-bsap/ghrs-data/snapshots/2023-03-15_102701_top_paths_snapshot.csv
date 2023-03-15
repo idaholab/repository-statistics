@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bsap,16,9
+/cisagov/icsnpp-bsap/tree/1dc38b155b7edf6d8a2f2975d64ac3160d97742b,5,4
+/cisagov/icsnpp-bsap/tree/main/scripts,3,1
+/cisagov/icsnpp-bsap/tree/main/src,2,2
+/cisagov/icsnpp-bsap/blob/main/README.md,2,1
+/cisagov/icsnpp-bsap/blob/1dc38b155b7edf6d8a2f2975d64ac3160d97742b/scripts/consts.zeek,1,1
+/cisagov/icsnpp-bsap/blob/1dc38b155b7edf6d8a2f2975d64ac3160d97742b/scripts/__load__.zeek,1,1
+/cisagov/icsnpp-bsap/blob/1dc38b155b7edf6d8a2f2975d64ac3160d97742b/scripts/__preload__.zeek,1,1
+/cisagov/icsnpp-bsap/blob/1dc38b155b7edf6d8a2f2975d64ac3160d97742b/src/Plugin.h,1,1
+/cisagov/icsnpp-bsap/blob/main/CMakeLists.txt,1,1
