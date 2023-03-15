@@ -107,6 +107,20 @@ jobs:
           - IdahoLabResearch/TAPsolver
           - IdahoLabResearch/TROPFE
           - IdahoLabResearch/WOODCOM
+          - IdahoLabUnsupported/ADREM
+          - IdahoLabUnsupported/AspenPlus
+          - IdahoLabUnsupported/ATTAR
+          - IdahoLabUnsupported/CLATesting
+          - IdahoLabUnsupported/DAIRIEES
+          - IdahoLabUnsupported/FakeADFS
+          - IdahoLabUnsupported/IGCAPT
+          - IdahoLabUnsupported/IGCAPT_XMLConverter
+          - IdahoLabUnsupported/inl-azure-devops-tasks
+          - IdahoLabUnsupported/LEAF
+          - IdahoLabUnsupported/LinuxSA
+          - IdahoLabUnsupported/LRS_SORT
+          - IdahoLabUnsupported/PowDDeR
+          - IdahoLabUnsupported/WEST
       fail-fast: false
       max-parallel: 1
     steps:
