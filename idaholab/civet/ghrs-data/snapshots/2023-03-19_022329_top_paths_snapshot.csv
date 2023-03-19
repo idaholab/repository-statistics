@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/idaholab/civet,4,1
+/idaholab/civet/blob/master/ci/ajax/urls.py,2,1
+/idaholab/civet/blob/master/ci/client/urls.py,2,1
+/idaholab/civet/blob/master/ci/urls.py,2,1
+/idaholab/civet/blob/master/civet/urls.py,2,1
+/idaholab/civet/blob/master/ci/views.py,2,1
