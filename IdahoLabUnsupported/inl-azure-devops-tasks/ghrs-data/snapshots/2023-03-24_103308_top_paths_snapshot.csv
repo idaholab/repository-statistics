@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/IdahoLabUnsupported/inl-azure-devops-tasks,4,3
+/IdahoLabUnsupported/inl-azure-devops-tasks/tree/master/Tasks,2,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/tree/master/Tasks/ExecutePlSqlV3,2,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/.gitignore,1,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/Tasks/ExecutePlSqlV3/DatabaseConfiguration/DatabaseConfig.md,1,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/Tasks/ExecutePlSqlV3/ExecuteSqlPlus.ts,1,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/blob/master/Tasks/ExecutePlSqlV3/task.json,1,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/tree/master/Tasks/ExecutePlSqlV3/DatabaseConfiguration,1,1
+/IdahoLabUnsupported/inl-azure-devops-tasks/tree/master/Tasks/ExecutePlSqlV3/Sql_Scripts,1,1
