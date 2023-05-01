@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,60,36
+/idaholab/virtual_test_bed/pull/230,27,6
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,22,14
+/idaholab/virtual_test_bed/tree/devel/msr,17,9
+/idaholab/virtual_test_bed/tree/devel/microreactors,11,4
+/idaholab/virtual_test_bed/pulls,10,8
+/idaholab/virtual_test_bed/tree/devel/msr/msr_generic/depletion,10,3
+/idaholab/virtual_test_bed/tree/devel/msr/msr_generic,9,4
+/idaholab/virtual_test_bed/blob/devel/microreactors/mrad/steady/HPMR_thermo_ss.i,9,2
+/idaholab/virtual_test_bed/tree/devel/microreactors/mrad,8,2
