@@ -1,5 +1,5 @@
 % Statistics for idaholab/labrat
-% Generated for [idaholab/labrat](https://github.com/idaholab/labrat) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-05-12 05:16 UTC.
+% Generated for [idaholab/labrat](https://github.com/idaholab/labrat) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-05-13 05:08 UTC.
 
 
 ## Views
