@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/IX-DiscoveryTools,34,10
+/idaholab/IX-DiscoveryTools/tree/main/docs,11,3
+/idaholab/IX-DiscoveryTools/tree/main/autodiscover,9,2
+/idaholab/IX-DiscoveryTools/tree/main/autodiscover/plugins,9,2
+/idaholab/IX-DiscoveryTools/blob/main/docs/01-Autodiscover.md,8,3
+/idaholab/IX-DiscoveryTools/blob/main/docker-install.sh,5,3
+/idaholab/IX-DiscoveryTools/blob/main/autodiscover/plugins/cve_search.py,4,2
+/idaholab/IX-DiscoveryTools/tree/main/config,4,2
+/idaholab/IX-DiscoveryTools/blob/main/autodiscover/plugins/openvas.py,3,2
+/idaholab/IX-DiscoveryTools/blob/main/docs/02-ForensIX.md,3,2
