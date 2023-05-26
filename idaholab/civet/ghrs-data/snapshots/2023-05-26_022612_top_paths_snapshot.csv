@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,7,4
+/idaholab/civet/wiki,6,2
+/idaholab/civet/blob/aee01adcdd6948867d4aae5a774d2bb9fa3f5a0c/ci/templates/ci/job.html,4,1
+/idaholab/civet/pull/16,3,1
+/idaholab/civet/tree/master/ci,3,1
+/idaholab/civet/tree/master/ci/tests,3,1
+/idaholab/civet/pulls,2,2
+/idaholab/civet/blob/aee01adcdd6948867d4aae5a774d2bb9fa3f5a0c/civet/apps.py,2,1
+/idaholab/civet/blob/master/ci/tests/test_git_api.py,2,1
+/idaholab/civet/blob/master/ci/tests/test_RepositoryStatus.py,2,1
