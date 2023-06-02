@@ -1,5 +1,5 @@
 % Statistics for idaholab/DaRT
-% Generated for [idaholab/DaRT](https://github.com/idaholab/DaRT) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-06-01 02:53 UTC.
+% Generated for [idaholab/DaRT](https://github.com/idaholab/DaRT) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-06-02 02:44 UTC.
 
 
 ## Views
