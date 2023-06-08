@@ -1,5 +1,5 @@
 % Statistics for idaholab/Deep-Lynx-JS-SDK
-% Generated for [idaholab/Deep-Lynx-JS-SDK](https://github.com/idaholab/Deep-Lynx-JS-SDK) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-06-07 03:06 UTC.
+% Generated for [idaholab/Deep-Lynx-JS-SDK](https://github.com/idaholab/Deep-Lynx-JS-SDK) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-06-08 03:01 UTC.
 
 
 ## Views
