@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,14,12
+/idaholab/mastodon/tree/devel/test/tests/dirackernels/seismic_source,9,1
+/idaholab/mastodon/tree/devel/examples,6,2
+/idaholab/mastodon/tree/devel/test,6,2
+/idaholab/mastodon/tree/devel/test/tests,5,2
+/idaholab/mastodon/tree/devel/examples/ex03b,4,1
+/idaholab/mastodon/issues/62,3,3
+/idaholab/mastodon/tree/devel/test/tests/postprocessors/sideset_moment,3,1
+/idaholab/mastodon/blob/devel/examples/ex03b/chichi_bc_mpss_xp20_disp.csv,2,1
+/idaholab/mastodon/blob/devel/examples/ex03b/shear_beam_Isoil_free_field_explicit.i,2,1
