@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/IX-DiscoveryTools,24,7
+/idaholab/IX-DiscoveryTools/tree/main/forensix,6,1
+/idaholab/IX-DiscoveryTools/actions/runs/2835154601,2,1
+/idaholab/IX-DiscoveryTools/tree/main/autodiscover,2,1
+/idaholab/IX-DiscoveryTools/tree/main/forensix/utils,2,1
+/idaholab/IX-DiscoveryTools/tree/main/processgrabber,2,1
+/idaholab/IX-DiscoveryTools/actions,1,1
+/idaholab/IX-DiscoveryTools/actions/runs/2835154601/jobs/4485238151,1,1
+/idaholab/IX-DiscoveryTools/blob/main/autodiscover/plugins/unconstrained_dataflow.py,1,1
+/idaholab/IX-DiscoveryTools/blob/main/docker-install.sh,1,1
