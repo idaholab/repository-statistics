@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HERON,88,30
+/idaholab/HERON/pulls,45,7
+/idaholab/HERON/pull/301,33,5
+/idaholab/HERON/tree/devel/src,19,4
+/idaholab/HERON/blob/devel/tests/integration_tests/mechanics/levelized_cost/LC_Price/heron_input__LC_Price.xml,14,2
+/idaholab/HERON/wiki,13,8
+/idaholab/HERON/commits/devel,13,1
+/idaholab/HERON/commit/7ef3b30bda1bb5622e444fc27cd889375623850a,12,2
+/idaholab/HERON/tree/devel/tests/integration_tests/mechanics/levelized_cost,11,2
+/idaholab/HERON/tree/devel/tests/integration_tests,9,3
