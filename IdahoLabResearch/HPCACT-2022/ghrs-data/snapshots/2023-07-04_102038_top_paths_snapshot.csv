@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/IdahoLabResearch/HPCACT-2022/tree/main/HPCACT_sample,10,1
+/IdahoLabResearch/HPCACT-2022,6,3
+/IdahoLabResearch/HPCACT-2022/tree/main/HPCACT_sample/anomalous,5,1
+/IdahoLabResearch/HPCACT-2022/blob/main/HPCACT_sample/anomalous/new_vid.mp4,4,1
+/IdahoLabResearch/HPCACT-2022/tree/main/HPCACT_sample/normal,4,1
+/IdahoLabResearch/HPCACT-2022/blob/main/labels_corridor.py,3,1
+/IdahoLabResearch/HPCACT-2022/tree/main/img,2,1
+/IdahoLabResearch/HPCACT-2022/tree/main,1,1
