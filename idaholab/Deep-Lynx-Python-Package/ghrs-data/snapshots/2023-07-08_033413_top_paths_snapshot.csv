@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Deep-Lynx-Python-Package,26,8
+/idaholab/Deep-Lynx-Python-Package/blob/main/docs/GraphApi.md,6,2
+/idaholab/Deep-Lynx-Python-Package/blob/main/docs/MetatypesApi.md,4,2
+/idaholab/Deep-Lynx-Python-Package/tree/main/swagger_client/models,4,1
+/idaholab/Deep-Lynx-Python-Package/blob/main/docs/CreateOrUpdateNodesRequest.md,3,1
+/idaholab/Deep-Lynx-Python-Package/blob/main/swagger_client/models/metatype.py,3,1
+/idaholab/Deep-Lynx-Python-Package/blob/main/swagger_client/models/update_metatype_request.py,3,1
+/idaholab/Deep-Lynx-Python-Package/tree/main/swagger_client/api,3,1
+/idaholab/Deep-Lynx-Python-Package/blob/main/docs/CreateMetatypeRequest.md,2,2
+/idaholab/Deep-Lynx-Python-Package/blob/main/swagger_client/api/metatypes_api.py,2,1
