@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/IX-DiscoveryTools,50,17
+/idaholab/IX-DiscoveryTools/blob/main/docs/01-Autodiscover.md,21,8
+/idaholab/IX-DiscoveryTools/tree/main/autodiscover,19,5
+/idaholab/IX-DiscoveryTools/tree/main/IX-DiscoveryTools,18,4
+/idaholab/IX-DiscoveryTools/tree/main/IX-DiscoveryTools/plugins,9,3
+/idaholab/IX-DiscoveryTools/blob/main/install.sh,9,1
+/idaholab/IX-DiscoveryTools/tree/main/docs,8,5
+/idaholab/IX-DiscoveryTools/tree/main/autodiscover/plugins,7,3
+/idaholab/IX-DiscoveryTools/blob/main/pyproject.toml,7,2
+/idaholab/IX-DiscoveryTools/blob/70f32280a07050223e0b3d28b3108396ad14276c/IX-DiscoveryTools/util/remoteconnectors.py,6,1
