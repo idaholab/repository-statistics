@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-opcua-binary,33,21
+/cisagov/icsnpp-opcua-binary/tree/main/pcaps,23,4
+/cisagov/icsnpp-opcua-binary/tree/main/scripts,17,3
+/cisagov/icsnpp-opcua-binary/compare/main...alyssaDesigns:icsnpp-opcua-binary:main,14,4
+/cisagov/icsnpp-opcua-binary/tree/main/tests,14,2
+/cisagov/icsnpp-opcua-binary/tree/main/src,11,5
+/cisagov/icsnpp-opcua-binary/blob/main/scripts/statuscode-diagnostic-types.zeek,11,1
+/cisagov/icsnpp-opcua-binary/tree/d6328d4a8cddc443e777b3ca9fbbc9137a1a3975,10,7
+/cisagov/icsnpp-opcua-binary/tree/main/tests/baseline/analyzer.basic,8,2
+/cisagov/icsnpp-opcua-binary/tree/main,6,3
