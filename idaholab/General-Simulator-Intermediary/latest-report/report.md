@@ -1,5 +1,5 @@
 % Statistics for idaholab/General-Simulator-Intermediary
-% Generated for [idaholab/General-Simulator-Intermediary](https://github.com/idaholab/General-Simulator-Intermediary) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-07-19 04:40 UTC.
+% Generated for [idaholab/General-Simulator-Intermediary](https://github.com/idaholab/General-Simulator-Intermediary) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-07-20 04:30 UTC.
 
 
 ## Views
