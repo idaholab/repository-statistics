@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/moose-language-support,7,4
+/idaholab/moose-language-support/issues,5,3
+/idaholab/moose-language-support/blob/main/grammars/moose-test-spec.json,4,2
+/idaholab/moose-language-support/blob/main/server/src/provider.ts,4,2
+/idaholab/moose-language-support/tree/main/grammars,4,2
+/idaholab/moose-language-support/blob/main/client/src/extension.ts,4,1
+/idaholab/moose-language-support/blob/main/server/src/hover.ts,4,1
+/idaholab/moose-language-support/blob/main/server/src/syntax.ts,4,1
+/idaholab/moose-language-support/tree/main/client/hit,4,1
+/idaholab/moose-language-support/issues/9,2,2
