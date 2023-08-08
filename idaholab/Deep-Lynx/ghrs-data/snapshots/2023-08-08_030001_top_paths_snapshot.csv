@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Deep-Lynx,71,45
+/idaholab/Deep-Lynx/wiki,27,18
+/idaholab/Deep-Lynx/wiki/Building-DeepLynx,16,5
+/idaholab/Deep-Lynx/wiki/Creating-an-Ontology,15,6
+/idaholab/Deep-Lynx/wiki/How-Data-Warehouses-Work,6,4
+/idaholab/Deep-Lynx/wiki/Deep-Lynx-Ecosystem,4,3
+/idaholab/Deep-Lynx/blob/master/API%20Documentation/Core.swagger_collection.yaml,4,2
+/idaholab/Deep-Lynx/wiki/Querying-Data-With-GraphQL,4,2
+/idaholab/Deep-Lynx/blob/698b1cc0b54afb45f08a0609163e64f06ee9f6a2/.github/workflows/build-deploy-dev.yml,4,1
+/idaholab/Deep-Lynx/blob/master/AdminWebApp/src/assets/lynx-white.png,4,1
