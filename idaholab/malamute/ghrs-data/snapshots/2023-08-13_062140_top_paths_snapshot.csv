@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,23,14
+/idaholab/malamute/issues,23,5
+/idaholab/malamute/discussions,14,6
+/idaholab/malamute/tree/devel/examples,11,3
+/idaholab/malamute/discussions/87,8,2
+/idaholab/malamute/tree/devel/examples/laser_welding_problems/physics,6,1
+/idaholab/malamute/tree/devel/test/tests/melt_pool_geometry,6,1
+/idaholab/malamute/pulls,5,2
+/idaholab/malamute/tree/devel/examples/laser_welding_problems/physics/no-surface-tension,5,1
+/idaholab/malamute/blob/devel/src/base/MalamuteApp.C,4,1
