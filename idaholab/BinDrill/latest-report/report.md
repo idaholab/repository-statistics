@@ -1,5 +1,5 @@
 % Statistics for idaholab/BinDrill
-% Generated for [idaholab/BinDrill](https://github.com/idaholab/BinDrill) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-08-23 02:08 UTC.
+% Generated for [idaholab/BinDrill](https://github.com/idaholab/BinDrill) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-08-24 02:06 UTC.
 
 
 ## Views
