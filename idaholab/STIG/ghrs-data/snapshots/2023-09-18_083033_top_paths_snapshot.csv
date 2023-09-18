@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/STIG,93,44
+/idaholab/STIG/blob/master/18-179_STIG_Innovation_Sheet.pdf,19,6
+/idaholab/STIG/tree/master/docs,14,5
+/idaholab/STIG/tree/master/db_setup,9,3
+/idaholab/STIG/blob/master/Dockerfile,7,3
+/idaholab/STIG/tree/master/assets,7,3
+/idaholab/STIG/tree/master/docs/source,7,3
+/idaholab/STIG/releases/tag/v2.1.0,6,6
+/idaholab/STIG/releases,6,4
+/idaholab/STIG/blob/master/docker-compose.yaml,6,3
