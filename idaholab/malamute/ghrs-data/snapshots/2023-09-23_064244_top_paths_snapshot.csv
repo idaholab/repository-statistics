@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,36,21
+/idaholab/malamute/tree/devel/examples/melt_pool_2d,32,4
+/idaholab/malamute/tree/devel/examples,26,7
+/idaholab/malamute/tree/devel/src/kernels,18,3
+/idaholab/malamute/tree/devel/src,15,3
+/idaholab/malamute/tree/devel/test,13,3
+/idaholab/malamute/issues,12,6
+/idaholab/malamute/blob/devel/examples/melt_pool_2d/melt_pool.i,10,3
+/idaholab/malamute/tree/devel/examples/laser_welding_problems,9,3
+/idaholab/malamute/tree/9b361688a6f25ad8dc8a30dfe6a5ddfd4e882e2e/test/tests/melt_pool_geometry,9,2
