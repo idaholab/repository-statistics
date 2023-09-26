@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-synchrophasor,16,9
+/cisagov/icsnpp-synchrophasor/tree/21ffb5ca73fa6403e2f7100e992efd9bda55cfbf/tests,3,1
+/cisagov/icsnpp-synchrophasor/blob/main/tests/analyzer/1PMU_TCP.zeek,2,1
+/cisagov/icsnpp-synchrophasor/blob/main/tests/btest.cfg,2,1
+/cisagov/icsnpp-synchrophasor/tree/21ffb5ca73fa6403e2f7100e992efd9bda55cfbf,2,1
+/cisagov/icsnpp-synchrophasor/tree/21ffb5ca73fa6403e2f7100e992efd9bda55cfbf/tests/traces,2,1
+/cisagov/icsnpp-synchrophasor/tree/main/tests,2,1
+/cisagov/icsnpp-synchrophasor/tree/main/tests/analyzer,2,1
+/cisagov/icsnpp-synchrophasor/commit/21ffb5ca73fa6403e2f7100e992efd9bda55cfbf,1,1
+/cisagov/icsnpp-synchrophasor/commit/39bc6fe51279fffc7f7b89113cc1b021b9562770,1,1
