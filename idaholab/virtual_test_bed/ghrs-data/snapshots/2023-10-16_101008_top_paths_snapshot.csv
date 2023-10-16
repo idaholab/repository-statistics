@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,75,36
+/idaholab/virtual_test_bed/pulls,65,16
+/idaholab/virtual_test_bed/pull/302,56,9
+/idaholab/virtual_test_bed/tree/devel/msr,33,4
+/idaholab/virtual_test_bed/pull/271,30,3
+/idaholab/virtual_test_bed/pull/292,29,4
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,27,5
+/idaholab/virtual_test_bed/tree/devel/microreactors/mrad,23,4
+/idaholab/virtual_test_bed/pull/302/files,21,6
+/idaholab/virtual_test_bed/tree/main/htgr/httr/steady_state_and_null_transient,21,2
