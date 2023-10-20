@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/hit,6,3
+/idaholab/hit/commits/main,5,1
+/idaholab/hit/pull/1,4,2
+/idaholab/hit/commit/c0ae261bf0a74dda1044114bdd393ae396633a08,4,1
+/idaholab/hit/pull/1/files,2,2
+/idaholab/hit/activity,2,1
+/idaholab/hit/blob/c0ae261bf0a74dda1044114bdd393ae396633a08/parse.cc,2,1
+/idaholab/hit/blob/c0ae261bf0a74dda1044114bdd393ae396633a08/parse.h,2,1
+/idaholab/hit/blob/main/hit.h,2,1
+/idaholab/hit/commit/100b575af08643b5e646cac8faff6c87dd1c15a7,2,1
