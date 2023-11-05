@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute/tree/devel/src,32,4
+/idaholab/malamute,11,9
+/idaholab/malamute/tree/devel/test/tests/interfacekernels/thermal_conductance,8,1
+/idaholab/malamute/tree/devel/src/kernels,7,2
+/idaholab/malamute/blob/devel/test/tests/interfacekernels/thermal_conductance/thermal_interface.i,6,1
+/idaholab/malamute/blob/devel/src/base/MalamuteApp.C,5,2
+/idaholab/malamute/tree/devel/src/interfacekernels,5,2
+/idaholab/malamute/tree/devel/examples,5,1
+/idaholab/malamute/tree/devel/test,5,1
+/idaholab/malamute/issues,4,4
