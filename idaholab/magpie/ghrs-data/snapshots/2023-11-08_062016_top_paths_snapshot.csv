@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie/blob/devel/scripts/fit_neural_net.py,14,5
+/idaholab/magpie/tree/devel/src,11,2
+/idaholab/magpie/blob/devel/scripts/generate_data.py,8,1
+/idaholab/magpie/blob/devel/src/materials/NeuralNetFreeEnergy.C,8,1
+/idaholab/magpie/tree/devel/scripts,6,3
+/idaholab/magpie/tree/devel/src/materials,6,1
+/idaholab/magpie,5,4
+/idaholab/magpie/issues/282,5,4
+/idaholab/magpie/tree/devel/src/kernels,4,2
+/idaholab/magpie/blob/devel/scripts/inspect_neural_net.py,4,1
