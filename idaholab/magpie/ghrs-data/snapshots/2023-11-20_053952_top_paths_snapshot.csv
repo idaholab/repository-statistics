@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,9,8
+/idaholab/magpie/blob/devel/scripts/fit_neural_net.py,4,3
+/idaholab/magpie/tree/devel/data,4,2
+/idaholab/magpie/tree/devel/tests,4,2
+/idaholab/magpie/blob/devel/data/fission_yield/922350_Thermal.txt,4,1
+/idaholab/magpie/fork,3,1
+/idaholab/magpie/issues/282,2,2
+/idaholab/magpie/blob/devel/data/alpha_decay/read_and_prepare.py,2,1
+/idaholab/magpie/blob/devel/tests/meshes/tests,2,1
+/idaholab/magpie/blob/devel/tests/radiation_damage/alpha_decay/alpha.i,2,1
