@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Deep-Lynx,42,28
+/idaholab/Deep-Lynx/wiki,23,14
+/idaholab/Deep-Lynx/blob/master/API%20Documentation/Core.swagger_collection.yaml,8,4
+/idaholab/Deep-Lynx/tree/master/src,7,3
+/idaholab/Deep-Lynx/tree/master/Dockerfiles/PostgreSQL,6,2
+/idaholab/Deep-Lynx/wiki/How-Data-Warehouses-Work,5,4
+/idaholab/Deep-Lynx/wiki/Querying-Data-With-GraphQL,5,4
+/idaholab/Deep-Lynx/wiki/Building-DeepLynx,5,3
+/idaholab/Deep-Lynx/tree/master/src/tests,4,2
+/idaholab/Deep-Lynx/tree/master/src/tests/data_warehouse,4,1
