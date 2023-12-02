@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,94,46
+/idaholab/virtual_test_bed/pulls,82,16
+/idaholab/virtual_test_bed/tree/devel/microreactors/drum_rotation,71,4
+/idaholab/virtual_test_bed/pull/329,58,6
+/idaholab/virtual_test_bed/tree/main/htgr/assembly,58,5
+/idaholab/virtual_test_bed/tree/devel/msr,29,8
+/idaholab/virtual_test_bed/blob/devel/microreactors/drum_rotation/neutronics_eigenvalue.i,26,2
+/idaholab/virtual_test_bed/tree/main/htgr,26,2
+/idaholab/virtual_test_bed/tree/MSRE/msr/msre/multiphysics_core_model,23,4
+/idaholab/virtual_test_bed/tree/devel/microreactors,22,7
