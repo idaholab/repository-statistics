@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-synchrophasor,8,7
+/cisagov/icsnpp-synchrophasor/blob/main/analyzer/main.zeek,8,1
+/cisagov/icsnpp-synchrophasor/tree/cfc0fb64fedd5a408ba25905f788af160452b197/analyzer,6,1
+/cisagov/icsnpp-synchrophasor/tree/dedee89c1540d72784172b559543a809ad9eb598,5,4
+/cisagov/icsnpp-synchrophasor/pulls,2,2
+/cisagov/icsnpp-synchrophasor/blob/cfc0fb64fedd5a408ba25905f788af160452b197/analyzer/synchrophasor.evt,2,1
+/cisagov/icsnpp-synchrophasor/blob/main/docs/ieee-standard-for-synchrophasor-data-transfer-for-power-systems.pdf,2,1
+/cisagov/icsnpp-synchrophasor/commits/dedee89c1540d72784172b559543a809ad9eb598,2,1
+/cisagov/icsnpp-synchrophasor/pull/6,1,1
+/cisagov/icsnpp-synchrophasor/pull/6/files,1,1
