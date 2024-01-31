@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-genisys,32,21
+/cisagov/icsnpp-genisys/blob/main/README.md,10,4
+/cisagov/icsnpp-genisys/tree/0690a940e9269bb90fa0047eb3babcade45cd1af/scripts,5,2
+/cisagov/icsnpp-genisys/tree/0690a940e9269bb90fa0047eb3babcade45cd1af,4,3
+/cisagov/icsnpp-genisys/blob/main/zkg.meta,4,2
+/cisagov/icsnpp-genisys/tree/main/cmake,3,1
+/cisagov/icsnpp-genisys/blob/main/analyzer/main.zeek,2,1
+/cisagov/icsnpp-genisys/blob/main/tests/baseline/analyzer.basic/genisys.log,2,1
+/cisagov/icsnpp-genisys/branches,2,1
+/cisagov/icsnpp-genisys/commits/main,2,1
