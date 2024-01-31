@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/DISCOverflow/tree/main/2DViewer,6,1
+/idaholab/DISCOverflow,5,3
+/idaholab/DISCOverflow/tree/main/2DViewer/server,4,1
+/idaholab/DISCOverflow/tree/main/2DViewer/client,3,1
+/idaholab/DISCOverflow/tree/main/2DViewer/server/elkgraph-web/src/main/java/de/cau/cs/kieler/elkgraph/web,3,1
+/idaholab/DISCOverflow/blob/main/2DViewer/server/elkgraph-web/src/main/java/de/cau/cs/kieler/elkgraph/web/ElkGraphDiagramGenerator.xtend,2,1
+/idaholab/DISCOverflow/blob/main/2DViewer/server/elkgraph-web/src/main/java/de/cau/cs/kieler/elkgraph/web/ElkGraphDiagramModule.xtend,2,1
+/idaholab/DISCOverflow/tree/main/2DViewer/client/src,2,1
+/idaholab/DISCOverflow/tree/main/2DViewer/server/elkgraph-web,2,1
