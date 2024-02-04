@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/IX-DiscoveryTools,12,8
+/idaholab/IX-DiscoveryTools/tree/main/IX-DiscoveryTools,11,4
+/idaholab/IX-DiscoveryTools/blob/main/autodiscover/plugins/search.py,8,4
+/idaholab/IX-DiscoveryTools/blob/main/autodiscover/plugins/cve_search.py,6,3
+/idaholab/IX-DiscoveryTools/tree/main,5,3
+/idaholab/IX-DiscoveryTools/tree/main/autodiscover,5,2
+/idaholab/IX-DiscoveryTools/tree/main/autodiscover/plugins,4,2
+/idaholab/IX-DiscoveryTools/blob/main/README.md,2,1
+/idaholab/IX-DiscoveryTools/tree/main/docs,2,1
+/idaholab/IX-DiscoveryTools/tree/main/forensix,2,1
