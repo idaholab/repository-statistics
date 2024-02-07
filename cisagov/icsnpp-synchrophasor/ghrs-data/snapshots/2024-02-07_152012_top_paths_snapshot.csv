@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-synchrophasor/blob/21900a114c3c092d78963116baeb091bf4656406/analyzer/synchrophasor.evt,16,1
+/cisagov/icsnpp-synchrophasor/blob/21900a114c3c092d78963116baeb091bf4656406/analyzer/synchrophasor.spicy,14,1
+/cisagov/icsnpp-synchrophasor,8,5
+/cisagov/icsnpp-synchrophasor/tree/dedee89c1540d72784172b559543a809ad9eb598,4,2
+/cisagov/icsnpp-synchrophasor/blob/21900a114c3c092d78963116baeb091bf4656406/analyzer/zeek_synchrophasor.spicy,4,1
+/cisagov/icsnpp-synchrophasor/tree/dedee89c1540d72784172b559543a809ad9eb598/analyzer,3,1
+/cisagov/icsnpp-synchrophasor/blob/dedee89c1540d72784172b559543a809ad9eb598/analyzer/synchrophasor.spicy,2,1
+/cisagov/icsnpp-synchrophasor/blob/dedee89c1540d72784172b559543a809ad9eb598/zkg.meta,2,1
+/cisagov/icsnpp-synchrophasor/blob/f03dcb6f95c3529a03a7e878ded2c4732f777494/analyzer/main.zeek,2,1
+/cisagov/icsnpp-synchrophasor/blob/main/CMakeLists.txt,2,1
