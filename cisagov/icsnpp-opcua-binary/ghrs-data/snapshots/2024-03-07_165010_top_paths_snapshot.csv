@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-opcua-binary,32,20
+/cisagov/icsnpp-opcua-binary/tree/main/pcaps,22,3
+/cisagov/icsnpp-opcua-binary/commits/main,12,2
+/cisagov/icsnpp-opcua-binary/blob/main/pcaps/opcua_with-gap_with-handshake.pcap,10,3
+/cisagov/icsnpp-opcua-binary/blob/main/pcaps/open62541_browse_next.pcap,4,2
+/cisagov/icsnpp-opcua-binary/blob/main/pcaps/open62541_client-server_mainloop-not-localhost-non-standard-port.pcap,4,2
+/cisagov/icsnpp-opcua-binary/tree/main,4,2
+/cisagov/icsnpp-opcua-binary/blob/main/pcaps/open62541_client-server-getEndpoints.pcap,4,1
+/cisagov/icsnpp-opcua-binary/blob/main/src/services/browse/opcua_binary-browse_analyzer.pac,4,1
+/cisagov/icsnpp-opcua-binary/tree/7f3bbc37adb29e8220975377c737af3c3f999cbb,3,3
