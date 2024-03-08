@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/raven,201,107
+/idaholab/raven/pulls,91,11
+/idaholab/raven/tree/devel/doc/sqa,50,2
+/idaholab/raven/pull/2277,47,3
+/idaholab/raven/pull/2274,42,6
+/idaholab/raven/wiki,26,20
+/idaholab/raven/pull/2212,25,5
+/idaholab/raven/pull/2268,24,3
+/idaholab/raven/blob/devel/tests/framework/CodeInterfaceTests/RELAP5/RELAP5interfaceDynamicEventTree/restrt_SS,24,1
+/idaholab/raven/tree/devel/ravenframework,22,7
