@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-modbus,86,45
+/cisagov/icsnpp-modbus/tree/main/scripts,42,11
+/cisagov/icsnpp-modbus/blob/main/scripts/main.zeek,31,9
+/cisagov/icsnpp-modbus/tree/e14d6ce931338360ab1250becc968a1d7e518911,15,12
+/cisagov/icsnpp-modbus/tree/e14d6ce931338360ab1250becc968a1d7e518911/scripts,13,3
+/cisagov/icsnpp-modbus/tree/main/tests,11,3
+/cisagov/icsnpp-modbus/tree/main,10,5
+/cisagov/icsnpp-modbus/tree/e14d6ce931338360ab1250becc968a1d7e518911/tests,10,3
+/cisagov/icsnpp-modbus/tree/e14d6ce931338360ab1250becc968a1d7e518911/tests/traces,8,3
+/cisagov/icsnpp-modbus/tree/e14d6ce931338360ab1250becc968a1d7e518911/tests/scripts,8,2
