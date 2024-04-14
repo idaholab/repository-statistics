@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute/tree/devel/examples,35,10
+/idaholab/malamute/blob/devel/examples/melt_pool_3d/reinit.i,28,2
+/idaholab/malamute,24,15
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition,16,6
+/idaholab/malamute/tree/devel/examples/laser_welding_problems,16,5
+/idaholab/malamute/tree/devel/examples/melt_pool_3d,16,3
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition/hollow_cylinder,14,3
+/idaholab/malamute/tree/devel/examples/laser_welding_problems/physics,12,4
+/idaholab/malamute/blob/devel/examples/directed_energy_deposition/hollow_cylinder/sub_app_thermal.i,11,3
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition/cylinder,10,4
