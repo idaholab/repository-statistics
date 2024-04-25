@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,7,5
+/idaholab/magpie/tree/devel/src,7,1
+/idaholab/magpie/blob/devel/src/executioners/SpectralExecutionerLinearElastic.C,4,1
+/idaholab/magpie/tree/devel/src/userobjects,4,1
+/idaholab/magpie/tree/devel/src/auxkernels,3,1
+/idaholab/magpie/tree/devel/src/problems,3,1
+/idaholab/magpie/pull/496,2,2
+/idaholab/magpie/blob/devel/examples/spectralDiffusionExplicit.i,2,1
+/idaholab/magpie/blob/devel/include/executioners/SpectralExecutionerDiffusion.h,2,1
+/idaholab/magpie/blob/devel/src/auxkernels/FFTBufferAux.C,2,1
