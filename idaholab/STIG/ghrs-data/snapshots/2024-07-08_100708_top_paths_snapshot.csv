@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/STIG,48,26
+/idaholab/STIG/pull/127,18,5
+/idaholab/STIG/pulls,17,3
+/idaholab/STIG/commits/master,8,1
+/idaholab/STIG/tree/2.0.1_doc_updates/docs,6,1
+/idaholab/STIG/pull/127/files,5,3
+/idaholab/stig,5,2
+/idaholab/STIG/tree/2.0.1_doc_updates,5,1
+/idaholab/STIG/blob/4b4e7265f6d0c8455e133cbb61a0b09c69bfd121/src/contextLayouts/killChainSchema.json,4,2
+/idaholab/STIG/blob/master/docker-compose.yaml,4,2
