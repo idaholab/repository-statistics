@@ -1,5 +1,5 @@
 % Statistics for IdahoLabResearch/TROPFE
-% Generated for [IdahoLabResearch/TROPFE](https://github.com/IdahoLabResearch/TROPFE) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-14 14:20 UTC.
+% Generated for [IdahoLabResearch/TROPFE](https://github.com/IdahoLabResearch/TROPFE) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-15 14:57 UTC.
 
 
 ## Views
@@ -82,7 +82,7 @@ Top 15 referrers: 01: `github.com`, 02: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/main/TROPFE`, 03: `/blob/main/TROPFE/AlgorithumTimeTest.m`, 04: `/tree/main`, 05: `/blob/main/TROPFE/trainer.mat`, 06: `/blob/main/TROPFE/AlgorithumTimeTest2.m`, 07: `/blob/main/TROPFE/READ%20ME.txt`, 08: `/search`, 09: `/upload/main`, 10: `/blob/main/TROPFE/TROPFE%20Formatted%20Output`, 11: `/fork`, 12: `/commit/3b901e2fc370343a8c4cead31a885ce184e7c132`, 13: `/pulls`, 14: `/blob/main/NOTICE.txt`, 15: `/upload/main/TROPFE`
+Top 15 paths: 01: `/`, 02: `/tree/main/TROPFE`, 03: `/blob/main/TROPFE/AlgorithumTimeTest.m`, 04: `/tree/main`, 05: `/blob/main/TROPFE/trainer.mat`, 06: `/blob/main/TROPFE/AlgorithumTimeTest2.m`, 07: `/blob/main/TROPFE/READ%20ME.txt`, 08: `/blob/main/TROPFE/stack.m`, 09: `/upload/main/TROPFE`, 10: `/fork`, 11: `/commit/3b901e2fc370343a8c4cead31a885ce184e7c132`, 12: `/pulls`, 13: `/blob/main/NOTICE.txt`, 14: `/blob/main/TROPFE/mod_case.m`, 15: `/blob/main/TROPFE/giveBeehavior.m`
 
 
 <script type="text/javascript">
