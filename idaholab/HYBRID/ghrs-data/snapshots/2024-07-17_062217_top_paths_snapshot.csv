@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HYBRID,36,26
+/idaholab/HYBRID/tree/devel/Models,36,8
+/idaholab/HYBRID/tree/devel/Models/NHES,22,8
+/idaholab/HYBRID/tree/2296b20dd6ad201a2f6c237801adb93a7b9b7104/Models/NHES/Nuclear,21,1
+/idaholab/HYBRID/tree/2296b20dd6ad201a2f6c237801adb93a7b9b7104/Models/NHES/Nuclear/CoreSubchannels,18,1
+/idaholab/HYBRID/tree/2296b20dd6ad201a2f6c237801adb93a7b9b7104/Models/NHES/Nuclear/ReactorKinetics,15,1
+/idaholab/HYBRID/tree/2296b20dd6ad201a2f6c237801adb93a7b9b7104/Models/NHES/Nuclear/ReactorKinetics/Examples,13,1
+/idaholab/HYBRID/tree/devel,10,4
+/idaholab/HYBRID/tree/2296b20dd6ad201a2f6c237801adb93a7b9b7104/Models/NHES,9,1
+/idaholab/HYBRID/tree/2296b20dd6ad201a2f6c237801adb93a7b9b7104/Models/NHES/Nuclear/PowerProfiles,9,1
