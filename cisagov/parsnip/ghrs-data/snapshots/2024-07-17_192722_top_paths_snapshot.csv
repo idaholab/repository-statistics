@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,49,39
+/cisagov/parsnip/blob/main/docs/parsnip.md,47,10
+/cisagov/parsnip/blob/main/docs/syntax.md,16,3
+/cisagov/parsnip/tree/main,10,4
+/cisagov/parsnip/tree/main/docs,8,3
+/cisagov/parsnip/tree/main/backend,4,2
+/cisagov/parsnip/tree/main/docs/traces,4,2
+/cisagov/parsnip/tree/main/frontend,4,2
+/cisagov/parsnip/blob/main/NOTICE.txt,4,1
+/cisagov/parsnip/compare/main...nagilum2007:parsnip:documentation_update,2,1
