@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,79,42
+/idaholab/virtual_test_bed/tree/devel/sfr/single_assembly,73,2
+/idaholab/virtual_test_bed/tree/devel/htgr,39,9
+/idaholab/virtual_test_bed/tree/devel/microreactors,33,10
+/idaholab/virtual_test_bed/tree/devel/microreactors/s8er,33,2
+/idaholab/virtual_test_bed/tree/devel/msr,31,8
+/idaholab/virtual_test_bed/pull/396,30,2
+/idaholab/virtual_test_bed/pulls,28,9
+/idaholab/virtual_test_bed/blob/devel/sfr/single_assembly/bison_thermal_only.i,24,2
+/idaholab/virtual_test_bed/blob/devel/pbfhr/gFHR/steady/gFHR_griffin_cr_ss.i,22,3
