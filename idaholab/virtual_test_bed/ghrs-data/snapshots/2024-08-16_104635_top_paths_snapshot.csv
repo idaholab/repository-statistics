@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,104,45
+/idaholab/virtual_test_bed/pulls,69,12
+/idaholab/virtual_test_bed/tree/devel/msr,56,11
+/idaholab/virtual_test_bed/tree/devel/htgr,56,9
+/idaholab/virtual_test_bed/pull/406,34,3
+/idaholab/virtual_test_bed/tree/main/sfr/subchannel/ornl_19_pin,32,1
+/idaholab/virtual_test_bed/tree/devel/microreactors,27,7
+/idaholab/virtual_test_bed/tree/devel/msr/msre,27,6
+/idaholab/virtual_test_bed/blob/devel/pbfhr/gFHR/steady/gFHR_griffin_cr_ss.i,26,6
+/idaholab/virtual_test_bed/tree/main/htgr/httr/steady_state_and_null_transient,25,6
