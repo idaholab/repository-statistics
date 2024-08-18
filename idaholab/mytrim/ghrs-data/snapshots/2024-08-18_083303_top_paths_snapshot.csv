@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/mytrim/blob/master/tests/json/xe_on_uo2_scale10.json,8,1
+/idaholab/mytrim,4,4
+/idaholab/mytrim/blob/master/tests/json/cu_on_cu.json,4,1
+/idaholab/mytrim/blob/master/tests/json/xe_on_uo2.json,4,1
+/idaholab/mytrim/commit/b3900839eb2dbdb8f8fba730c4def88fff141aab,2,2
+/idaholab/mytrim/blob/master/tests/json/README.md,2,1
+/idaholab/mytrim/blob/master/trim.C,2,1
+/idaholab/mytrim/blob/master/trim.h,2,1
+/idaholab/mytrim/issues/33,1,1
