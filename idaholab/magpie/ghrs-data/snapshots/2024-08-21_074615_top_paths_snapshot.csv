@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie/blob/devel/Makefile,14,4
+/idaholab/magpie/tree/devel/contrib,11,2
+/idaholab/magpie/blob/devel/magpie.mk,8,3
+/idaholab/magpie/blob/devel/contrib/fftw3.mk,8,2
+/idaholab/magpie/tree/devel/include,7,1
+/idaholab/magpie,5,4
+/idaholab/magpie/tree/devel/include/kernels,3,1
+/idaholab/magpie/tree/devel/include/variables,3,1
+/idaholab/magpie/blob/devel/examples/fft.i,2,1
+/idaholab/magpie/blob/devel/examples/spectralLinearElastic2Materials.i,2,1
