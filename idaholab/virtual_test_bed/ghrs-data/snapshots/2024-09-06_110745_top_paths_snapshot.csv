@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,86,54
+/idaholab/virtual_test_bed/tree/devel/microreactors,53,10
+/idaholab/virtual_test_bed/tree/devel/htgr,38,13
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY,32,10
+/idaholab/virtual_test_bed/tree/devel/msr,31,7
+/idaholab/virtual_test_bed/blob/devel/microreactors/s8er/serpent/SNAP8ER_C3_2D_NODRUMS_WET_1_1.i,24,3
+/idaholab/virtual_test_bed/blob/devel/msr/msre/steady_state/msre_loop_1d.i,22,5
+/idaholab/virtual_test_bed/issues,16,5
+/idaholab/virtual_test_bed/pulls,15,5
+/idaholab/virtual_test_bed/tree/devel/msr/msre/steady_state,15,4
