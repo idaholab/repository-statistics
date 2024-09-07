@@ -1,5 +1,5 @@
 % Statistics for idaholab/DISCOverflow
-% Generated for [idaholab/DISCOverflow](https://github.com/idaholab/DISCOverflow) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-06 04:33 UTC.
+% Generated for [idaholab/DISCOverflow](https://github.com/idaholab/DISCOverflow) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-07 04:27 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `statics.teams.cdn.office.
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `discoverflow`, 02: `DISCOverflow`, 03: `DISCOverflow/pulls`, 04: `DISCOverflow/forks`, 05: `DISCOverflow/stargazers`, 06: `DISCOverflow/blob/main/README.md`, 07: `DISCOverflow/blob/main/NOTICE.txt`, 08: `DISCOverflow/releases`, 09: `DISCOverflow/issues`, 10: `DISCOverflow/blob/main/LICENSE.txt`, 11: `DISCOverflow/blob/2ae5363370974fb660f72a4c85f0a15d13811468/2DViewer/server/elkgraph-web/src/main/java/de/cau/cs/kieler/elkgraph/web/ServerLauncher.xtend`, 12: `DISCOverflow/tree/main/2DViewer/client/src`, 13: `DISCOverflow/blob/3426cbc4e7f005b0f4e3588784ef05ff58343784/2DViewer/client/src/main.ts`, 14: `DISCOverflow/blob/3426cbc4e7f005b0f4e3588784ef05ff58343784/2DViewer/client/src/elk-webworker.ts`, 15: `DISCOverflow/blob/main/3DViewer/getData.js`
+Top 15 paths: 01: `discoverflow`, 02: `DISCOverflow`, 03: `DISCOverflow/pulls`, 04: `DISCOverflow/forks`, 05: `DISCOverflow/stargazers`, 06: `DISCOverflow/blob/main/README.md`, 07: `DISCOverflow/blob/main/NOTICE.txt`, 08: `DISCOverflow/releases`, 09: `DISCOverflow/issues`, 10: `DISCOverflow/blob/main/LICENSE.txt`, 11: `DISCOverflow/tree/main/2DViewer/server/elkgraph-web/src/main/java/de/cau/cs/kieler/elkgraph/web`, 12: `DISCOverflow/blob/main/.gitignore`, 13: `DISCOverflow/blob/main/LICENSE`, 14: `DISCOverflow/blob/3426cbc4e7f005b0f4e3588784ef05ff58343784/2DViewer/client/src/main.ts`, 15: `DISCOverflow/blob/main/2DViewer/client/package-lock.json`
 
 
 <script type="text/javascript">
