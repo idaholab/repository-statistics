@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,102,76
+/cisagov/parsnip/blob/main/docs/parsnip.md,37,13
+/cisagov/parsnip/tree/main/frontend,7,3
+/cisagov/parsnip/issues/22,6,3
+/cisagov/parsnip/tree/main/docs,6,2
+/cisagov/parsnip/pulls,4,4
+/cisagov/parsnip/issues,4,3
+/cisagov/parsnip/blob/main/docs/syntax.md,4,2
+/cisagov/parsnip/tree/main/backend,4,2
+/cisagov/parsnip/blob/main/backend/bitfields.py,4,1
