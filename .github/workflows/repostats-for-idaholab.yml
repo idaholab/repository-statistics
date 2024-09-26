@@ -59,6 +59,7 @@ jobs:
           - idaholab/malamute
           - idaholab/Malcolm
           - idaholab/mastodon
+          - idaholab/MontePy
           - idaholab/moose
           - idaholab/moose-language-support
           - idaholab/moosetools
