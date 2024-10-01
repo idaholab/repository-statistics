@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IdahoLabResearch/5GAD,164,92
+/IdahoLabResearch/5GAD/tree/main/Attacks,92,23
+/IdahoLabResearch/5GAD/tree/main/Normal-1UE,71,16
+/IdahoLabResearch/5GAD/blob/main/Data_prep.ipynb,52,17
+/IdahoLabResearch/5GAD/tree/main/Attacks/AMFLookingForUDM,36,10
+/IdahoLabResearch/5GAD/blob/main/Attacks/randomDataDump/upfgtpcap_randomDataDump_00001_20220609154733.pcapng,30,14
+/IdahoLabResearch/5GAD/blob/main/Normal-1UE/allcap_00001_20220606102554.pcapng,25,8
+/IdahoLabResearch/5GAD/tree/main/Attacks/CrashNRF,21,6
+/IdahoLabResearch/5GAD/blob/main/Data_prep.py,17,9
+/IdahoLabResearch/5GAD/blob/main/README.md,16,7
