@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,70,41
+/idaholab/virtual_test_bed/pulls,25,8
+/idaholab/virtual_test_bed/pull/446,22,6
+/idaholab/virtual_test_bed/issues,20,7
+/idaholab/virtual_test_bed/tree/devel/msr,17,8
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,15,6
+/idaholab/virtual_test_bed/tree/devel/sfr/abtr_xsgen_workflow,15,6
+/idaholab/virtual_test_bed/tree/devel/microreactors,15,4
+/idaholab/virtual_test_bed/tree/devel/sfr,14,6
+/idaholab/virtual_test_bed/tree/devel,12,5
