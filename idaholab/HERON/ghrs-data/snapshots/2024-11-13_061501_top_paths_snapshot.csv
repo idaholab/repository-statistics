@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HERON,69,31
+/idaholab/HERON/blob/devel/tests/integration_tests/XML_check/optimization_type_BO_mean_NPV/heron_input.xml,14,1
+/idaholab/HERON/releases/tag/FIRSTAdvancedWorkshop,12,8
+/idaholab/HERON/blob/devel/tests/integration_tests/XML_check/optimization_type_mean_LC/heron_input__opt_LC_Capex.xml,12,1
+/idaholab/HERON/issues,9,4
+/idaholab/HERON/blob/devel/tests/integration_tests/XML_check/optimization_type_mean_NPV/heron_input.xml,8,1
+/idaholab/HERON/pulls,7,4
+/idaholab/HERON/wiki,5,5
+/idaholab/HERON/wiki/Troubleshooting,5,3
+/idaholab/HERON/issues/388,5,2
