@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,32,22
+/idaholab/malamute/tree/devel,17,4
+/idaholab/malamute/tree/devel/src,12,2
+/idaholab/malamute/tree/devel/src/materials,11,1
+/idaholab/malamute/tree/devel/src/kernels,10,1
+/idaholab/malamute/tree/devel/include/kernels,7,1
+/idaholab/malamute/blob/devel/src/materials/INSMeltPoolMaterial.C,6,1
+/idaholab/malamute/tree/devel/examples,5,4
+/idaholab/malamute/tree/devel/include,5,1
+/idaholab/malamute/issues,4,3
