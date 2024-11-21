@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,20,12
+/idaholab/mastodon/projects,3,1
+/idaholab/mastodon/issues,2,2
+/idaholab/mastodon/issues/414,2,2
+/idaholab/mastodon/tree/devel/examples,2,2
+/idaholab/mastodon/tree/devel/test,2,2
+/idaholab/mastodon/tree/devel/test/tests,2,2
+/idaholab/mastodon/blob/devel/examples/ex07/big_model.i,2,1
+/idaholab/mastodon/blob/devel/test/tests/images/three_layer.i,2,1
+/idaholab/mastodon/blob/devel/test/tests/images/three_layer.png,2,1
