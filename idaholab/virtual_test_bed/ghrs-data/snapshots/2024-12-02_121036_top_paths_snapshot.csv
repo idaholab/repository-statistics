@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,50,28
+/idaholab/virtual_test_bed/blob/devel/microreactors/hpmr_h2/steady/neutronics_eigenvalue.i,13,1
+/idaholab/virtual_test_bed/blob/devel/msr/lotus/steady_state/run_ns_initial.i,11,2
+/idaholab/virtual_test_bed/blob/devel/msr/msre/multiphysics_core_model/steady_state/neu.i,10,2
+/idaholab/virtual_test_bed/tree/devel/microreactors,9,7
+/idaholab/virtual_test_bed/tree/devel/msr,9,7
+/idaholab/virtual_test_bed/tree/devel,9,6
+/idaholab/virtual_test_bed/blob/devel/msr/lotus/steady_state/run_neutronics_9_group.i,9,2
+/idaholab/virtual_test_bed/blob/devel/msr/lotus/steady_state/run_prec_transport.i,9,2
+/idaholab/virtual_test_bed/tree/devel/msr/msfr/core_cfd,8,3
