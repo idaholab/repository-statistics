@@ -13,6 +13,9 @@ jobs:
       matrix:
         statsRepo:
           - idaholab/advcubit
+          - idaholab/air
+          - idaholab/airflow-provider-deeplynx
+          - idaholab/AMBER
           - idaholab/atDisco
           - idaholab/ATIS
           - idaholab/BayCal
@@ -21,53 +24,89 @@ jobs:
           - idaholab/blackbear
           - idaholab/Caldera_Grid
           - idaholab/Caldera_ICM
+          - idaholab/cape2stix
+          - idaholab/CAPE2STIXDATA
+          - idaholab/carbon_dioxide
+          - idaholab/CIEMAT
           - idaholab/civet
           - idaholab/civet_example_recipes
+          - idaholab/DACKAR
           - idaholab/DaRT
           - idaholab/Deep-Lynx
           - idaholab/Deep-Lynx-Data-Historian
           - idaholab/Deep-Lynx-JS-SDK
           - idaholab/Deep-Lynx-Machine-Learning
+          - idaholab/Deep-Lynx-MATLAB
           - idaholab/Deep-Lynx-MOOSE
           - idaholab/Deep-Lynx-Python-Package
+          - idaholab/Deep-Lynx-Rust_SDK
+          - idaholab/Deep-Lynx-Supervisory-Control
+          - idaholab/Deep-Lynx-Timeseries-Loader
           - idaholab/Deep-Lynx-UNC
           - idaholab/DIAMOND
           - idaholab/DISCOverflow
+          - idaholab/DLDAGS
+          - idaholab/DOVE
           - idaholab/EMRALD
           - idaholab/EMV
           - idaholab/Enhanced_STIX_Elevator
           - idaholab/falcon
+          - idaholab/fenix
           - idaholab/FORCE
           - idaholab/GEM
           - idaholab/General-Simulator-Intermediary
           - idaholab/GranularFlowModels
+          - idaholab/helium
           - idaholab/HERON
           - idaholab/hit
+          - idaholab/HPC_OOD
+          - idaholab/HPC_OOD_Chat
           - idaholab/HYBRID
           - idaholab/Hydro_Hybrids
-          - idaholab/ICSNPP
           - idaholab/IDEAS
+          - idaholab/Ingest
           - idaholab/isopod
           - idaholab/IX-DiscoveryTools
           - idaholab/Jester
+          - idaholab/kugelpy
           - idaholab/labrat
           - idaholab/large_media
           - idaholab/LIGGGHTS-INL
           - idaholab/Location-Generalizer
           - idaholab/LOGOS
+          - idaholab/macaw
           - idaholab/magpie
           - idaholab/malamute
           - idaholab/Malcolm
+          - idaholab/Malcolm-Helm
+          - idaholab/Malcolm-Test
           - idaholab/mastodon
+          - idaholab/MontePy
           - idaholab/moose
           - idaholab/moose-language-support
           - idaholab/moosetools
+          - idaholab/MURMUR
           - idaholab/mytrim
           - idaholab/ncrc-client
-          - idaholab/PRISM
+          - idaholab/NIHPA
+          - idaholab/nitrogen
+          - idaholab/nodeman
+          - idaholab/NPD_Hydro
+          - idaholab/ORCA
+          - idaholab/p6-deeplynx-adapter
+          - idaholab/PANDA
+          - idaholab/POEM
+          - idaholab/polyglot
+          - idaholab/polyglot-libc
+          - idaholab/potassium
           - idaholab/raven
+          - idaholab/repository-statistics
+          - idaholab/ResDEEDS
+          - idaholab/Saleae_Output_Parser
+          - idaholab/sodium
           - idaholab/SPEMMCRA
           - idaholab/SPPARKS
+          - idaholab/SPRITE
           - idaholab/SR2ML
           - idaholab/STAR
           - idaholab/STEM
@@ -76,27 +115,38 @@ jobs:
           - idaholab/stork
           - idaholab/STOTS
           - idaholab/TEAL
+          - idaholab/thermal_to_fusion_converter
           - idaholab/TMAP8
           - idaholab/VDEA
           - idaholab/virtual_test_bed
           - idaholab/WiiBin
           - idaholab/XFEMParaviewPlugin
           - IdahoLabResearch/5GAD
+          - IdahoLabResearch/AcCCS
+          - IdahoLabResearch/AquaPV
           - IdahoLabResearch/BIhNNs
           - IdahoLabResearch/Buggy-Program-Program
           - IdahoLabResearch/CDB_Analysis_Program
+          - IdahoLabResearch/CH4ESE
           - IdahoLabResearch/CIACS
           - IdahoLabResearch/CMAT
           - IdahoLabResearch/CoCuNi
+          - IdahoLabResearch/Digital-Twin-Analytics-SEARCH
           - IdahoLabResearch/DREEM
+          - IdahoLabResearch/EVIRS
+          - IdahoLabResearch/Faraday
+          - IdahoLabResearch/Field2Farm
           - IdahoLabResearch/HEA_Code
           - IdahoLabResearch/HFVT
+          - IdahoLabResearch/HPC_Natural_Language_Understanding_-NLU-_Dataset
           - IdahoLabResearch/HPCACT-2022
           - IdahoLabResearch/HydroGenerate
           - IdahoLabResearch/Hydropower_Unit_Models
           - IdahoLabResearch/HyPAT
           - IdahoLabResearch/INLIDD
           - IdahoLabResearch/LISA
+          - IdahoLabResearch/MAGNET-Heat-Pipe-Data
+          - IdahoLabResearch/Multiplayer_Engineering
           - IdahoLabResearch/OMDD
           - IdahoLabResearch/PowDDeR-Python
           - IdahoLabResearch/PyEmission
@@ -106,21 +156,26 @@ jobs:
           - IdahoLabResearch/tapsap
           - IdahoLabResearch/TAPsolver
           - IdahoLabResearch/TROPFE
+          - IdahoLabResearch/Type_5_Wind_Turbine_Drivetrain
           - IdahoLabResearch/WOODCOM
           - IdahoLabUnsupported/ADREM
+          - IdahoLabUnsupported/agn201_Digital_Twin
           - IdahoLabUnsupported/AspenPlus
           - IdahoLabUnsupported/ATTAR
           - IdahoLabUnsupported/CLATesting
           - IdahoLabUnsupported/DAIRIEES
-          - IdahoLabUnsupported/FakeADFS
+          - IdahoLabUnsupported/Geoprocessor
           - IdahoLabUnsupported/IGCAPT
           - IdahoLabUnsupported/IGCAPT_XMLConverter
+          - IdahoLabUnsupported/IIPG_Crack
           - IdahoLabUnsupported/inl-azure-devops-tasks
+          - IdahoLabUnsupported/irrmon
           - IdahoLabUnsupported/LEAF
           - IdahoLabUnsupported/LinuxSA
           - IdahoLabUnsupported/LRS_SORT
           - IdahoLabUnsupported/PowDDeR
           - IdahoLabUnsupported/WEST
+          - IdahoLabUnsupported/Wetlands_Geoprocessor
       fail-fast: false
       max-parallel: 1
     steps:
@@ -144,12 +199,15 @@ jobs:
           - cisagov/icsnpp-dnp3
           - cisagov/icsnpp-enip
           - cisagov/icsnpp-ethercat
+          - cisagov/icsnpp-ge-srtp
           - cisagov/icsnpp-genisys
+          - cisagov/icsnpp-hart-ip
           - cisagov/icsnpp-modbus
           - cisagov/icsnpp-opcua-binary
           - cisagov/icsnpp-profinet-io-cm
           - cisagov/icsnpp-s7comm
           - cisagov/icsnpp-synchrophasor
+          - cisagov/cset
           - cisagov/Malcolm
           - cisagov/network-architecture-verification-and-validation
           - cisagov/parsnip
