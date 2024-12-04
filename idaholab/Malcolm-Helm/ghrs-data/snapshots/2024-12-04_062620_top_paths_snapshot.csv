@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm-Helm,11,5
+/idaholab/Malcolm-Helm/pull/35,8,2
+/idaholab/Malcolm-Helm/pull/35/files,2,2
+/idaholab/Malcolm-Helm/blob/main/vagrant_dependencies/test-gateway.yml,1,1
+/idaholab/Malcolm-Helm/compare/fix-kafka-enabled-check,1,1
+/idaholab/Malcolm-Helm/tree/main/chart,1,1
+/idaholab/Malcolm-Helm/tree/main/chart/templates,1,1
+/idaholab/Malcolm-Helm/tree/main/scripts,1,1
+/idaholab/Malcolm-Helm/tree/main/vagrant_dependencies,1,1
