@@ -1,5 +1,5 @@
 % Statistics for idaholab/thermal_to_fusion_converter
-% Generated for [idaholab/thermal_to_fusion_converter](https://github.com/idaholab/thermal_to_fusion_converter) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-04 12:21 UTC.
+% Generated for [idaholab/thermal_to_fusion_converter](https://github.com/idaholab/thermal_to_fusion_converter) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-06 05:28 UTC.
 
 
 ## Views
