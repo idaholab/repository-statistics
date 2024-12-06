@@ -1,5 +1,5 @@
 % Statistics for idaholab/potassium
-% Generated for [idaholab/potassium](https://github.com/idaholab/potassium) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-04 09:38 UTC.
+% Generated for [idaholab/potassium](https://github.com/idaholab/potassium) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-06 02:48 UTC.
 
 
 ## Views
