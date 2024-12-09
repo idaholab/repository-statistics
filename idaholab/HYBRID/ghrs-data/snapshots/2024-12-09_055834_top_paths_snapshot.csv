@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HYBRID,34,29
+/idaholab/HYBRID/tree/devel/Models,4,3
+/idaholab/HYBRID/tree/devel/Models/NHES,3,2
+/idaholab/HYBRID/blob/37bba7d3c3a0d0643f247b05db443fec301003a6/Models/NHES/Nuclear/ReactorKinetics/PointKinetics.mo,3,1
+/idaholab/HYBRID/pulls,3,1
+/idaholab/HYBRID/tree/devel,2,2
+/idaholab/HYBRID/wiki,2,2
+/idaholab/HYBRID/blob/devel/LICENSE,2,1
+/idaholab/HYBRID/blob/devel/Models/NHES/Media/Solids/UZr20/package.mo,2,1
+/idaholab/HYBRID/tree/devel/Models/NHES/Systems/PrimaryHeatSystem/SFR,2,1
