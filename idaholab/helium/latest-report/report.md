@@ -1,5 +1,5 @@
 % Statistics for idaholab/helium
-% Generated for [idaholab/helium](https://github.com/idaholab/helium) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-09 05:12 UTC.
+% Generated for [idaholab/helium](https://github.com/idaholab/helium) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-10 22:23 UTC.
 
 
 ## Views
