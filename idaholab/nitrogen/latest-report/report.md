@@ -1,5 +1,5 @@
 % Statistics for idaholab/nitrogen
-% Generated for [idaholab/nitrogen](https://github.com/idaholab/nitrogen) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-09 10:22 UTC.
+% Generated for [idaholab/nitrogen](https://github.com/idaholab/nitrogen) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-11 04:20 UTC.
 
 
 ## Views
