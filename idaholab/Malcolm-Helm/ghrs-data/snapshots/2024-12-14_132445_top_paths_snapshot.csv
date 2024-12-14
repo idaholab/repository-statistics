@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm-Helm,16,10
+/idaholab/Malcolm-Helm/pull/35,8,1
+/idaholab/Malcolm-Helm/tree/main/chart,7,4
+/idaholab/Malcolm-Helm/pull/36,7,2
+/idaholab/Malcolm-Helm/tree/main/chart/templates,5,4
+/idaholab/Malcolm-Helm/blob/main/chart/values.yaml,3,3
+/idaholab/Malcolm-Helm/blob/main/chart/templates/99-ingress-nginx.yml,3,1
+/idaholab/Malcolm-Helm/blob/main/chart/templates/11-suricata.yml,2,2
+/idaholab/Malcolm-Helm/blob/ef18d22ef918c98e84d9aaf3875b1bbbf107c72f/vagrant_dependencies/Corefile.yaml,2,1
+/idaholab/Malcolm-Helm/blob/main/chart/Chart.yaml,1,1
