@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-ge-srtp,8,8
+/cisagov/icsnpp-ge-srtp/tree/8a3355da2072348b959152a74e1b7f9f59b9dbec,6,5
+/cisagov/icsnpp-ge-srtp/blob/develop/analyzer/ge_srtp.spicy,6,2
+/cisagov/icsnpp-ge-srtp/blob/develop/scripts/main.zeek,5,1
+/cisagov/icsnpp-ge-srtp/tree/develop/reference-docs,5,1
+/cisagov/icsnpp-ge-srtp/tree/develop/scripts,4,2
+/cisagov/icsnpp-ge-srtp/blob/develop/scripts/ge_srtp_processing.zeek,4,1
+/cisagov/icsnpp-ge-srtp/blob/develop/analyzer/ge_srtp_enums.spicy,3,2
+/cisagov/icsnpp-ge-srtp/blob/develop/reference-docs/Leveraging%20the%20SRTP%20Protocol%20for%20Over-the-Network%20Memory%20Acquisition%20of%20a%20GE%20Fanuc%20Series%2090-30.pdf,3,2
+/cisagov/icsnpp-ge-srtp/blob/develop/scripts/ge_srtp_types.zeek,3,2
