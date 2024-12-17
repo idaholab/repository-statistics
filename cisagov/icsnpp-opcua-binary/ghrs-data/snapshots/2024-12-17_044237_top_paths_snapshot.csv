@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-opcua-binary,23,17
+/cisagov/icsnpp-opcua-binary/blob/41722f7f541cab1c66c9f47d09c75e3e2412f36f/src/types/variants/opcua_binary-variant_types_analyzer.pac,14,1
+/cisagov/icsnpp-opcua-binary/tree/main/src,11,5
+/cisagov/icsnpp-opcua-binary/commits/main,9,4
+/cisagov/icsnpp-opcua-binary/blob/41722f7f541cab1c66c9f47d09c75e3e2412f36f/src/services/write/opcua_binary-write_analyzer.pac,9,1
+/cisagov/icsnpp-opcua-binary/blob/41722f7f541cab1c66c9f47d09c75e3e2412f36f/src/req-res-header/opcua_binary-req_res_header.pac,7,2
+/cisagov/icsnpp-opcua-binary/blob/41722f7f541cab1c66c9f47d09c75e3e2412f36f/src/types/filters/opcua_binary-filter_types_analyzer.pac,7,1
+/cisagov/icsnpp-opcua-binary/blob/41722f7f541cab1c66c9f47d09c75e3e2412f36f/src/types/nodeid/opcua_binary-nodeid_types_analyzer.pac,7,1
+/cisagov/icsnpp-opcua-binary/blob/41722f7f541cab1c66c9f47d09c75e3e2412f36f/src/req-res-header/opcua_binary-req_res_header_analyzer.pac,6,2
+/cisagov/icsnpp-opcua-binary/blob/41722f7f541cab1c66c9f47d09c75e3e2412f36f/scripts/variant-types.zeek,6,1
