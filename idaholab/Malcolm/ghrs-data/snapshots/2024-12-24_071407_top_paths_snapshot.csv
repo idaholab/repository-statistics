@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,203,145
+/idaholab/Malcolm/releases/tag/v24.11.0,86,44
+/idaholab/Malcolm/releases/tag/v24.12.0,47,24
+/idaholab/Malcolm/releases,45,31
+/idaholab/Malcolm/blob/main/docs/README.md,27,21
+/idaholab/Malcolm/issues,21,10
+/idaholab/Malcolm/blob/23835991048a23cbb26935861204b90874b5b30a/scripts/release_cleaver.ps1,16,9
+/idaholab/Malcolm/blob/main/scripts/release_cleaver.sh,14,10
+/idaholab/Malcolm/blob/main/docs/ubuntu-install-example.md,13,6
+/idaholab/Malcolm/blob/main/docs/malcolm-hedgehog-e2e-iso-install.md,12,1
