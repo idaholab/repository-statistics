@@ -1,5 +1,5 @@
 % Statistics for idaholab/POEM
-% Generated for [idaholab/POEM](https://github.com/idaholab/POEM) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-22 22:42 UTC.
+% Generated for [idaholab/POEM](https://github.com/idaholab/POEM) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-24 10:01 UTC.
 
 
 ## Views
