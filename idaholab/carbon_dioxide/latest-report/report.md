@@ -1,5 +1,5 @@
 % Statistics for idaholab/carbon_dioxide
-% Generated for [idaholab/carbon_dioxide](https://github.com/idaholab/carbon_dioxide) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-26 21:06 UTC.
+% Generated for [idaholab/carbon_dioxide](https://github.com/idaholab/carbon_dioxide) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-28 08:50 UTC.
 
 
 ## Views
