@@ -1,5 +1,5 @@
 % Statistics for idaholab/CAPE2STIXDATA
-% Generated for [idaholab/CAPE2STIXDATA](https://github.com/idaholab/CAPE2STIXDATA) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-01-04 17:15 UTC.
+% Generated for [idaholab/CAPE2STIXDATA](https://github.com/idaholab/CAPE2STIXDATA) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-01-06 04:12 UTC.
 
 
 ## Views
