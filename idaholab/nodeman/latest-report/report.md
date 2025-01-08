@@ -1,5 +1,5 @@
 % Statistics for idaholab/nodeman
-% Generated for [idaholab/nodeman](https://github.com/idaholab/nodeman) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-01-06 14:58 UTC.
+% Generated for [idaholab/nodeman](https://github.com/idaholab/nodeman) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-01-08 03:55 UTC.
 
 
 ## Views
