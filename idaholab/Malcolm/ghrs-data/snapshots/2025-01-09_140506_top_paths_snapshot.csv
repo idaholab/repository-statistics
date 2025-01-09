@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,151,108
+/idaholab/Malcolm/releases/tag/v24.12.0,104,58
+/idaholab/Malcolm/releases,49,27
+/idaholab/Malcolm/blob/main/docs/README.md,22,18
+/idaholab/Malcolm/tree/main,22,8
+/idaholab/Malcolm/tree/main/malcolm-iso,14,7
+/idaholab/Malcolm/blob/main/scripts/release_cleaver.ps1,12,9
+/idaholab/Malcolm/tree/d8dabe09bc2af2ebf8e50fb38dd4e6780b4d0a79,12,8
+/idaholab/Malcolm/tree/main/Dockerfiles,11,7
+/idaholab/Malcolm/blob/d8dabe09bc2af2ebf8e50fb38dd4e6780b4d0a79/scripts/release_cleaver.ps1,10,6
