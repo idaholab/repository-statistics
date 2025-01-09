@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,52,32
+/idaholab/virtual_test_bed/pulls,17,8
+/idaholab/virtual_test_bed/pull/506,16,3
+/idaholab/virtual_test_bed/tree/devel/microreactors,8,5
+/idaholab/virtual_test_bed/blob/devel/doc/content/fusion/mcf/divertor_monoblock/index.md,7,3
+/idaholab/virtual_test_bed/tree/devel/microreactors/mrad,7,2
+/idaholab/virtual_test_bed/tree/devel/doc/content,6,4
+/idaholab/virtual_test_bed/tree/devel/msr,6,4
+/idaholab/virtual_test_bed/issues,6,3
+/idaholab/virtual_test_bed/blob/devel/microreactors/hpmr_h2/steady/thermal_ss.i,6,1
