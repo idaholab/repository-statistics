@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,28,14
+/cisagov/parsnip/blob/main/docs/parsnip.md,7,5
+/cisagov/parsnip/discussions/34,5,4
+/cisagov/parsnip/commits/main,3,2
+/cisagov/parsnip/tree/main/docs,3,2
+/cisagov/parsnip/discussions,2,2
+/cisagov/parsnip/pulls,2,2
+/cisagov/parsnip/tree/main,2,2
+/cisagov/parsnip/blob/eb7442018d8cd622fe409360660c11f8ea00ad5a/backend/json_processing.py,2,1
+/cisagov/parsnip/commit/eb7442018d8cd622fe409360660c11f8ea00ad5a,2,1
