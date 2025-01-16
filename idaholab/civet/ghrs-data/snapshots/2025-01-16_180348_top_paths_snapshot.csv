@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,14,10
+/idaholab/civet/pull/601,8,2
+/idaholab/civet/pull/601/files,5,2
+/idaholab/civet/tree/master/client,2,1
+/idaholab/civet/blob/master/ci/tests/SeleniumTester.py,1,1
+/idaholab/civet/blob/master/client/inl_client.py,1,1
+/idaholab/civet/commit/045c6c8b8a5d38b58229a3793d9535269b97ea33,1,1
+/idaholab/civet/commits/master/ci/tests/SeleniumTester.py,1,1
+/idaholab/civet/compare/master...milljm:civet:push-statuses,1,1
+/idaholab/civet/pull/600,1,1
