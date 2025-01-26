@@ -1,5 +1,5 @@
 % Statistics for idaholab/MURMUR
-% Generated for [idaholab/MURMUR](https://github.com/idaholab/MURMUR) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-01-24 22:30 UTC.
+% Generated for [idaholab/MURMUR](https://github.com/idaholab/MURMUR) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-01-26 10:47 UTC.
 
 
 ## Views
