@@ -1,5 +1,5 @@
 % Statistics for idaholab/AMBER
-% Generated for [idaholab/AMBER](https://github.com/idaholab/AMBER) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-01-25 23:30 UTC.
+% Generated for [idaholab/AMBER](https://github.com/idaholab/AMBER) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-01-27 11:06 UTC.
 
 
 ## Views
