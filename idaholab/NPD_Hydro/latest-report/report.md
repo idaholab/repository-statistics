@@ -1,5 +1,5 @@
 % Statistics for idaholab/NPD_Hydro
-% Generated for [idaholab/NPD_Hydro](https://github.com/idaholab/NPD_Hydro) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-02-01 17:12 UTC.
+% Generated for [idaholab/NPD_Hydro](https://github.com/idaholab/NPD_Hydro) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-02-03 05:40 UTC.
 
 
 ## Views
