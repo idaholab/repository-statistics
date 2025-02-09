@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/ResDEEDS,20,7
+/idaholab/resdeeds,18,2
+/idaholab/ResDEEDS/tree/main/web,4,1
+/idaholab/ResDEEDS/blob/main/web/etc/nginx/conf.d/default.conf,3,1
+/idaholab/ResDEEDS/actions,2,1
+/idaholab/ResDEEDS/tree/main/web/etc/nginx/conf.d,2,1
+/idaholab/ResDEEDS/actions/runs/13059866576,1,1
+/idaholab/ResDEEDS/actions/runs/13059866576/job/36439925903,1,1
+/idaholab/ResDEEDS/commits/main/web/package.json,1,1
