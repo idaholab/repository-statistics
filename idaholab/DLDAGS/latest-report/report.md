@@ -1,5 +1,5 @@
 % Statistics for idaholab/DLDAGS
-% Generated for [idaholab/DLDAGS](https://github.com/idaholab/DLDAGS) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-02-12 04:14 UTC.
+% Generated for [idaholab/DLDAGS](https://github.com/idaholab/DLDAGS) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-02-13 17:53 UTC.
 
 
 ## Views
