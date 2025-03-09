@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet/pull/600,14,4
+/idaholab/civet,10,8
+/idaholab/civet/pull/600/files,8,2
+/idaholab/civet/pull/609,7,3
+/idaholab/civet/pulls,7,2
+/idaholab/civet/pull/609/files,2,2
+/idaholab/civet/blob/master/conda/meta.yaml,2,1
+/idaholab/civet/blob/master/conda/build.sh,1,1
+/idaholab/civet/compare/master...roystgnr:copyright_update,1,1
+/idaholab/civet/packages,1,1
