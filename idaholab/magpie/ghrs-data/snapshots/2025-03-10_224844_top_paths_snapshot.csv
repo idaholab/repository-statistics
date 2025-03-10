@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,8,6
+/idaholab/magpie/issues/282,3,2
+/idaholab/magpie/tree/devel/examples,2,2
+/idaholab/magpie/blob/devel/tests/energy_deposition/elemental.i,2,1
+/idaholab/magpie/tree/devel/tests/kernels/mytrim,2,1
+/idaholab/magpie/blob/a3a68136406c14b6d7c155545cf55777955a35af/examples/fft.i,1,1
+/idaholab/magpie/blob/a3a68136406c14b6d7c155545cf55777955a35af/tests/postprocessors/fourierlengthscale.i,1,1
+/idaholab/magpie/blob/devel/examples/deep_neural_network/data.dat,1,1
+/idaholab/magpie/blob/devel/examples/deep_neural_network/dnn.i,1,1
+/idaholab/magpie/blob/devel/examples/deep_neural_network/genann.dat,1,1
