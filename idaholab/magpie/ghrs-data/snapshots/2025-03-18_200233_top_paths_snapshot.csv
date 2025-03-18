@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,6,5
+/idaholab/magpie/issues/282,6,4
+/idaholab/magpie/blob/devel/scripts/fit_neural_net.py,3,1
+/idaholab/magpie/blob/devel/scripts/export_neural_net.py,2,1
+/idaholab/magpie/blob/devel/scripts/generate_data.py,2,1
+/idaholab/magpie/blob/devel/examples/deep_neural_network/dnn.i,1,1
+/idaholab/magpie/blob/devel/Makefile,1,1
+/idaholab/magpie/blob/devel/scripts/data.txt,1,1
+/idaholab/magpie/blob/devel/scripts/inspect_neural_net.py,1,1
+/idaholab/magpie/commit/d49879c48b2b64f0faf21e52eae3c999b5520d05,1,1
