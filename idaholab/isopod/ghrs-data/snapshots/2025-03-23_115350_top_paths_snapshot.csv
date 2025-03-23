@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/isopod,14,5
+/idaholab/isopod/pulls,5,2
+/idaholab/isopod/pull/100,3,2
+/idaholab/isopod/tree/devel/examples,3,1
+/idaholab/isopod/tree/main/examples,3,1
+/idaholab/isopod/tree/scheduled,2,2
+/idaholab/isopod/blob/main/run_tests,2,1
+/idaholab/isopod/branches,2,1
+/idaholab/isopod/fork,2,1
+/idaholab/isopod/pull/100/files,2,1
