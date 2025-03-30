@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm-Helm/pulls,26,3
+/idaholab/Malcolm-Helm,25,13
+/idaholab/Malcolm-Helm/pull/40/files,16,4
+/idaholab/Malcolm-Helm/pull/40,14,3
+/idaholab/Malcolm-Helm/pull/36,11,1
+/idaholab/Malcolm-Helm/pull/41,9,2
+/idaholab/Malcolm-Helm/tree/main/chart,6,3
+/idaholab/Malcolm-Helm/tree/main/chart/templates,5,2
+/idaholab/Malcolm-Helm/blob/main/chart/templates/arkime_configmaps.yml,3,2
+/idaholab/Malcolm-Helm/blob/main/chart/templates/arkime-ini.yml,2,2
