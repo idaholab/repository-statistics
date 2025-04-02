@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/cape2stix,10,8
+/idaholab/cape2stix/blob/main/docs/README.md,2,1
+/idaholab/cape2stix/tree/main/output,2,1
+/idaholab/cape2stix/blob/main/cape2stix/core/CAPEAPI.py,1,1
+/idaholab/cape2stix/blob/main/cape2stix/core/gen_mitre_ext_def.py,1,1
+/idaholab/cape2stix/blob/main/cape2stix/core/stix_loader.py,1,1
+/idaholab/cape2stix/blob/main/cape2stix/edges_dups.py,1,1
+/idaholab/cape2stix/blob/main/clustering_scripts/cluster.py,1,1
+/idaholab/cape2stix/blob/main/clustering_scripts/sort.py,1,1
+/idaholab/cape2stix/blob/main/clustering_scripts/verify.py,1,1
