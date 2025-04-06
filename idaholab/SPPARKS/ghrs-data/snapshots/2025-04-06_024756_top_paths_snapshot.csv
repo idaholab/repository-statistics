@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/SPPARKS,11,10
+/idaholab/SPPARKS/blob/master/examples/potts/in.potts,9,6
+/idaholab/SPPARKS/tree/master/examples/potts,8,7
+/idaholab/SPPARKS/blob/master/src/app_potts.cpp,8,4
+/idaholab/SPPARKS/tree/master/src,8,4
+/idaholab/SPPARKS/tree/master/examples,7,5
+/idaholab/SPPARKS/blob/master/src/app_potts.h,3,3
+/idaholab/SPPARKS/blob/master/src/app_lattice.cpp,3,2
+/idaholab/SPPARKS/blob/master/src/app.cpp,3,1
+/idaholab/SPPARKS/blob/master/src/app_potts_additive.cpp,2,2
