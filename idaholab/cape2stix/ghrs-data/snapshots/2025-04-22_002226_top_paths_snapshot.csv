@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/cape2stix,16,7
+/idaholab/cape2stix/tree/main/cape2stix,6,3
+/idaholab/cape2stix/blob/main/cape2stix/todb/neo4j_bulk.py,4,2
+/idaholab/cape2stix/blob/main/docs/README.md,3,1
+/idaholab/cape2stix/commits,3,1
+/idaholab/cape2stix/blob/main/output/.gitkeep,2,2
+/idaholab/cape2stix/tree/main/cape2stix/tests,2,2
+/idaholab/cape2stix/tree/main/cape2stix/todb,2,2
+/idaholab/cape2stix/tree/main/output,2,2
+/idaholab/cape2stix/blob/main/cape2stix/edges_dups.py,2,1
