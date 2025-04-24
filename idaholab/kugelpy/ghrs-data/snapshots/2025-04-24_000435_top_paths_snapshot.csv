@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/kugelpy/issues/10,6,4
+/idaholab/kugelpy/issues/9,6,3
+/idaholab/kugelpy/issues,6,1
+/idaholab/kugelpy,5,2
+/idaholab/kugelpy/tree/joss_paper/kugelpy,5,1
+/idaholab/kugelpy/blob/main/docs/pbr_runin.md,4,1
+/idaholab/kugelpy/tree/main/docs,4,1
+/idaholab/kugelpy/blob/joss_paper/kugelpy/kugelpy/pebble_bed_reactor.py,3,1
+/idaholab/kugelpy/blob/joss_paper/kugelpy/mutineer/logutils.py,3,1
+/idaholab/kugelpy/blob/joss_paper/kugelpy/tests/test_maelstream.py,3,1
