@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Ingest,21,9
+/idaholab/Ingest/pull/27,5,3
+/idaholab/Ingest/branches,3,2
+/idaholab/Ingest/pull/27/commits/be003160eb16c36bb073a0e4dafdf2a6907a1355,3,2
+/idaholab/Ingest/commits,3,1
+/idaholab/Ingest/branches/all,2,2
+/idaholab/Ingest/compare/main...dakotablair:Ingest:wip,2,1
+/idaholab/Ingest/graphs/contributors,2,1
+/idaholab/Ingest/branches/stale,1,1
+/idaholab/Ingest/compare/3267420ff4376a075ae479c1a6b8609fe10556b1...dakotablair:Ingest:wip,1,1
