@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HYBRID,57,33
+/idaholab/HYBRID/tree/devel/Models,8,5
+/idaholab/HYBRID/tree/devel/Costs,3,2
+/idaholab/HYBRID/tree/devel/Models/NHES/Nuclear/FuelModels,3,1
+/idaholab/HYBRID/blob/devel/Models/NHES/Nuclear/FuelModels/TRISO.mo,2,2
+/idaholab/HYBRID/commit/d6fb626dda0cde0eeefc5cd60a73de31ed546433,2,2
+/idaholab/HYBRID/tree/devel/Models/NHES,2,2
+/idaholab/HYBRID/wiki,2,2
+/idaholab/HYBRID/blob/devel/Models/NHES/Nuclear/CoreSubchannels/package.mo,2,1
+/idaholab/HYBRID/blob/devel/Models/NHES/Nuclear/FuelModels/Examples/FuelGapClad_FD2DCyl_Test.mo,2,1
