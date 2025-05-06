@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-modbus,61,29
+/cisagov/icsnpp-modbus/tree/main/scripts,9,4
+/cisagov/icsnpp-modbus/tree/e14d6ce931338360ab1250becc968a1d7e518911,7,7
+/cisagov/icsnpp-modbus/blob/main/scripts/main.zeek,7,4
+/cisagov/icsnpp-modbus/tree/main/tests,4,3
+/cisagov/icsnpp-modbus/tree/main,3,2
+/cisagov/icsnpp-modbus/issues,2,2
+/cisagov/icsnpp-modbus/blob/e14d6ce931338360ab1250becc968a1d7e518911/scripts/main.zeek,1,1
+/cisagov/icsnpp-modbus/blob/main/scripts/__load__.zeek,1,1
+/cisagov/icsnpp-modbus/blob/main/tests/scripts/diff-remove-timestamps,1,1
