@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/idaholab/IX-DiscoveryTools,3,2
+/idaholab/IX-DiscoveryTools/blob/main/IX-DiscoveryTools/plugins/cve_search.py,3,1
+/idaholab/IX-DiscoveryTools/blob/main/autodiscover/plugins/cve_search.py,1,1
+/idaholab/IX-DiscoveryTools/blob/main/autodiscover/plugins/search.py,1,1
+/idaholab/IX-DiscoveryTools/tree/main/autodiscover,1,1
+/idaholab/IX-DiscoveryTools/tree/main/config,1,1
+/idaholab/IX-DiscoveryTools/tree/main/IX-DiscoveryTools,1,1
