@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Ingest,16,7
+/idaholab/Ingest/commit/4d284bf6ec834748245f035b0f16e12d1b255000,3,1
+/idaholab/Ingest/pull/28,3,1
+/idaholab/Ingest/pulls,3,1
+/idaholab/Ingest/blob/4d284bf6ec834748245f035b0f16e12d1b255000/lib/ingest/accounts.ex,2,1
+/idaholab/Ingest/branches,2,1
+/idaholab/Ingest/commits/main/lib/ingest,2,1
+/idaholab/Ingest/blame/4d284bf6ec834748245f035b0f16e12d1b255000/lib/ingest/accounts.ex,1,1
+/idaholab/Ingest/branches/stale,1,1
+/idaholab/Ingest/commits/4d284bf6ec834748245f035b0f16e12d1b255000/lib/ingest/accounts.ex,1,1
