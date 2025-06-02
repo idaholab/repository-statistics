@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Ingest,14,6
+/idaholab/Ingest/pull/28,3,1
+/idaholab/Ingest/pulls,3,1
+/idaholab/Ingest/branches,2,1
+/idaholab/Ingest/blob/4d284bf6ec834748245f035b0f16e12d1b255000/lib/ingest/accounts.ex,1,1
+/idaholab/Ingest/branches/stale,1,1
+/idaholab/Ingest/commit/4d284bf6ec834748245f035b0f16e12d1b255000,1,1
+/idaholab/Ingest/compare/main...dakotablair:AX-653-project-roles,1,1
+/idaholab/Ingest/issues,1,1
+/idaholab/Ingest/pulse,1,1
