@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/DOVE,17,5
+/idaholab/DOVE/pull/17,17,3
+/idaholab/DOVE/pull/17/files,13,2
+/idaholab/DOVE/pulls,8,2
+/idaholab/DOVE/pull/20,6,1
+/idaholab/DOVE/blob/a56b06f86716fd3bb2e82eac7ec98744281bdc7c/src/dove/models/price_taker/builder.py,4,1
+/idaholab/DOVE/issues/19,3,2
+/idaholab/DOVE/blob/main/examples/storage_test.py,3,1
+/idaholab/DOVE/tree/main/src/dove/models/price_taker,3,1
+/idaholab/DOVE/blob/main/examples/capacity_factor_example.py,2,1
