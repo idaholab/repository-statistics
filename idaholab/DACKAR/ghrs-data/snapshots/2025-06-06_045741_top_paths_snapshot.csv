@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/DACKAR,15,8
+/idaholab/DACKAR/pulls,10,2
+/idaholab/DACKAR/pull/12,4,2
+/idaholab/DACKAR/pull/9,2,2
+/idaholab/DACKAR/pull/11,2,1
+/idaholab/DACKAR/blob/main/examples/RuleBasedNLP.ipynb,1,1
+/idaholab/DACKAR/blob/main/nltkDownloader.py,1,1
+/idaholab/DACKAR/commit/987fd210502749fd74eab6727707a016c19ec86f,1,1
+/idaholab/DACKAR/compare/wangc/update_2,1,1
+/idaholab/DACKAR/deployments/github-pages,1,1
