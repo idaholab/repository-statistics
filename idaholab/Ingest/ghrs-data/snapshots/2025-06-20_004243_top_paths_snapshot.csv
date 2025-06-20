@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Ingest,12,5
+/idaholab/Ingest/tree/main,11,1
+/idaholab/Ingest/blob/main/Dockerfile,8,1
+/idaholab/Ingest/tree/main/kubernetes,7,1
+/idaholab/Ingest/blob/main/readme.md,5,1
+/idaholab/Ingest/blob/main/kubernetes/kubernetes.yml,4,1
+/idaholab/Ingest/releases,4,1
+/idaholab/Ingest/blob/3267420ff4376a075ae479c1a6b8609fe10556b1/Dockerfile,2,1
+/idaholab/ingest,1,1
+/idaholab/Ingest/blob/3267420ff4376a075ae479c1a6b8609fe10556b1/readme.md,1,1
