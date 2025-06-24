@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,22,12
+/idaholab/civet/issues,4,2
+/idaholab/civet/pull/617,4,2
+/idaholab/civet/pulls,4,1
+/idaholab/civet/pull/620,3,1
+/idaholab/civet/issues/new,2,1
+/idaholab/civet/pull/617/files,2,1
+/idaholab/civet/wiki,2,1
+/idaholab/civet/blob/master/ci/client/views.py,1,1
+/idaholab/civet/blob/master/ci/Permissions.py,1,1
