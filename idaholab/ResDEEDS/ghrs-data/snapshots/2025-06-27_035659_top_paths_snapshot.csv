@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/ResDEEDS,20,6
+/idaholab/resdeeds,17,1
+/idaholab/ResDEEDS/pulls,12,2
+/idaholab/ResDEEDS/projects,11,2
+/idaholab/ResDEEDS/pull/38,7,2
+/idaholab/ResDEEDS/pull/43,6,1
+/idaholab/ResDEEDS/pull/38/files,4,2
+/idaholab/ResDEEDS/blob/main/api/src/bll/psa/network.py,3,1
+/idaholab/ResDEEDS/blob/main/.github/workflows/build.yml,3,1
+/idaholab/ResDEEDS/blob/main/README.md,3,1
