@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,35,27
+/cisagov/parsnip/blob/main/docs/parsnip.md,11,8
+/cisagov/parsnip/tree/main/frontend,10,5
+/cisagov/parsnip/tree/main/docs,6,4
+/cisagov/parsnip/tree/main,5,3
+/cisagov/parsnip/tree/main/backend,4,2
+/cisagov/parsnip/tree/main/frontend/app,4,2
+/cisagov/parsnip/tree/main/frontend/app/parsnip,4,2
+/cisagov/parsnip/pulls,4,1
+/cisagov/parsnip/issues,3,3

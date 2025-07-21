@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-opcua-binary,18,11
+/cisagov/icsnpp-opcua-binary/tree/main/pcaps,17,3
+/cisagov/icsnpp-opcua-binary/blob/main/scripts/icsnpp/opcua-binary/main.zeek,8,1
+/cisagov/icsnpp-opcua-binary/tree/95ee69f44431f0d4f9dfebb9a30678dd2994ad1c/scripts/icsnpp/opcua-binary,8,1
+/cisagov/icsnpp-opcua-binary/tree/95ee69f44431f0d4f9dfebb9a30678dd2994ad1c/scripts,6,2
+/cisagov/icsnpp-opcua-binary/blob/main/pcaps/open62541_browse_has_server_idx.pcap,6,1
+/cisagov/icsnpp-opcua-binary/commits/main,4,1
+/cisagov/icsnpp-opcua-binary/tree/95ee69f44431f0d4f9dfebb9a30678dd2994ad1c,3,2
+/cisagov/icsnpp-opcua-binary/blame/main/pcaps/open62541_browse_has_server_idx.pcap,3,1
+/cisagov/icsnpp-opcua-binary/blob/main/CMakeLists.txt,3,1

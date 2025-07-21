@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,4,3
+/idaholab/magpie/issues/482,4,2
+/idaholab/magpie/pull/483,3,2
+/idaholab/magpie/issues/282,2,2
+/idaholab/magpie/pull/369,2,2
+/idaholab/magpie/blob/devel/doc/config.yml,2,1
+/idaholab/magpie/blob/devel/Makefile,2,1
+/idaholab/magpie/tree/devel/doc,2,1
+/idaholab/magpie/branches,1,1
+/idaholab/magpie/compare/devel...loganharbour:magpie:482_content_keys,1,1

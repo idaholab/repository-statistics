@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HYBRID,111,53
+/idaholab/HYBRID/wiki,100,56
+/idaholab/HYBRID/wiki/Install_HYBRID,89,32
+/idaholab/HYBRID/wiki/GIT_submodule,18,6
+/idaholab/HYBRID/pulls,9,8
+/idaholab/HYBRID/find/devel,8,5
+/idaholab/HYBRID/issues,7,3
+/idaholab/HYBRID/tree/devel/Models/NHES,7,3
+/idaholab/HYBRID/tree/devel/Models/NHES/Systems/PrimaryHeatSystem,6,2
+/idaholab/HYBRID/tree/devel/Models/NHES/Systems/PrimaryHeatSystem/SMR_Generic,6,2

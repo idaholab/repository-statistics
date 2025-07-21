@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,9,6
+/idaholab/civet/tree/master/ci,6,2
+/idaholab/civet/tree/master/civet,6,2
+/idaholab/civet/blob/master/civet/urls.py,6,1
+/idaholab/civet/blob/master/civet/wsgi.py,6,1
+/idaholab/civet/wiki,5,3
+/idaholab/civet/blob/master/civet/apps.py,4,1
+/idaholab/civet/blob/master/civet/settings.py,4,1
+/idaholab/civet/blob/master/civet/__init__.py,2,1
+/idaholab/civet/tree/master/ci/migrations,2,1

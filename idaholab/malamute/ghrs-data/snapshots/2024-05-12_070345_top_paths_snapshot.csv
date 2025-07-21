@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,60,28
+/idaholab/malamute/tree/devel/examples,21,4
+/idaholab/malamute/blob/devel/examples/sps/engineering_scale/validation/dcs5/empty_die/stepped_20mm/dcs5_stepped20mm_empty_constant_properties.i,20,2
+/idaholab/malamute/pulls,18,6
+/idaholab/malamute/pull/124,18,5
+/idaholab/malamute/issues,15,8
+/idaholab/malamute/pull/126,11,2
+/idaholab/malamute/blob/devel/examples/melt_pool_2d/melt_pool.i,11,1
+/idaholab/malamute/tree/devel/examples/melt_pool_2d,10,1
+/idaholab/malamute/blob/devel/examples/melt_pool_3d/melt_pool.i,8,3

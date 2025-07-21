@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-synchrophasor,10,9
+/cisagov/icsnpp-synchrophasor/tree/efeacc5734fe519321872fa3f7b5c14d56c9b5f2,2,2
+/cisagov/icsnpp-synchrophasor/blob/efeacc5734fe519321872fa3f7b5c14d56c9b5f2/analyzer/synchrophasor.evt,2,1
+/cisagov/icsnpp-synchrophasor/blob/main/tests/scripts/diff-remove-timestamps,2,1
+/cisagov/icsnpp-synchrophasor/tree/efeacc5734fe519321872fa3f7b5c14d56c9b5f2/analyzer,2,1
+/cisagov/icsnpp-synchrophasor/tree/main/analyzer,2,1
+/cisagov/icsnpp-synchrophasor/issues/10,1,1

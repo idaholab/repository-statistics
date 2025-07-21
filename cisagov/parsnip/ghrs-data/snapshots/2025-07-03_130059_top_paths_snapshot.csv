@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,30,25
+/cisagov/parsnip/blob/main/docs/parsnip.md,21,8
+/cisagov/parsnip/tree/main/docs,9,4
+/cisagov/parsnip/blob/main/docs/syntax.md,6,4
+/cisagov/parsnip/tree/main/backend,5,3
+/cisagov/parsnip/tree/main/frontend,5,2
+/cisagov/parsnip/tree/main,2,2
+/cisagov/parsnip/blob/main/backend/templates/main.zeek.in,2,1
+/cisagov/parsnip/blob/main/docs/images/headerBits_info_1.png,2,1
+/cisagov/parsnip/commit/1cd27780daad45b9b20007ff2d5d5ba3f80b42e9,2,1

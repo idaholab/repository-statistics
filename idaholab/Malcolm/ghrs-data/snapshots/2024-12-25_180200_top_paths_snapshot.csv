@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,180,127
+/idaholab/Malcolm/releases/tag/v24.11.0,76,40
+/idaholab/Malcolm/releases/tag/v24.12.0,62,33
+/idaholab/Malcolm/releases,39,30
+/idaholab/Malcolm/blob/main/docs/README.md,35,24
+/idaholab/Malcolm/blob/23835991048a23cbb26935861204b90874b5b30a/scripts/release_cleaver.ps1,16,9
+/idaholab/Malcolm/blob/main/scripts/release_cleaver.sh,15,11
+/idaholab/Malcolm/blob/main/docs/ubuntu-install-example.md,15,6
+/idaholab/malcolm,14,10
+/idaholab/Malcolm/issues,14,7

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/FORCE,18,9
+/idaholab/FORCE/tree/main/use_cases,15,3
+/idaholab/FORCE/tree/main/use_cases/2021_12,12,3
+/idaholab/FORCE/pull/5,9,1
+/idaholab/FORCE/tree/main/use_cases/2021_12/train/ny_default_load,6,1
+/idaholab/FORCE/tree/main/use_cases/2021_12/run,3,2
+/idaholab/FORCE/tree/main/use_cases/2021_12/run/default,3,1
+/idaholab/FORCE/blob/main/use_cases/2020_12/run/Regulated/IL_CarbonTax_Default/IL_CarbonTax_Default.xml,2,2
+/idaholab/FORCE/issues,2,2
+/idaholab/FORCE/pulls,2,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,30,18
+/idaholab/malamute/tree/devel/src,28,5
+/idaholab/malamute/issues,22,9
+/idaholab/malamute/tree/devel/examples,18,5
+/idaholab/malamute/tree/devel/test/tests/melt_pool_geometry,12,1
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition,11,3
+/idaholab/malamute/tree/devel/src/materials,11,3
+/idaholab/malamute/pulls,10,3
+/idaholab/malamute/tree/devel/test,9,3
+/idaholab/malamute/tree/devel/src/kernels,7,2

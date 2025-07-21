@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,115,60
+/idaholab/virtual_test_bed/pulls,52,14
+/idaholab/virtual_test_bed/tree/devel/microreactors,43,17
+/idaholab/virtual_test_bed/blob/devel/htgr/assembly/openmc.i,28,12
+/idaholab/virtual_test_bed/issues,27,10
+/idaholab/virtual_test_bed/tree/devel,25,10
+/idaholab/virtual_test_bed/blob/devel/microreactors/KRUSTY/Multiphysics_SS/KRUSTY_BISON_THERMOMECHANICS.i,21,4
+/idaholab/virtual_test_bed/pull/546,20,4
+/idaholab/virtual_test_bed/pull/549,20,4
+/idaholab/virtual_test_bed/tree/devel/microreactors/mrad,18,10

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,504,278
+/cisagov/Malcolm/search,37,9
+/cisagov/Malcolm/releases,24,17
+/cisagov/Malcolm/issues,24,13
+/cisagov/Malcolm/releases/tag/v5.2.1,10,7
+/cisagov/Malcolm/tree/main/sensor-iso,9,9
+/cisagov/Malcolm/blob/main/docker-compose.yml,9,8
+/cisagov/Malcolm/blob/main/sensor-iso/README.md,8,8
+/cisagov/Malcolm/tree/main/zeek,7,6
+/cisagov/Malcolm/blob/main/zeek/config/guess_ics_map.txt,7,5

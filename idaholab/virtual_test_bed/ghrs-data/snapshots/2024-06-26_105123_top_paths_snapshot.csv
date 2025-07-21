@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,124,59
+/idaholab/virtual_test_bed/pulls,65,19
+/idaholab/virtual_test_bed/tree/devel/msr,54,14
+/idaholab/virtual_test_bed/tree/devel/microreactors,47,9
+/idaholab/virtual_test_bed/pull/396,47,6
+/idaholab/virtual_test_bed/tree/devel/msr/msre,45,7
+/idaholab/virtual_test_bed/tree/devel/msr/msre/steady_state,35,5
+/idaholab/virtual_test_bed/tree/devel/microreactors/hpmr_assembly,32,3
+/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model,31,7
+/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/steady_state,30,8

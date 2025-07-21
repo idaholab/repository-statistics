@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/GranularFlowModels/tree/main/examples,25,9
+/idaholab/GranularFlowModels/tree/main/src,22,6
+/idaholab/GranularFlowModels,21,19
+/idaholab/GranularFlowModels/blob/main/src/VUMAT_modified_Drager_Prager_cap.f,14,6
+/idaholab/GranularFlowModels/blob/main/src/VUMAT_modified_Mohr_Coulomb.f,10,5
+/idaholab/GranularFlowModels/blob/main/src/VUMAT_NorSand_version2015.f,8,4
+/idaholab/GranularFlowModels/blob/main/examples/ringShear-MDPC.inp,6,2
+/idaholab/GranularFlowModels/tree/main/images,5,2
+/idaholab/GranularFlowModels/blob/main/examples/fundation-norsand.inp,4,2
+/idaholab/GranularFlowModels/blob/main/src/VUMAT_nonlocal_Hypoplasticity.f,4,2

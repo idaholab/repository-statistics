@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/__init__.py,11,2
+/idaholab/airflow-provider-deeplynx/blob/main/pyproject.toml,6,1
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/hooks/__init__.py,4,1
+/idaholab/airflow-provider-deeplynx/tree/main,3,2
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/hooks/deeplynx.py,3,1
+/idaholab/airflow-provider-deeplynx/tree/main/deeplynx_provider,3,1
+/idaholab/airflow-provider-deeplynx/blob/main/docs/deeplynx_provider/hooks/deeplynx.md,2,1
+/idaholab/airflow-provider-deeplynx/blob/main/LICENSE,2,1
+/idaholab/airflow-provider-deeplynx/blob/main/README.md,2,1
+/idaholab/airflow-provider-deeplynx/tree/main/deeplynx_provider/example_dags,2,1

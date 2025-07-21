@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/LOGOS,11,9
+/idaholab/LOGOS/tree/devel/src,3,1
+/idaholab/LOGOS/tree/devel/src/knapsack,3,1
+/idaholab/LOGOS/tree/014cf2e9a86edc35c73b2f5c415d29046f3e7e41,2,1
+/idaholab/LOGOS/tree/014cf2e9a86edc35c73b2f5c415d29046f3e7e41/tests,2,1
+/idaholab/logos,1,1
+/idaholab/LOGOS/blob/014cf2e9a86edc35c73b2f5c415d29046f3e7e41/src/Testers/LogosTester.py,1,1
+/idaholab/LOGOS/blob/014cf2e9a86edc35c73b2f5c415d29046f3e7e41/tests/CapitalInvestments/examples/tests,1,1
+/idaholab/LOGOS/blob/014cf2e9a86edc35c73b2f5c415d29046f3e7e41/tests/tests,1,1
+/idaholab/LOGOS/blob/devel/.gitlab-ci.yml,1,1

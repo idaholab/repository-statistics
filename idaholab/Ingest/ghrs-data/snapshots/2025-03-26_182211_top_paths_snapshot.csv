@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Ingest,59,18
+/idaholab/Ingest/tree/main,13,2
+/idaholab/ingest,9,6
+/idaholab/Ingest/tree/main/lib/ingest,9,1
+/idaholab/Ingest/tree/main/lib/ingest/azure_storage,9,1
+/idaholab/Ingest/tree/main/lib,8,2
+/idaholab/Ingest/tree/main/assets,8,1
+/idaholab/Ingest/tree/main/config,8,1
+/idaholab/Ingest/issues,5,3
+/idaholab/Ingest/blob/main/.devcontainer/Dockerfile,5,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/kugelpy,2,2
+/idaholab/kugelpy/tree/main/kugelpy/sea_serpent,2,1
+/idaholab/kugelpy/blob/main/kugelpy/kugelpy/data/rawdist.inp,1,1
+/idaholab/kugelpy/blob/main/kugelpy/kugelpy/data/triso_7grHM_1.triso,1,1
+/idaholab/kugelpy/blob/main/kugelpy/tests/_regtest_outputs/test_pebble.test_FuelPebble_init.out,1,1
+/idaholab/kugelpy/blob/main/kugelpy/tests/testfiles/dist.txt,1,1
+/idaholab/kugelpy/blob/main/kugelpy/tests/testfiles/serpent.inp.bumat1,1,1
+/idaholab/kugelpy/blob/main/kugelpy/tests/testfiles/serpent.inp_det0.m,1,1
+/idaholab/kugelpy/blob/main/kugelpy/tests/testfiles/serpent.inp_det1.m,1,1
+/idaholab/kugelpy/blob/main/kugelpy/tests/testfiles/serpent.inp_res.m,1,1

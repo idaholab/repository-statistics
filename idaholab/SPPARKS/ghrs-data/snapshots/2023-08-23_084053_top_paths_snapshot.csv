@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/SPPARKS,8,6
+/idaholab/SPPARKS/tree/master/examples,4,1
+/idaholab/SPPARKS/tree/master/examples/potts_pfm,4,1
+/idaholab/SPPARKS/tree/master/examples/potts,3,1
+/idaholab/SPPARKS/blob/master/examples/chemistry/in.chemistry,2,1
+/idaholab/SPPARKS/blob/master/examples/COUPLE/lammps_spparks/in.lammps,2,1
+/idaholab/SPPARKS/blob/master/examples/COUPLE/lammps_spparks/in.spparks,2,1
+/idaholab/SPPARKS/blob/master/examples/groups/in.group.himem,2,1
+/idaholab/SPPARKS/blob/master/examples/ising/in.ising,2,1
+/idaholab/SPPARKS/blob/master/examples/potts_grad/mob_grad/in.potts_mob_grad,2,1

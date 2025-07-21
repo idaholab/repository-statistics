@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,1195,620
+/cisagov/Malcolm/releases,94,38
+/cisagov/Malcolm/issues,54,16
+/cisagov/Malcolm/releases/tag/v5.2.5,41,23
+/cisagov/Malcolm/search,32,12
+/cisagov/Malcolm/tree/main/Dockerfiles,25,15
+/cisagov/Malcolm/actions,24,6
+/cisagov/Malcolm/blob/main/sensor-iso/README.md,20,13
+/cisagov/Malcolm/tree/main/dashboards,18,9
+/cisagov/Malcolm/tree/main/pcap-capture,17,10

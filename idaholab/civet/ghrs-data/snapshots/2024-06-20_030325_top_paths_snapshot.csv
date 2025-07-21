@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,16,11
+/idaholab/civet/tree/master/civet,5,2
+/idaholab/civet/blob/master/requirements.txt,4,2
+/idaholab/civet/blob/282f2cb1c72197cd34d4a38d396720bfaa6d7fc5/ci/client/tests/test_ProcessCommands.py,4,1
+/idaholab/civet/blob/master/ci/recipe/tests/pr_dep.cfg,2,1
+/idaholab/civet/blob/master/Makefile,2,1
+/idaholab/civet/blob/master/manage.py,2,1
+/idaholab/civet/blob/master/README.md,2,1
+/idaholab/civet/issues,1,1
+/idaholab/civet/tree/6fc782799cf3cdf1bcf5c4bf22bfea27a8940785,1,1

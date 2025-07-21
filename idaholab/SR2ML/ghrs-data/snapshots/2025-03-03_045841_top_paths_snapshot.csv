@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/SR2ML,4,4
+/idaholab/SR2ML/tree/devel/doc/user_manual,4,1
+/idaholab/SR2ML/tree/devel/doc,3,1
+/idaholab/SR2ML/tree/devel,2,1
+/idaholab/SR2ML/tree/devel/doc/user_manual/include,2,1
+/idaholab/SR2ML/blob/devel/doc/user_manual/include/MaintenanceModels.tex,1,1
+/idaholab/SR2ML/blob/devel/doc/user_manual/user_manual.tex,1,1
+/idaholab/SR2ML/blob/devel/tests/maintenanceModels/test_PMmodel_operating.xml,1,1
+/idaholab/SR2ML/blob/devel/tests/reliabilityModel/test_time_dep_ensemble_reliability.xml,1,1
+/idaholab/SR2ML/issues,1,1

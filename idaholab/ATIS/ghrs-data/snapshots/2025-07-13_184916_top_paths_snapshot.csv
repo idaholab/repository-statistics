@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/ATIS,23,12
+/idaholab/ATIS/blob/main/LICENSE,5,3
+/idaholab/ATIS/tree/main,3,3
+/idaholab/ATIS/blob/main/analysis/stix_comp.py,2,2
+/idaholab/ATIS/blob/main/utilities.py,2,2
+/idaholab/ATIS/blob/main/analysis/analyze.py,1,1
+/idaholab/ATIS/blob/main/output_tests/test__enriched.json,1,1
+/idaholab/ATIS/blob/main/test_data/trickboot.txt,1,1
+/idaholab/ATIS/blob/main/test_data/wannaCry.txt,1,1
+/idaholab/ATIS/tree/main/test_data,1,1

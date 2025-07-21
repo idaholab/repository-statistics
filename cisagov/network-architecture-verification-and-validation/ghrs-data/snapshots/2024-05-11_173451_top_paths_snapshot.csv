@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/network-architecture-verification-and-validation,44,24
+/cisagov/network-architecture-verification-and-validation/tree/develop/src/navv,21,5
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/commands.py,11,2
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/spreadsheet_tools.py,8,2
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/bll.py,8,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/network_analysis.py,6,3
+/cisagov/network-architecture-verification-and-validation/issues,6,2
+/cisagov/network-architecture-verification-and-validation/tree/develop/src/navv/data,6,2
+/cisagov/network-architecture-verification-and-validation/blob/63-inventory-report-tab-provides-unclear-data/src/navv/data/mac-vendors.json,6,1
+/cisagov/network-architecture-verification-and-validation/commits/develop/src/navv/commands.py,5,1

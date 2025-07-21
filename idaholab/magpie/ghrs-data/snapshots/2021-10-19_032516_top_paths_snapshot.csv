@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,20,10
+/idaholab/magpie/issues,9,1
+/idaholab/magpie/search,7,2
+/idaholab/magpie/tree/devel/examples,5,2
+/idaholab/magpie/tree/devel/src,4,3
+/idaholab/magpie/pull/430/files,3,1
+/idaholab/magpie/tree/devel/examples/deep_neural_network,3,1
+/idaholab/magpie/tree/devel/examples/convolution,2,2
+/idaholab/magpie/blob/devel/examples/deep_neural_network/dnn.i,2,1
+/idaholab/magpie/blob/devel/examples/spectralLinearElastic2MaterialsTM.i,2,1

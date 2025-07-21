@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/FORCE/tree/main/use_cases/2021_12,14,2
+/idaholab/FORCE/blob/main/use_cases/2020_12/data/stack_IL_carbontax.csv,6,1
+/idaholab/FORCE/tree/main/use_cases/2021_12/run/default,6,1
+/idaholab/FORCE,5,5
+/idaholab/FORCE/blob/main/README.md,4,1
+/idaholab/FORCE/blob/main/use_cases/2020_12/data/from_EPRI/Carbontax.xlsx,4,1
+/idaholab/FORCE/blob/main/use_cases/2020_12/data/IL_combined.ncdf4,4,1
+/idaholab/FORCE/blob/main/use_cases/2020_12/data/stack_key.csv,4,1
+/idaholab/FORCE/blob/main/use_cases/2020_12/run/dispatchers/dereg.py,4,1
+/idaholab/FORCE/blob/main/use_cases/2020_12/run/dispatchers/h2_e.py,4,1

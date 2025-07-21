@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/STIG,33,24
+/idaholab/STIG/releases/tag/2.0.1.alpha,3,3
+/idaholab/stig,3,2
+/idaholab/STIG/issues,3,1
+/idaholab/STIG/blob/master/18-179_STIG_Innovation_Sheet.pdf,2,2
+/idaholab/STIG/blob/master/README.md,2,2
+/idaholab/STIG/tree/master/db_setup,2,2
+/idaholab/STIG/pulls,2,1
+/idaholab/STIG/blob/master/db_setup/setup.sh,1,1
+/idaholab/STIG/blob/master/src/index.html,1,1

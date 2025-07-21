@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,22,14
+/idaholab/civet/blob/master/README.md,3,3
+/idaholab/civet/tree/master/ci,3,3
+/idaholab/civet/pulls,2,1
+/idaholab/civet/blob/master/ci/templates/ci/repo_status.html,1,1
+/idaholab/civet/blob/master/ci/views.py,1,1
+/idaholab/civet/blob/master/requirements.txt,1,1
+/idaholab/civet/commit/52ab6d60b52b7fc9e7fd37b1a9ff93fb83a575e5,1,1
+/idaholab/civet/commits/master,1,1
+/idaholab/civet/issues/194,1,1

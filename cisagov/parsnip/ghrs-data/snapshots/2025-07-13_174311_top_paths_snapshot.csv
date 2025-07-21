@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,21,13
+/cisagov/parsnip/blob/main/docs/parsnip.md,19,6
+/cisagov/parsnip/tree/main/docs,5,1
+/cisagov/parsnip/blob/main/docs/syntax.md,4,2
+/cisagov/parsnip/tree/main,2,2
+/cisagov/parsnip/tree/main/backend,2,2
+/cisagov/parsnip/blob/main/backend/customtypes.py,2,1
+/cisagov/parsnip/blob/main/docs/parsnip_files/intermediate_language/general/bitfields.json,2,1
+/cisagov/parsnip/blob/main/docs/parsnip_files/intermediate_language/general/config.json,2,1
+/cisagov/parsnip/blob/main/docs/parsnip_files/intermediate_language/general/enums.json,2,1

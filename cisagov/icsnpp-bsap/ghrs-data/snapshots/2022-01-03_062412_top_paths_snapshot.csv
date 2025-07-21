@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bsap,2,2
+/cisagov/icsnpp-bsap/blob/main/examples/bsap-ip_example.pcap,1,1
+/cisagov/icsnpp-bsap/blob/main/examples/bsap_serial_header.log,1,1
+/cisagov/icsnpp-bsap/blob/main/examples/bsap_serial_rdb.log,1,1
+/cisagov/icsnpp-bsap/blob/main/examples/conn.log,1,1
+/cisagov/icsnpp-bsap/tree/main/examples,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,306,209
+/idaholab/Malcolm/releases/tag/v25.04.1,102,64
+/idaholab/Malcolm/releases,65,46
+/idaholab/Malcolm/blob/main/docs/README.md,60,44
+/idaholab/Malcolm/blob/main/scripts/release_cleaver.ps1,28,17
+/idaholab/Malcolm/tree/33df9210723608a28569b138e4745c773757c75b/logstash/pipelines,25,1
+/idaholab/Malcolm/tree/main,22,19
+/idaholab/Malcolm/tree/33df9210723608a28569b138e4745c773757c75b/logstash/pipelines/zeek,21,1
+/idaholab/Malcolm/tree/main/scripts,19,12
+/idaholab/Malcolm/blob/main/docs/quickstart.md,15,13

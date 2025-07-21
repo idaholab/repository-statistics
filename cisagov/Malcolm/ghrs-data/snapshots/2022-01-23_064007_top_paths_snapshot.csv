@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,540,299
+/cisagov/Malcolm/releases,22,17
+/cisagov/Malcolm/issues,21,13
+/cisagov/Malcolm/releases/tag/v5.1.0,16,10
+/cisagov/Malcolm/search,14,6
+/cisagov/Malcolm/tree/main/zeek,10,6
+/cisagov/Malcolm/blob/main/docker-compose.yml,9,8
+/cisagov/Malcolm/blob/main/sensor-iso/README.md,9,7
+/cisagov/Malcolm/tree/main/arkime,8,3
+/cisagov/Malcolm/blob/main/docs/images/screenshots/arkime_correlate_communityid_uid.png,7,6

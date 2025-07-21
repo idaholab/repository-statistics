@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,5,2
+/idaholab/magpie/tree/devel/doc,4,1
+/idaholab/magpie/tree/devel/contrib,3,2
+/idaholab/magpie/tree/devel/data,3,1
+/idaholab/magpie/blob/devel/src/auxkernels/SPPARKSAux.C,2,1
+/idaholab/magpie/blob/devel/tests/userobjects/spparks/tofrom_spparks.i,2,1
+/idaholab/magpie/tree/devel/doc/content,2,1
+/idaholab/magpie/tree/devel/examples,2,1
+/idaholab/magpie/tree/devel/src,2,1
+/idaholab/magpie/tree/devel/src/auxkernels,2,1

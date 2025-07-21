@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/STIG,50,30
+/idaholab/STIG/blob/master/18-179_STIG_Innovation_Sheet.pdf,9,8
+/idaholab/STIG/releases,8,4
+/idaholab/STIG/tree/master,7,5
+/idaholab/STIG/tree/master/docs,4,3
+/idaholab/STIG/tree/master/docs/source,4,3
+/idaholab/stig,3,2
+/idaholab/STIG/blob/master/Dockerfile_insecure,3,2
+/idaholab/STIG/releases/tag/v2.2,3,2
+/idaholab/STIG/tree/master/src,3,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IdahoLabResearch/HydroGenerate,36,19
+/IdahoLabResearch/HydroGenerate/tree/main/HydroGenerate,19,5
+/IdahoLabResearch/HydroGenerate/blob/main/HydroGenerate/flow_preprocessing.py,9,4
+/IdahoLabResearch/HydroGenerate/blob/main/HydroGenerate/hydropower_potential.py,7,3
+/IdahoLabResearch/HydroGenerate/blob/main/HydroGenerate/turbine_calculation.py,6,3
+/IdahoLabResearch/HydroGenerate/tree/main/examples,6,3
+/IdahoLabResearch/HydroGenerate/blob/main/HydroGenerate/hydraulic_processing.py,5,2
+/IdahoLabResearch/HydroGenerate/pulls,5,2
+/IdahoLabResearch/HydroGenerate/tree/main/docs,5,1
+/IdahoLabResearch/HydroGenerate/blob/main/examples/HydroGenerate_Workflow.ipynb,4,4

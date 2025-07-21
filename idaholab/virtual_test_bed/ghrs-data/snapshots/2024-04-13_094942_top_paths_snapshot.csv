@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,61,38
+/idaholab/virtual_test_bed/tree/devel/htgr,49,11
+/idaholab/virtual_test_bed/tree/devel/microreactors,49,11
+/idaholab/virtual_test_bed/tree/devel/msr,36,10
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,33,9
+/idaholab/virtual_test_bed/tree/devel/msr/msfr/core_cfd,33,6
+/idaholab/virtual_test_bed/tree/devel/msr/msre,30,5
+/idaholab/virtual_test_bed/tree/devel/msr/msre/steady_state,20,3
+/idaholab/virtual_test_bed/tree/devel/microreactors/drum_rotation,19,5
+/idaholab/virtual_test_bed/pull/375,17,14

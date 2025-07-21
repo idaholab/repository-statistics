@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,883,510
+/cisagov/Malcolm/blob/main/docs/README.md,314,159
+/cisagov/Malcolm/blob/main/docs/quickstart.md,119,58
+/cisagov/Malcolm/blob/main/docs/ubuntu-install-example.md,103,39
+/cisagov/Malcolm/commits/main,69,1
+/cisagov/Malcolm/tree/main/docs,53,25
+/cisagov/Malcolm/issues,53,24
+/cisagov/Malcolm/releases,52,39
+/cisagov/Malcolm/tree/main/Dockerfiles,43,16
+/cisagov/Malcolm/blob/main/docker-compose.yml,41,18

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,11,9
+/idaholab/magpie/blob/devel/src/materials/NeuralNetFreeEnergy.C,8,1
+/idaholab/magpie/blob/devel/scripts/fit_neural_net.py,6,4
+/idaholab/magpie/tree/devel/src/materials,6,1
+/idaholab/magpie/tree/devel/src,5,1
+/idaholab/magpie/tree/devel/data,4,2
+/idaholab/magpie/tree/devel/tests,4,2
+/idaholab/magpie/blob/devel/data/fission_yield/922350_Thermal.txt,4,1
+/idaholab/magpie/blob/devel/src/materials/NeuralNetFreeEnergyBase.C,4,1
+/idaholab/magpie/blob/f329060c4ccbe9ff5ec1de9087d74e55f12d7439/doc/scattering_recoils/bibdata.bib,3,1

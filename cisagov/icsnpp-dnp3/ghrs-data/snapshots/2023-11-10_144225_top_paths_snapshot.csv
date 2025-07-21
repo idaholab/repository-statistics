@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-dnp3,25,19
+/cisagov/icsnpp-dnp3/tree/main/scripts,16,2
+/cisagov/icsnpp-dnp3/blob/main/scripts/main.zeek,10,2
+/cisagov/icsnpp-dnp3/tree/c0c7e000ecef4d627ad5f83ff94aaa3e76284654/tests,6,1
+/cisagov/icsnpp-dnp3/tree/c0c7e000ecef4d627ad5f83ff94aaa3e76284654,3,2
+/cisagov/icsnpp-dnp3/tree/c0c7e000ecef4d627ad5f83ff94aaa3e76284654/tests/baseline/analyzer.basic,3,1
+/cisagov/icsnpp-dnp3/tree/main,3,1
+/cisagov/icsnpp-dnp3/blob/c0c7e000ecef4d627ad5f83ff94aaa3e76284654/tests/baseline/analyzer.basic/dnp3_objects.log,2,1
+/cisagov/icsnpp-dnp3/blob/main/README.md,2,1
+/cisagov/icsnpp-dnp3/blob/main/scripts/consts.zeek,2,1

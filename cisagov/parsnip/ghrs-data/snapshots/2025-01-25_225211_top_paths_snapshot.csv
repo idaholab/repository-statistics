@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,30,18
+/cisagov/parsnip/blob/main/docs/parsnip.md,10,5
+/cisagov/parsnip/tree/main/docs,9,4
+/cisagov/parsnip/tree/main/frontend,7,5
+/cisagov/parsnip/blob/main/docs/traces/MySimpleProtocol.pcapng,7,2
+/cisagov/parsnip/blob/main/frontend/README.md,6,3
+/cisagov/parsnip/tree/main,5,3
+/cisagov/parsnip/blob/main/docs/syntax.md,3,3
+/cisagov/parsnip/tree/main/frontend/app,3,1
+/cisagov/parsnip/tree/main/frontend/app/parsnip,3,1

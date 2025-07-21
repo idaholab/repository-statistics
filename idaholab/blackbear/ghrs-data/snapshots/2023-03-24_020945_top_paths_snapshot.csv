@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/blackbear,29,11
+/idaholab/blackbear/discussions/339,17,2
+/idaholab/blackbear/discussions,12,3
+/idaholab/blackbear/blob/devel/src/materials/DamagePlasticityStressUpdate.C,12,1
+/idaholab/blackbear/tree/devel/src/materials,10,2
+/idaholab/blackbear/pulls,7,3
+/idaholab/blackbear/tree/devel/src,7,2
+/idaholab/blackbear/tree/devel/scripts,5,3
+/idaholab/blackbear/blob/devel/include/materials/DamagePlasticityStressUpdate.h,3,1
+/idaholab/blackbear/blob/devel/src/materials/ComputeMultipleInelasticDamageStress.C,3,1

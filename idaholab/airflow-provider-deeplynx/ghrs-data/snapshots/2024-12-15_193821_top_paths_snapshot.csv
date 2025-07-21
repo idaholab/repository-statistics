@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/idaholab/airflow-provider-deeplynx,3,2
+/idaholab/airflow-provider-deeplynx/blob/main/pyproject.toml,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/README.md,1,1
+/idaholab/airflow-provider-deeplynx/tree/main/deeplynx_provider,1,1
+/idaholab/airflow-provider-deeplynx/tree/main/deeplynx_provider/hooks,1,1

@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-modbus,58,30
+/cisagov/icsnpp-modbus/tree/main/examples,21,3
+/cisagov/icsnpp-modbus/tree/main/scripts,9,6
+/cisagov/icsnpp-modbus/blob/main/scripts/main.zeek,6,4
+/cisagov/icsnpp-modbus/blob/main/scripts/__load__.zeek,2,2
+/cisagov/icsnpp-modbus/blob/main/examples/modbus_example.pcap,1,1
+/cisagov/icsnpp-modbus/blob/main/zkg.meta,1,1
+/cisagov/icsnpp-modbus/issues,1,1

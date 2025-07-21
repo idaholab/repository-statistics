@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet/pull/564,12,2
+/idaholab/civet/commits/master,6,2
+/idaholab/civet/pull/564/files,6,2
+/idaholab/civet/blob/master/civet/urls.py,6,1
+/idaholab/civet/blob/master/civet/wsgi.py,6,1
+/idaholab/civet,5,3
+/idaholab/civet/blob/master/civet/apps.py,4,1
+/idaholab/civet/blob/master/civet/settings.py,4,1
+/idaholab/civet/tree/master/civet,4,1
+/idaholab/civet/commit/1300a1d0c3e32ae24e04b4fb117232cc3cc53c33,2,2

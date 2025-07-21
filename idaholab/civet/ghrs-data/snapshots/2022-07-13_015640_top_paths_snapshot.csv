@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,21,9
+/idaholab/civet/wiki,6,3
+/idaholab/civet/wiki/Server-Installation,4,3
+/idaholab/civet/pull/537,4,2
+/idaholab/civet/pulls,4,2
+/idaholab/civet/compare/master...milljm:civet:update-django,2,1
+/idaholab/civet/blob/master/requirements.txt,1,1
+/idaholab/civet/issues/414,1,1
+/idaholab/civet/issues/536,1,1
+/idaholab/civet/pull/537/commits,1,1

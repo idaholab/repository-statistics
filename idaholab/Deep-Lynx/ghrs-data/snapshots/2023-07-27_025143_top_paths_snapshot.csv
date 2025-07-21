@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Deep-Lynx,100,48
+/idaholab/Deep-Lynx/wiki,33,19
+/idaholab/Deep-Lynx/wiki/Creating-an-Ontology,14,8
+/idaholab/Deep-Lynx/wiki/How-Data-Warehouses-Work,11,8
+/idaholab/Deep-Lynx/wiki/Deep-Lynx-Ecosystem,10,5
+/idaholab/Deep-Lynx/wiki/Querying-Data-With-GraphQL,10,5
+/idaholab/Deep-Lynx/wiki/Installing-and-Running-Deep-Lynx,9,6
+/idaholab/Deep-Lynx/wiki/On-Prem-Production-Deployment,8,3
+/idaholab/Deep-Lynx/tree/master/WebGLViewer,8,2
+/idaholab/Deep-Lynx/blob/698b1cc0b54afb45f08a0609163e64f06ee9f6a2/src/http_server/routes/access_management/oauth_routes.ts,6,1

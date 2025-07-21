@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-s7comm,69,40
+/cisagov/icsnpp-s7comm/tree/main/src,17,8
+/cisagov/icsnpp-s7comm/blob/main/scripts/icsnpp/s7comm/main.zeek,15,6
+/cisagov/icsnpp-s7comm/tree/main/scripts,14,6
+/cisagov/icsnpp-s7comm/tree/main/scripts/icsnpp/s7comm,10,6
+/cisagov/icsnpp-s7comm/issues,7,1
+/cisagov/icsnpp-s7comm/tree/2c9f6dc70b91b1d1eb3c5f9470e891b0fd21517e,6,5
+/cisagov/icsnpp-s7comm/blob/main/src/s7comm-analyzer.pac,5,3
+/cisagov/icsnpp-s7comm/blob/main/scripts/icsnpp/s7comm/files.zeek,3,3
+/cisagov/icsnpp-s7comm/blob/main/src/S7COMM.h,3,3

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,317,174
+/idaholab/Malcolm/blob/main/docs/README.md,139,43
+/idaholab/Malcolm/releases/tag/v24.03.1,123,63
+/idaholab/Malcolm/releases,92,53
+/idaholab/Malcolm/blob/6c3917687d57251b422ebc9b50b01cca29456713/shared/bin/pcap_utils.py,76,17
+/idaholab/Malcolm/tree/main/docs,40,10
+/idaholab/Malcolm/blob/main/docs/download.md,37,9
+/idaholab/Malcolm/blob/6c3917687d57251b422ebc9b50b01cca29456713/file-upload/docker-entrypoint.sh,35,11
+/idaholab/Malcolm/blob/6c3917687d57251b422ebc9b50b01cca29456713/file-upload/nginx/sites-available/default,34,7
+/idaholab/Malcolm/tree/main/dashboards/dashboards,33,8

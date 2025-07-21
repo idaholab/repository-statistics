@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-dnp3,10,8
+/cisagov/icsnpp-dnp3/tree/main/scripts,7,2
+/cisagov/icsnpp-dnp3/blob/main/scripts/main.zeek,4,2
+/cisagov/icsnpp-dnp3/blob/main/LICENSE.txt,2,1
+/cisagov/icsnpp-dnp3/blob/main/scripts/consts.zeek,2,1

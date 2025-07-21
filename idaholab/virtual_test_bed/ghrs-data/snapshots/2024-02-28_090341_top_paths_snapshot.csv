@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,79,42
+/idaholab/virtual_test_bed/tree/devel/htgr,62,10
+/idaholab/virtual_test_bed/tree/devel/sfr/abtr,44,6
+/idaholab/virtual_test_bed/pulls,39,9
+/idaholab/virtual_test_bed/pull/355,35,6
+/idaholab/virtual_test_bed/tree/devel/microreactors/mrad,35,2
+/idaholab/virtual_test_bed/tree/devel/msr,33,9
+/idaholab/virtual_test_bed/tree/devel/microreactors,32,8
+/idaholab/virtual_test_bed/blob/devel/microreactors/hpmr_h2/steady/thermal_ss.i,32,3
+/idaholab/virtual_test_bed/tree/devel/htgr/generic-pbr-tutorial,27,2

@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bsap,6,5
+/cisagov/icsnpp-bsap/blob/main/tests/baseline/analyzer.ip/bsap_ip_header.log,2,1
+/cisagov/icsnpp-bsap/blob/main/zkg.meta,2,1
+/cisagov/icsnpp-bsap/blob/main/tests/traces/bsap-ip_example.pcap,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/moose,1460,567
+/idaholab/moose/discussions,1400,271
+/idaholab/moose/issues,477,92
+/idaholab/moose/pulls,457,75
+/idaholab/moose/tree/next/modules,372,85
+/idaholab/moose/tree/next/framework,171,44
+/idaholab/moose/tree/next/examples,145,48
+/idaholab/moose/tree/next/modules/solid_mechanics,119,23
+/idaholab/moose/tree/next/framework/src,108,24
+/idaholab/moose/pull/27639,103,21

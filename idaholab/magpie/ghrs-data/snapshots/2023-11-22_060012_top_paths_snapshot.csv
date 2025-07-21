@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,5,5
+/idaholab/magpie/tree/devel/data,4,2
+/idaholab/magpie/blob/devel/data/fission_yield/922350_Thermal.txt,4,1
+/idaholab/magpie/blob/devel/data/alpha_decay/read_and_prepare.py,2,1
+/idaholab/magpie/blob/devel/tests/meshes/tests,2,1
+/idaholab/magpie/tree/devel/data/alpha_decay,2,1
+/idaholab/magpie/tree/devel/data/fission_yield,2,1
+/idaholab/magpie/tree/devel/tests,2,1
+/idaholab/magpie/tree/devel/tests/meshes,2,1
+/idaholab/magpie/issues/282,1,1

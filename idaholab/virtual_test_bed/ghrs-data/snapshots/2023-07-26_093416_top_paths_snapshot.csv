@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,60,42
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,60,11
+/idaholab/virtual_test_bed/tree/main/msr/msfr/steady,53,4
+/idaholab/virtual_test_bed/tree/devel/htgr,51,8
+/idaholab/virtual_test_bed/pull/258,48,3
+/idaholab/virtual_test_bed/tree/devel/htgr/pbmr400,41,8
+/idaholab/virtual_test_bed/tree/devel/htgr/htr10,36,7
+/idaholab/virtual_test_bed/tree/devel/msr/msfr/steady,34,11
+/idaholab/virtual_test_bed/tree/devel/msr,33,10
+/idaholab/virtual_test_bed/tree/devel/htgr/pbmr400/shared,31,2

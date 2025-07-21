@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-enip,45,18
+/cisagov/icsnpp-enip/blob/main/scripts/icsnpp/enip/main.zeek,5,4
+/cisagov/icsnpp-enip/blob/main/zkg.meta,3,2
+/cisagov/icsnpp-enip/blob/main/configure.plugin,3,1
+/cisagov/icsnpp-enip/tree/main/scripts,2,2
+/cisagov/icsnpp-enip/tree/main/scripts/icsnpp/enip,2,2
+/cisagov/icsnpp-enip/issues,2,1
+/cisagov/icsnpp-enip/issues/17,2,1
+/cisagov/icsnpp-enip/blob/main/LICENSE.txt,1,1
+/cisagov/icsnpp-enip/blob/main/Makefile,1,1

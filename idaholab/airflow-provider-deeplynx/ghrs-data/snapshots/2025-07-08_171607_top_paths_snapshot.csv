@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/airflow-provider-deeplynx,5,4
+/idaholab/airflow-provider-deeplynx/tree/main/deeplynx_provider,3,2
+/idaholab/airflow-provider-deeplynx/blob/main/create_deeplynx_conn_with_airflow_ui.png,2,1
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/example_dags/deeplynx_provider_test.py,2,1
+/idaholab/airflow-provider-deeplynx/tree/main/docs/deeplynx_provider,2,1
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/example_dags/data_query.py,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/example_dags/data_query_then_parse.py,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/operators/set_data_source_active_operator.py,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/operators/set_type_mapping_active_operator.py,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/operators/utils.py,1,1

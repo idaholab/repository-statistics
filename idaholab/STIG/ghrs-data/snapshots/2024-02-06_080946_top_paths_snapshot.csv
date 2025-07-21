@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/STIG,25,16
+/idaholab/STIG/blob/master/package.json,8,3
+/idaholab/STIG/releases/tag/v2.1.0,7,4
+/idaholab/STIG/tree/master,3,3
+/idaholab/STIG/releases,3,2
+/idaholab/STIG/commits/master,3,1
+/idaholab/STIG/releases/tag/2.0.0.alpha,2,2
+/idaholab/STIG/blob/master/docker-compose.yaml,2,1
+/idaholab/STIG/blob/master/docs/source/linux-rpm.rst,2,1
+/idaholab/STIG/tree/master/docs,2,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,28,11
+/idaholab/mastodon/search,5,1
+/idaholab/mastodon/issues/62,4,4
+/idaholab/mastodon/issues,3,2
+/idaholab/mastodon/tree/devel/examples,3,2
+/idaholab/mastodon/pulls,2,2
+/idaholab/mastodon/issues/19,2,1
+/idaholab/mastodon/issues/61,2,1
+/idaholab/mastodon/tree/devel/src,2,1
+/idaholab/mastodon/blob/a8ddacd00e7dc0058d3d3aa4f1bf0e9c5a7910f6/python/mastodonutils/test/test_fault_tree.py,1,1

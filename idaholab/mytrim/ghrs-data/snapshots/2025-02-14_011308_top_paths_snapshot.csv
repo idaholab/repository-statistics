@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/idaholab/mytrim,10,7
+/idaholab/mytrim/blob/master/CMakeLists.txt,3,3
+/idaholab/mytrim/blob/master/tests/uo2/test.sh,2,1
+/idaholab/mytrim/blob/master/tests/run_tests.sh,1,1
+/idaholab/mytrim/tree/master/tests,1,1
+/idaholab/mytrim/tree/master/tests/uo2,1,1
+/idaholab/mytrim/tree/master/tests/uo2/gold,1,1
+/idaholab/mytrim/wiki,1,1

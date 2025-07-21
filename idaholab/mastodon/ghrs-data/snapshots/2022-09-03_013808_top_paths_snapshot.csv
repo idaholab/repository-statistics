@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,22,9
+/idaholab/mastodon/pull/418,17,2
+/idaholab/mastodon/pulls,9,4
+/idaholab/mastodon/pull/419,4,1
+/idaholab/mastodon/pull/418/files,2,1
+/idaholab/mastodon/blob/devel/.github/ISSUE_TEMPLATE/bug-report.md,1,1
+/idaholab/mastodon/blob/devel/test/tests/bcs/nonreflecting_bc/non_reflecting_bc_test.i,1,1
+/idaholab/mastodon/compare/devel...cticenhour:rtm-fix,1,1
+/idaholab/mastodon/fork,1,1
+/idaholab/mastodon/issues/296,1,1

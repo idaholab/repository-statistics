@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,56,32
+/idaholab/virtual_test_bed/tree/devel/msr,28,9
+/idaholab/virtual_test_bed/tree/devel/msr/msre,23,4
+/idaholab/virtual_test_bed/tree/devel/msr/msre/steady_state,21,3
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,20,7
+/idaholab/virtual_test_bed/blob/devel/msr/msre/steady_state/msre_loop_1d.i,19,4
+/idaholab/virtual_test_bed/pulls,13,5
+/idaholab/virtual_test_bed/tree/devel/msr/msfr/transient,12,3
+/idaholab/virtual_test_bed/tree/devel/msr/msre/reactivity_insertion,11,3
+/idaholab/virtual_test_bed/issues,10,3

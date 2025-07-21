@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/idaholab/Jester,4,4
+/idaholab/Jester/tree/main/jester_core,4,1
+/idaholab/Jester/tree/main,3,1
+/idaholab/Jester/tree/main/jester_core/src,2,1
+/idaholab/Jester/blob/main/jester_core/build.rs,1,1
+/idaholab/Jester/blob/main/jester_core/Cargo.toml,1,1
+/idaholab/Jester/blob/main/jester_core/src/lib.rs,1,1
+/idaholab/Jester/tree/main/.github,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,80,46
+/idaholab/virtual_test_bed/blob/devel/htgr/httf/inputs/HTTF_PG26_multiapp.i,75,1
+/idaholab/virtual_test_bed/pulls,52,10
+/idaholab/virtual_test_bed/pull/375,48,11
+/idaholab/virtual_test_bed/tree/devel/htgr/httf,45,3
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,37,6
+/idaholab/virtual_test_bed/tree/devel/htgr,34,4
+/idaholab/virtual_test_bed/tree/devel/microreactors,33,8
+/idaholab/virtual_test_bed/tree/devel,30,17
+/idaholab/virtual_test_bed/tree/devel/pbfhr,30,3

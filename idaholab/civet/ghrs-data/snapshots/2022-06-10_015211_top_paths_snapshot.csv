@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,7,4
+/idaholab/civet/pull/537,7,2
+/idaholab/civet/pull/537/files,4,2
+/idaholab/civet/compare/master...milljm:update-django,3,1
+/idaholab/civet/commit/33390a2c76058ea959c88008ca88532af38e3055,2,2
+/idaholab/civet/issues/414,2,1
+/idaholab/civet/pull/537/commits/305a12057f47ff848493d7da41b750af8efa2119,2,1
+/idaholab/civet/blame/master/ci/gitlab/api.py,1,1
+/idaholab/civet/blob/f8413103007ed615e24fe2cd7f0a0c8c200f9a03/ci/gitlab/api.py,1,1
+/idaholab/civet/blob/master/ci/gitlab/api.py,1,1

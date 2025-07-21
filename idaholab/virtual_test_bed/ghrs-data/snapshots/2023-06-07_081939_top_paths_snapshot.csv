@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,60,32
+/idaholab/virtual_test_bed/tree/devel/msr,22,8
+/idaholab/virtual_test_bed/tree/devel/msr/msre,21,4
+/idaholab/virtual_test_bed/tree/devel/msr/msre/steady_state,17,4
+/idaholab/virtual_test_bed/blob/devel/msr/msre/steady_state/msre_loop_1d.i,16,5
+/idaholab/virtual_test_bed/issues,13,4
+/idaholab/virtual_test_bed/pulls,12,5
+/idaholab/virtual_test_bed/tree/devel/sfr,9,4
+/idaholab/virtual_test_bed/blob/devel/doc/content/resources/neams-workbench.md,9,3
+/idaholab/virtual_test_bed/tree/main/msr/msfr/steady,9,3

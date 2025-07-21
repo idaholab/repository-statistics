@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,21,12
+/idaholab/malamute/tree/devel/examples,8,5
+/idaholab/malamute/blob/devel/doc/content/tutorials/efas/introduction/tutorial_overview.md,7,1
+/idaholab/malamute/blob/devel/examples/melt_pool_2d/melt_pool.i,5,3
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition,5,3
+/idaholab/malamute/tree/devel/examples/melt_pool_2d,4,3
+/idaholab/malamute/blob/devel/examples/melt_pool_2d/examples,3,3
+/idaholab/malamute/issues,3,3
+/idaholab/malamute/blob/devel/examples/directed_energy_deposition/cylinder/master_app_mechanical.i,3,1
+/idaholab/malamute/blob/devel/tutorials/efas/introduction/dcs5_copper_constant_properties_electrothermal.i,3,1

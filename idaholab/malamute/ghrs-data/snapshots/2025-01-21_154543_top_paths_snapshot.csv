@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,21,16
+/idaholab/malamute/tree/devel/examples,11,7
+/idaholab/malamute/blob/devel/examples/directed_energy_deposition/hollow_cylinder/master_app_mechanical.i,9,1
+/idaholab/malamute/blob/devel/examples/directed_energy_deposition/hollow_cylinder/sub_app_thermal.i,6,2
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition,5,5
+/idaholab/malamute/tree/devel/examples/laser_welding_problems,5,1
+/idaholab/malamute/blob/devel/examples/laser_welding_problems/physics/multi-scale-grain-growth/grain_growth_2D_bottom.i,4,1
+/idaholab/malamute/tree/devel/examples/laser_welding_problems/profiling,4,1
+/idaholab/malamute/blob/devel/examples/melt_pool_3d/melt_pool.i,3,3
+/idaholab/malamute/tree/devel,3,3

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,81,40
+/idaholab/virtual_test_bed/pulls,31,4
+/idaholab/virtual_test_bed/pull/480,26,3
+/idaholab/virtual_test_bed/tree/devel,19,10
+/idaholab/virtual_test_bed/tree/devel/microreactors,19,10
+/idaholab/virtual_test_bed/blob/devel/microreactors/hpmr_h2/steady/neutronics_eigenvalue.i,19,2
+/idaholab/virtual_test_bed/pull/478,14,5
+/idaholab/virtual_test_bed/tree/devel/msr,10,4
+/idaholab/virtual_test_bed/tree/devel/microreactors/hpmr_h2/steady,10,3
+/idaholab/virtual_test_bed/tree/devel/msr/msfr/core_cfd/3d_wedge_rans/WA,10,2

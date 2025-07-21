@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,6,4
+/idaholab/magpie/tree/devel/examples,2,2
+/idaholab/magpie/blob/4fe5e0dadb54d8c8213a1ce52d62e287292597c0/doc/Parkin-Coulter-MC2019-final/parking_coulter_MC2019_Schunert.tex,2,1
+/idaholab/magpie/blob/devel/tests/energy_deposition/elemental.i,2,1
+/idaholab/magpie/tree/devel/tests/kernels/mytrim,2,1
+/idaholab/magpie/blob/devel/examples/deep_neural_network/data.dat,1,1
+/idaholab/magpie/blob/devel/examples/deep_neural_network/dnn.i,1,1
+/idaholab/magpie/blob/devel/examples/deep_neural_network/genann.dat,1,1
+/idaholab/magpie/blob/devel/examples/deep_neural_network/weights_biases.txt,1,1
+/idaholab/magpie/blob/devel/examples/diffusion2DMat.i,1,1

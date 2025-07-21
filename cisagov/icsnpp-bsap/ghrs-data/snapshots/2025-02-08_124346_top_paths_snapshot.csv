@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bsap,9,8
+/cisagov/icsnpp-bsap/blob/main/src/bsap.cc,3,2
+/cisagov/icsnpp-bsap/blob/main/tests/traces/bsap-ip_example.pcap,2,2
+/cisagov/icsnpp-bsap/blob/main/scripts/consts.zeek,2,1
+/cisagov/icsnpp-bsap/blob/main/scripts/icsnpp/bsap/main.zeek,2,1
+/cisagov/icsnpp-bsap/blob/main/src/events.bif,2,1
+/cisagov/icsnpp-bsap/blob/main/tests/baseline/analyzer.ip/bsap_ip_header.log,2,1
+/cisagov/icsnpp-bsap/tree/main/scripts/icsnpp/bsap,2,1
+/cisagov/icsnpp-bsap/tree/main/src,2,1
+/cisagov/icsnpp-bsap/blob/main/scripts/icsnpp/bsap/dpd.sig,1,1

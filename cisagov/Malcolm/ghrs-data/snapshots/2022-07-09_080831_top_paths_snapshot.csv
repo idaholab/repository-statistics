@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,899,428
+/cisagov/Malcolm/releases,49,37
+/cisagov/Malcolm/blob/main/docker-compose.yml,33,24
+/cisagov/Malcolm/tree/main/Dockerfiles,32,13
+/cisagov/Malcolm/tree/main/logstash,22,4
+/cisagov/Malcolm/tree/main/dashboards,21,8
+/cisagov/Malcolm/tree/main/zeek,19,10
+/cisagov/Malcolm/tree/main/logstash/pipelines,19,4
+/cisagov/Malcolm/blob/main/Dockerfiles/arkime.Dockerfile,19,2
+/cisagov/Malcolm/issues/137,18,17

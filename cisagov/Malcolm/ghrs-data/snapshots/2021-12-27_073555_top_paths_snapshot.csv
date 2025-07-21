@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,876,425
+/cisagov/Malcolm/releases,44,21
+/cisagov/Malcolm/tree/main/arkime,38,6
+/cisagov/Malcolm/tree/main/zeek,29,8
+/cisagov/Malcolm/tree/main/zeek/config,26,8
+/cisagov/Malcolm/tree/main/sensor-iso,22,11
+/cisagov/Malcolm/search,22,3
+/cisagov/Malcolm/blob/main/docs/images/screenshots/arkime_session_zeek.png,13,8
+/cisagov/Malcolm/blob/main/docs/images/malcolm_network_diagram.png,12,7
+/cisagov/Malcolm/blob/main/zeek/config/local.zeek,12,4

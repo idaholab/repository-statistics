@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-synchrophasor,9,6
+/cisagov/icsnpp-synchrophasor/blob/efeacc5734fe519321872fa3f7b5c14d56c9b5f2/README.md,3,1
+/cisagov/icsnpp-synchrophasor/tree/efeacc5734fe519321872fa3f7b5c14d56c9b5f2,2,2
+/cisagov/icsnpp-synchrophasor/blob/main/tests/baseline/analyzer.1PMU_TCP/synchrophasor_data.log,2,1
+/cisagov/icsnpp-synchrophasor/tree/main/tests/baseline/analyzer.1PMU_TCP,2,1
+/cisagov/icsnpp-synchrophasor/blob/main/tests/baseline/analyzer.1PMU_TCP/conn.log,1,1
+/cisagov/icsnpp-synchrophasor/blob/main/tests/baseline/analyzer.1PMU_TCP/synchrophasor_cfg_detail.log,1,1
+/cisagov/icsnpp-synchrophasor/blob/main/tests/baseline/analyzer.1PMU_TCP/synchrophasor_cmd.log,1,1
+/cisagov/icsnpp-synchrophasor/blob/main/tests/baseline/analyzer.1PMU_TCP/synchrophasor_data_detail.log,1,1
+/cisagov/icsnpp-synchrophasor/blob/main/tests/baseline/analyzer.1PMU_TCP/synchrophasor.log,1,1

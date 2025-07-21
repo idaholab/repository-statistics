@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,23,12
+/cisagov/parsnip/blob/main/docs/parsnip.md,6,5
+/cisagov/parsnip/discussions/34,4,3
+/cisagov/parsnip/commits/main,2,2
+/cisagov/parsnip/pulls,2,2
+/cisagov/parsnip/tree/main,2,2
+/cisagov/parsnip/blob/eb7442018d8cd622fe409360660c11f8ea00ad5a/backend/json_processing.py,2,1
+/cisagov/parsnip/blob/eb7442018d8cd622fe409360660c11f8ea00ad5a/backend/utils.py,1,1
+/cisagov/parsnip/blob/eb7442018d8cd622fe409360660c11f8ea00ad5a/frontend/app/parsnip/main/checkForMissingDependencies.py,1,1
+/cisagov/parsnip/blob/main/docs/images/updated_enum_page.png,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,123,58
+/idaholab/virtual_test_bed/pulls,60,17
+/idaholab/virtual_test_bed/tree/devel/microreactors,40,21
+/idaholab/virtual_test_bed/issues/623,27,12
+/idaholab/virtual_test_bed/issues,26,12
+/idaholab/virtual_test_bed/tree/devel/msr/msfr/steady,24,7
+/idaholab/virtual_test_bed/tree/devel/htgr,23,14
+/idaholab/virtual_test_bed/blob/devel/microreactors/mrad/Serpent_Model/serpent_input.i,23,8
+/idaholab/virtual_test_bed/tree/devel/microreactors/mrad/Serpent_Model,23,5
+/idaholab/virtual_test_bed/tree/devel/microreactors/mrad,22,9

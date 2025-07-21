@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/EMRALD,43,12
+/idaholab/EMRALD/pulls,22,5
+/idaholab/EMRALD/branches,12,5
+/idaholab/EMRALD/issues,10,5
+/idaholab/EMRALD/pull/68,8,4
+/idaholab/EMRALD/commits/main,7,3
+/idaholab/EMRALD/pull/69,5,3
+/idaholab/EMRALD/tree/application-templates,5,2
+/idaholab/EMRALD/tree/linuxBuildTest,4,2
+/idaholab/EMRALD/blob/develop/linuxMergeTest/EMRALD.sln,4,1

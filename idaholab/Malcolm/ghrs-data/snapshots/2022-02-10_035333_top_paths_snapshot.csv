@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,145,62
+/idaholab/Malcolm/actions,38,1
+/idaholab/Malcolm/issues,22,6
+/idaholab/malcolm,21,11
+/idaholab/Malcolm/releases,17,8
+/idaholab/Malcolm/releases/tag/v5.2.3,16,12
+/idaholab/Malcolm/issues/75,9,4
+/idaholab/Malcolm/issues/74,9,3
+/idaholab/Malcolm/actions/workflows/malcolm-iso-build-docker-wrap-push-ghcr.yml,8,1
+/idaholab/Malcolm/blob/main/docker-compose-standalone.yml,7,4

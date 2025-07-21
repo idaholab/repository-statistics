@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,15,8
+/idaholab/magpie/tree/devel/src,8,2
+/idaholab/magpie/search,5,2
+/idaholab/magpie/blob/devel/src/main.C,4,1
+/idaholab/magpie/tree/devel/src/base,4,1
+/idaholab/magpie/tree/devel/tests,3,2
+/idaholab/magpie/blob/devel/src/base/MagpieApp.C,3,1
+/idaholab/magpie/tree/devel/tests/greens,3,1
+/idaholab/magpie/tree/devel/examples,2,2
+/idaholab/magpie/tree/devel/include/userobjects,2,2

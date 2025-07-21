@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,97,45
+/idaholab/virtual_test_bed/pull/514,56,27
+/idaholab/virtual_test_bed/pulls,45,11
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY,34,9
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY/Neutronics,33,5
+/idaholab/virtual_test_bed/tree/devel/microreactors,30,14
+/idaholab/virtual_test_bed/issues,27,7
+/idaholab/virtual_test_bed/blob/devel/microreactors/hpmr_h2/steady/neutronics_eigenvalue.i,24,3
+/idaholab/virtual_test_bed/blob/devel/microreactors/KRUSTY/Neutronics/Serpent/krusty_serpent_f300_s300_ANL_Simplified_g22.inp,21,4
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY/Neutronics/Serpent,20,4

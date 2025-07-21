@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,6,6
+/idaholab/magpie/blob/devel/scripts/fit_neural_net.py,4,1
+/idaholab/magpie/tree/devel/src,2,2
+/idaholab/magpie/tree/devel/examples,2,1
+/idaholab/magpie/tree/devel/src/kernels,2,1
+/idaholab/magpie/blob/devel/doc/parkin_coulter/comparison_parkin_coulter_Al2O3_first_order_perturbation/perturbation_vs_exact.py,1,1
+/idaholab/magpie/blob/devel/examples/grand_potential_magpie/GP_MAGPIE_density.i,1,1
+/idaholab/magpie/blob/devel/examples/grand_potential_magpie/tests,1,1
+/idaholab/magpie/blob/devel/include/kernels/MyTRIMElementSource.h,1,1
+/idaholab/magpie/blob/devel/src/kernels/DefectAnnihilation.C,1,1

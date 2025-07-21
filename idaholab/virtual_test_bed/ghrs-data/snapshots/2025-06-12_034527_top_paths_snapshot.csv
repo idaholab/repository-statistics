@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,111,47
+/idaholab/virtual_test_bed/pulls,47,14
+/idaholab/virtual_test_bed/pull/582,42,6
+/idaholab/virtual_test_bed/pull/579,38,2
+/idaholab/virtual_test_bed/tree/devel/microreactors,22,14
+/idaholab/virtual_test_bed/tree/devel/msr/msre,22,8
+/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model,22,5
+/idaholab/virtual_test_bed/tree/devel/msr,20,9
+/idaholab/virtual_test_bed/issues,19,8
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,19,5

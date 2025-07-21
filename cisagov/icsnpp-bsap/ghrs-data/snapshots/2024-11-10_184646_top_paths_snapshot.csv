@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bsap,11,8
+/cisagov/icsnpp-bsap/tree/main/tests,5,2
+/cisagov/icsnpp-bsap/tree/main/tests/traces,4,3
+/cisagov/icsnpp-bsap/blob/main/tests/traces/bsap-ip_example.pcap,3,3
+/cisagov/icsnpp-bsap/tree/main,3,2
+/cisagov/icsnpp-bsap/blob/main/tests/scripts/diff-remove-timestamps,2,2
+/cisagov/icsnpp-bsap/tree/main/src,2,1
+/cisagov/icsnpp-bsap/blob/main/CMakeLists.txt,1,1
+/cisagov/icsnpp-bsap/blob/main/LICENSE.txt,1,1
+/cisagov/icsnpp-bsap/blob/main/README.md,1,1

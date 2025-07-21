@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/EMRALD,59,17
+/idaholab/EMRALD/pulls,18,4
+/idaholab/EMRALD/releases,13,1
+/idaholab/EMRALD/commits/main,12,5
+/idaholab/EMRALD/issues,7,5
+/idaholab/EMRALD/pull/188,7,4
+/idaholab/EMRALD/branches,6,3
+/idaholab/EMRALD/commit/9efe5b9dcb9e8e2ad7521be8977680022ea235f5,6,3
+/idaholab/EMRALD/compare,5,2
+/idaholab/EMRALD/compare/main...develop/dotnet6Upgrade,5,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,18,13
+/idaholab/mastodon/pull/442,10,3
+/idaholab/mastodon/issues,5,2
+/idaholab/mastodon/pulls,5,2
+/idaholab/mastodon/pull/442/files,3,3
+/idaholab/mastodon/issues/443,3,2
+/idaholab/mastodon/commit/859f18a111a8ef164e9c1fd89474511a4b1f2e2c,2,2
+/idaholab/mastodon/blob/devel/doc/sqa_reports.yml,2,1
+/idaholab/mastodon/branches,2,1
+/idaholab/mastodon/compare/devel...loganharbour:mastodon:coverage_less,2,1

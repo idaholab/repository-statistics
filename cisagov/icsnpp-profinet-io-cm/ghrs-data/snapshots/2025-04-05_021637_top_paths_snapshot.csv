@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-profinet-io-cm,20,17
+/cisagov/icsnpp-profinet-io-cm/tree/main/analyzer,7,5
+/cisagov/icsnpp-profinet-io-cm/tree/main/testing,4,2
+/cisagov/icsnpp-profinet-io-cm/tree/main,3,3
+/cisagov/icsnpp-profinet-io-cm/blob/main/analyzer/profinet_io_cm_enums.spicy,2,2
+/cisagov/icsnpp-profinet-io-cm/blob/main/analyzer/profinet_io_cm.evt,2,2
+/cisagov/icsnpp-profinet-io-cm/tree/main/testing/Files,2,2
+/cisagov/icsnpp-profinet-io-cm/tree/main/testing/tests,2,2
+/cisagov/icsnpp-profinet-io-cm/blob/main/analyzer/profinet_io_cm_types.spicy,1,1
+/cisagov/icsnpp-profinet-io-cm/blob/main/analyzer/types.zeek,1,1

@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/civet,3,2
+/idaholab/civet/tree/master/ci,3,1
+/idaholab/civet/tree/master/ci/tests,3,1
+/idaholab/civet/blob/master/ci/tests/test_git_api.py,2,1
+/idaholab/civet/blob/master/ci/tests/test_RepositoryStatus.py,2,1
+/idaholab/civet/tree/master/civet,2,1
+/idaholab/civet/issues/483,1,1
+/idaholab/civet/pulls,1,1
+/idaholab/civet/wiki,1,1

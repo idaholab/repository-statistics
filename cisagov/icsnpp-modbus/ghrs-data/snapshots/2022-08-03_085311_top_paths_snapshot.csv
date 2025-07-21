@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-modbus,37,22
+/cisagov/icsnpp-modbus/tree/main/scripts,11,5
+/cisagov/icsnpp-modbus/tree/main/tests,7,2
+/cisagov/icsnpp-modbus/blob/main/scripts/main.zeek,5,3
+/cisagov/icsnpp-modbus/tree/main/examples,4,2
+/cisagov/icsnpp-modbus/blob/main/scripts/__load__.zeek,2,1
+/cisagov/icsnpp-modbus/tree/main/tests/analyzer,2,1
+/cisagov/icsnpp-modbus/blob/main/examples/modbus_detailed.log,1,1
+/cisagov/icsnpp-modbus/blob/main/examples/modbus.log,1,1
+/cisagov/icsnpp-modbus/blob/main/tests/analyzer/basic.zeek,1,1

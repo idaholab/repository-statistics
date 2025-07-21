@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute/tree/devel/examples,29,8
+/idaholab/malamute,28,17
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition,18,7
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition/cylinder,14,5
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition/hollow_cylinder,12,3
+/idaholab/malamute/blob/devel/examples/directed_energy_deposition/hollow_cylinder/sub_app_thermal.i,11,2
+/idaholab/malamute/tree/devel/src,10,3
+/idaholab/malamute/blob/devel/examples/melt_pool_3d/reinit.i,8,2
+/idaholab/malamute/tree/devel/doc/content,8,1
+/idaholab/malamute/tree/devel,7,3

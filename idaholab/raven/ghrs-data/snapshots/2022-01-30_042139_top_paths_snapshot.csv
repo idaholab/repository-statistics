@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/raven,323,126
+/idaholab/raven/search,169,9
+/idaholab/raven/pulls,90,13
+/idaholab/raven/wiki,84,24
+/idaholab/raven/issues,78,13
+/idaholab/raven/commits/devel,52,2
+/idaholab/raven/tree/devel/framework,41,10
+/idaholab/raven/wiki/installationMain,40,13
+/idaholab/raven/wiki/installationHPC,33,15
+/idaholab/raven/pull/1747,31,8

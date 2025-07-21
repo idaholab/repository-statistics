@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,680,440
+/cisagov/Malcolm/blob/main/docs/README.md,613,165
+/cisagov/Malcolm/blob/main/docs/quickstart.md,191,56
+/cisagov/Malcolm/blob/main/docs/ubuntu-install-example.md,129,27
+/cisagov/Malcolm/tree/main/sensor-iso/config,95,3
+/cisagov/Malcolm/tree/main/sensor-iso,81,9
+/cisagov/Malcolm/tree/main,76,39
+/cisagov/Malcolm/blob/main/docker-compose.yml,72,25
+/cisagov/Malcolm/tree/main/sensor-iso/config/includes.chroot,64,3
+/cisagov/Malcolm/blob/main/docs/development.md,62,23

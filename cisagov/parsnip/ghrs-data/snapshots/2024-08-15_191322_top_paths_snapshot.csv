@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,49,36
+/cisagov/parsnip/tree/main/docs,13,3
+/cisagov/parsnip/blob/main/docs/parsnip.md,9,4
+/cisagov/parsnip/tree/main/frontend,9,3
+/cisagov/parsnip/blob/main/docs/syntax.md,8,2
+/cisagov/parsnip/tree/main/backend,8,2
+/cisagov/parsnip/tree/main/docs/images,6,3
+/cisagov/parsnip/compare/main...nagilum2007:parsnip:file_generation_updates,6,2
+/cisagov/parsnip/blob/main/backend/main.py,4,2
+/cisagov/parsnip/blob/main/LICENSE.txt,3,1

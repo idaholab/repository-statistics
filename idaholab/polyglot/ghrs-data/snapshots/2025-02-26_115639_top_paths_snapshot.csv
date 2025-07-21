@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/idaholab/polyglot,4,3
+/idaholab/polyglot/tree/main/scripts,2,1
+/idaholab/polyglot/blob/main/scripts/build_package.sh,1,1
+/idaholab/polyglot/blob/main/scripts/download_file.sh,1,1
+/idaholab/polyglot/blob/main/scripts/helpers/package.sh,1,1
+/idaholab/polyglot/tree/main/scripts/helpers,1,1
+/idaholab/polyglot/tree/main/toolchains,1,1
+/idaholab/polyglot/tree/main/tools,1,1

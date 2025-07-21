@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,285,210
+/idaholab/Malcolm/releases/tag/v24.08.0,154,80
+/idaholab/Malcolm/blob/main/docs/README.md,110,43
+/idaholab/Malcolm/releases,96,69
+/idaholab/Malcolm/issues,44,20
+/idaholab/Malcolm/blob/main/dashboards/dashboards/beats/f6600310-9943-11ee-a029-e973f4774355.json,44,1
+/idaholab/Malcolm/blob/main/scripts/release_cleaver.ps1,34,12
+/idaholab/Malcolm/blob/main/docs/quickstart.md,28,10
+/idaholab/Malcolm/blob/2bacdae728c7a7991faba4d6b6eb66f02d4380fc/scripts/release_cleaver.sh,27,4
+/idaholab/Malcolm/tree/main/logstash/pipelines,27,3

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Ingest/tree/main/server,18,8
+/idaholab/ingest,11,4
+/idaholab/Ingest,9,8
+/idaholab/Ingest/blob/main/server/README.md,5,4
+/idaholab/Ingest/blob/main/server/config/runtime.exs,5,3
+/idaholab/Ingest/tree/main/server/apps,5,3
+/idaholab/Ingest/blob/main/server/Dockerfile,4,2
+/idaholab/Ingest/tree/main/server/config,4,2
+/idaholab/Ingest/blob/main/server/apps/ingest_web/lib/ingest_web/application.ex,3,3
+/idaholab/Ingest/blob/main/server/config/dev.exs,3,3

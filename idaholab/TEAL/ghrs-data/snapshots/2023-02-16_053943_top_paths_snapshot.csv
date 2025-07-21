@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/TEAL,12,8
+/idaholab/TEAL/wiki,5,1
+/idaholab/TEAL/wiki/AbutUs,3,1
+/idaholab/TEAL/wiki/development-checklists,3,1
+/idaholab/TEAL/wiki/Python-Code-Standards,3,1
+/idaholab/TEAL/wiki/simpletest,3,1
+/idaholab/TEAL/wiki/Workflow,3,1
+/idaholab/TEAL/blob/devel/src/main.py,2,2
+/idaholab/TEAL/blob/devel/src/CashFlows.py,2,1
+/idaholab/TEAL/tree/devel/src,2,1

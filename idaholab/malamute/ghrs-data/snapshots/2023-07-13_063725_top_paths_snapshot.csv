@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,81,43
+/idaholab/malamute/tree/devel/examples,37,8
+/idaholab/malamute/issues,31,12
+/idaholab/malamute/tree/devel/examples/laser_welding_problems,19,5
+/idaholab/malamute/pull/89,19,3
+/idaholab/malamute/blob/devel/src/kernels/MeltPoolHeatSource.C,16,3
+/idaholab/malamute/tree/devel/src,13,5
+/idaholab/malamute/tree/devel/examples/laser_welding_problems/physics/multi-scale-grain-growth,12,4
+/idaholab/malamute/blob/devel/include/base/MalamuteHeader.h,12,2
+/idaholab/malamute/tree/devel/examples/laser_welding_problems/physics,11,4

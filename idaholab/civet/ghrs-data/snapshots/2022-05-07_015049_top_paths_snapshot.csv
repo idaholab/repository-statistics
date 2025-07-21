@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,3,3
+/idaholab/civet/issues/483,2,1
+/idaholab/civet/blob/master/ci/admin.py,1,1
+/idaholab/civet/blob/master/ci/GitCommitData.py,1,1
+/idaholab/civet/blob/master/ci/github/urls.py,1,1
+/idaholab/civet/blob/master/ci/github/views.py,1,1
+/idaholab/civet/blob/master/ci/static/ci/css/ansi2html.css,1,1
+/idaholab/civet/blob/master/ci/Stats.py,1,1
+/idaholab/civet/blob/master/ci/templatetags/settings_export.py,1,1
+/idaholab/civet/blob/master/ci/TimeUtils.py,1,1

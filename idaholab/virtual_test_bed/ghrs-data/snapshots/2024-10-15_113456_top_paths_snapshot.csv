@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,53,33
+/idaholab/virtual_test_bed/pulls,16,5
+/idaholab/virtual_test_bed/pull/440,16,2
+/idaholab/virtual_test_bed/tree/devel/msr/msre/lp_cfd,13,1
+/idaholab/virtual_test_bed/tree/devel/microreactors,12,9
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY,11,6
+/idaholab/virtual_test_bed/tree/devel/msr,9,8
+/idaholab/virtual_test_bed/blob/main/htgr/httr/steady_state_and_null_transient/thermal_hydraulics_CR_null.i,9,1
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY/Neutronics,8,6
+/idaholab/virtual_test_bed/tree/devel/sfr,7,5

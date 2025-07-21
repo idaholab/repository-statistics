@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/civet,9,8
+/idaholab/civet/blob/282f2cb1c72197cd34d4a38d396720bfaa6d7fc5/ci/client/tests/test_ProcessCommands.py,4,1
+/idaholab/civet/tree/master,3,1
+/idaholab/civet/tree/master/civet,3,1
+/idaholab/civet/tree/master/client,3,1
+/idaholab/civet/wiki,2,2
+/idaholab/civet/blob/master/civet/apps.py,2,1
+/idaholab/civet/blob/master/client/JobRunner.py,2,1
+/idaholab/civet/blob/master/requirements.txt,2,1

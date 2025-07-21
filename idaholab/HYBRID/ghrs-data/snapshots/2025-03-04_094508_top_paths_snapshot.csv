@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HYBRID,52,29
+/idaholab/HYBRID/tree/devel/Models,15,8
+/idaholab/HYBRID/tree/devel/Models/NHES,12,6
+/idaholab/HYBRID/tree/devel/Costs,7,5
+/idaholab/HYBRID/blob/devel/test_report.csv,7,4
+/idaholab/HYBRID/tree/devel,6,5
+/idaholab/HYBRID/tree/devel/Models/NHES/Nuclear/ReactorKinetics,6,2
+/idaholab/HYBRID/blob/devel/Models/NHES/Nuclear/ReactorKinetics/PointKinetics.mo,5,2
+/idaholab/HYBRID/tree/devel/Models/NHES/Nuclear/ReactorKinetics/Examples,5,2
+/idaholab/HYBRID/tree/devel/Costs/Hydrogen%20Storage,4,3

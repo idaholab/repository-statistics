@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/cape2stix,15,11
+/idaholab/cape2stix/tree/main,7,3
+/idaholab/cape2stix/blob/main/docs/README.md,6,3
+/idaholab/cape2stix/tree/main/cape2stix,5,4
+/idaholab/cape2stix/tree/main/cape2stix/scripts,4,4
+/idaholab/cape2stix/blob/main/cape2stix/scripts/convert.py,3,3
+/idaholab/cape2stix/blob/main/docs/ama_deploy.md,3,2
+/idaholab/cape2stix/blob/main/docs/neo4j_readme/Neo4j_README.md,3,1
+/idaholab/cape2stix/blob/main/cape2stix/scripts/merge_stix.py,2,2
+/idaholab/cape2stix/actions/workflows/cicada-cape.yml,2,1

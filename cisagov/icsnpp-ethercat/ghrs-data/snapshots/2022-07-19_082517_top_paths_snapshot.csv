@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-ethercat,20,10
+/cisagov/icsnpp-ethercat/tree/main/tests,12,1
+/cisagov/icsnpp-ethercat/tree/main/tests/baseline/analyzer.basic,7,1
+/cisagov/icsnpp-ethercat/tree/main/tests/analyzer,3,1
+/cisagov/icsnpp-ethercat/blob/main/tests/baseline/analyzer.basic/ecat_registers.log,2,1
+/cisagov/icsnpp-ethercat/blob/main/tests/files/random.seed,2,1
+/cisagov/icsnpp-ethercat/tree/main/tests/files,2,1
+/cisagov/icsnpp-ethercat/tree/main/tests/scripts,2,1
+/cisagov/icsnpp-ethercat/tree/main/tests/traces,2,1
+/cisagov/icsnpp-ethercat/blob/main/configure,1,1

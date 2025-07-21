@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/network-architecture-verification-and-validation,42,34
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/data/data.pkl,6,2
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/data_types.py,6,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/network_analysis.py,6,1
+/cisagov/network-architecture-verification-and-validation/tree/develop/src/navv,6,1
+/cisagov/network-architecture-verification-and-validation/tree/develop/src/navv/data,5,2
+/cisagov/network-architecture-verification-and-validation/blob/develop/LICENSE,4,2
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/bll.py,4,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/zeek.py,4,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/docs/images/navv-gui.png,3,1

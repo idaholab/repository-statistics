@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/pika,15,10
+/idaholab/pika/tree/devel/include,2,1
+/idaholab/pika/blob/devel/include/auxkernels/PikaCriteria.h,1,1
+/idaholab/pika/blob/devel/include/base/PikaApp.h,1,1
+/idaholab/pika/blob/devel/include/materials/IbexSnowMaterial.h,1,1
+/idaholab/pika/graphs/contributors,1,1
+/idaholab/pika/tree/devel/doc/doxygen,1,1
+/idaholab/pika/tree/devel/include/materials,1,1
+/idaholab/pika/tree/devel/problems,1,1
+/idaholab/pika/tree/devel/tests,1,1

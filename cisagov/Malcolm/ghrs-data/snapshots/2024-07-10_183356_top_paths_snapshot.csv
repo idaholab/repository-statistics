@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,769,470
+/cisagov/Malcolm/blob/main/docs/README.md,478,138
+/cisagov/Malcolm/blob/main/docs/quickstart.md,217,55
+/cisagov/Malcolm/blob/main/docs/ubuntu-install-example.md,189,47
+/cisagov/Malcolm/wiki/Mal.Con-'24-Announcement,115,70
+/cisagov/Malcolm/blob/main/docs/download.md,107,29
+/cisagov/Malcolm/blob/main/docs/malcolm-iso.md,96,23
+/cisagov/Malcolm/blob/main/scripts/release_cleaver.ps1,93,23
+/cisagov/Malcolm/releases/tag/v24.06.0,87,50
+/cisagov/Malcolm/blob/main/docker-compose.yml,83,27

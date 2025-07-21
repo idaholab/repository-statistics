@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,23,9
+/idaholab/civet/wiki,10,3
+/idaholab/civet/tree/master/civet,3,3
+/idaholab/civet/wiki/Adding-recipes-to-Idaholab,3,3
+/idaholab/civet/blob/master/ci/tests/test_event.py,2,2
+/idaholab/civet/tree/master/ci,2,2
+/idaholab/civet/wiki/Interacting-with-GitHub,2,2
+/idaholab/civet/wiki/Settings,2,2
+/idaholab/civet/wiki/Setting-up-a-GitHub-repository-to-be-tested,2,2
+/idaholab/civet/wiki/Running-your-own-client,2,1

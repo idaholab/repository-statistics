@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-ethercat,15,10
+/cisagov/icsnpp-ethercat/blob/main/examples/dhcp.log,2,2
+/cisagov/icsnpp-ethercat/blob/main/examples/ecat_aoe_info.log,2,2
+/cisagov/icsnpp-ethercat/blob/main/examples/ecat_coe_info.log,2,2
+/cisagov/icsnpp-ethercat/blob/main/examples/ecat_registers.log,2,2
+/cisagov/icsnpp-ethercat/tree/main/examples,2,2
+/cisagov/icsnpp-ethercat/tree/main/src,2,2
+/cisagov/icsnpp-ethercat/blob/main/scripts/icsnpp/ethercat/main.zeek,2,1
+/cisagov/icsnpp-ethercat/blob/main/examples/ecat_arp_info.log,1,1
+/cisagov/icsnpp-ethercat/blob/main/examples/ecat_dev_info.log,1,1

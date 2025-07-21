@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Deep-Lynx,123,69
+/idaholab/Deep-Lynx/wiki,45,25
+/idaholab/Deep-Lynx/wiki/Building-DeepLynx,14,6
+/idaholab/Deep-Lynx/wiki/Creating-an-Ontology,12,4
+/idaholab/Deep-Lynx/wiki/Timeseries-Data-Sources,10,7
+/idaholab/Deep-Lynx/wiki/Querying-Data-With-GraphQL,9,5
+/idaholab/Deep-Lynx/wiki/TimeseriesCreationViaApi,9,4
+/idaholab/Deep-Lynx/wiki/Authenticating-with-DeepLynx-Apps,7,4
+/idaholab/Deep-Lynx/pulls,7,3
+/idaholab/Deep-Lynx/wiki/DeepLynx-Enabled-OAuth-Application,6,3

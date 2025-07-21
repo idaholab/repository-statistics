@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,80,25
+/idaholab/malamute/issues,67,16
+/idaholab/malamute/pulls,43,10
+/idaholab/malamute/discussions,41,7
+/idaholab/malamute/discussions/67,31,9
+/idaholab/malamute/tree/devel/examples,30,6
+/idaholab/malamute/pull/74,25,2
+/idaholab/malamute/tree/devel/src,24,6
+/idaholab/malamute/pull/78,23,3
+/idaholab/malamute/blob/devel/src/base/MalamuteApp.C,22,8

@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/idaholab/STIXEnforcer/tree/main/Checkers,8,1
+/idaholab/STIXEnforcer/blob/main/STIX_Enforcer.py,3,1
+/idaholab/STIXEnforcer,2,1
+/idaholab/STIXEnforcer/blob/main/Checkers/AttackPatternReqChecker.py,2,1
+/idaholab/STIXEnforcer/blob/main/Checkers/AuthorReqChecker.py,2,1
+/idaholab/STIXEnforcer/blob/main/Checkers/DescReqChecker.py,2,1
+/idaholab/STIXEnforcer/branches,2,1

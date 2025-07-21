@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Ingest,19,10
+/idaholab/Ingest/graphs/contributors,4,1
+/idaholab/ingest,2,2
+/idaholab/Ingest/blob/main/readme.md,2,1
+/idaholab/Ingest/compare/main...dakotablair:Ingest:wip,2,1
+/idaholab/Ingest/pull/27,2,1
+/idaholab/Ingest/tree/main/config,2,1
+/idaholab/Ingest/blob/main/config/prod.exs,1,1
+/idaholab/Ingest/blob/main/config/runtime.exs,1,1
+/idaholab/Ingest/blob/main/server/notebooks/webhooks.livemd,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,1036,585
+/cisagov/Malcolm/blob/main/docs/README.md,312,202
+/cisagov/Malcolm/blob/main/docs/quickstart.md,108,69
+/cisagov/Malcolm/blob/main/docs/ubuntu-install-example.md,84,40
+/cisagov/Malcolm/tree/main/docs,62,30
+/cisagov/Malcolm/issues,58,28
+/cisagov/Malcolm/releases,47,25
+/cisagov/Malcolm/tree/main/logstash,40,11
+/cisagov/Malcolm/tree/main/Dockerfiles,34,15
+/cisagov/Malcolm/tree/main/sensor-iso,32,15
