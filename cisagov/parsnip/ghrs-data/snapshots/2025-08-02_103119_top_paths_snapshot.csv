@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,24,12
+/cisagov/parsnip/blob/main/docs/parsnip.md,6,4
+/cisagov/parsnip/blob/main/docs/parsnip_files/intermediate_language/general/config.json,3,2
+/cisagov/parsnip/tree/main/backend,3,1
+/cisagov/parsnip/tree/main/docs,2,2
+/cisagov/parsnip/blob/main/backend/config.py,2,1
+/cisagov/parsnip/branches,2,1
+/cisagov/parsnip/compare/main...piercema:parsnip:main,2,1
+/cisagov/parsnip/blob/dceeb9fefeee8fbedaacbcee53a170f569bb2f96/backend/objects.py,1,1
+/cisagov/parsnip/blob/dceeb9fefeee8fbedaacbcee53a170f569bb2f96/backend/utils.py,1,1
