@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,8,4
+/idaholab/magpie/blob/devel/tests/spectral/spectralDerivative.i,3,1
+/idaholab/magpie/blob/devel/examples/nrt_comparison/TaO/pc_1981_TaO_energy.i,2,1
+/idaholab/magpie/blob/devel/tests/spectral/spectralDiffusionGreens2D.i,1,1
+/idaholab/magpie/fork,1,1
+/idaholab/magpie/issues,1,1
+/idaholab/magpie/tree/devel/test,1,1
+/idaholab/magpie/tree/devel/tests,1,1
+/idaholab/magpie/tree/devel/tests/spectral,1,1
+/idaholab/magpie/tree/devel/tests/srim_comparison,1,1
