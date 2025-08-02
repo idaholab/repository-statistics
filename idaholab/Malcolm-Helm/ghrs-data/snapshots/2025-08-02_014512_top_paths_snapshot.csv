@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm-Helm,14,10
+/idaholab/Malcolm-Helm/blob/main/chart/values.yaml,2,1
+/idaholab/Malcolm-Helm/blob/72674c51447be38f66985965b2568474363ef575/README.md,1,1
+/idaholab/Malcolm-Helm/blob/main/chart/templates/18-netbox.yml,1,1
+/idaholab/Malcolm-Helm/blob/main/chart/templates/malcolm_configmaps.yaml,1,1
+/idaholab/Malcolm-Helm/commit/e55f2a810390869db9802e1098f5ccc5cb6b847d,1,1
+/idaholab/Malcolm-Helm/issues/16,1,1
+/idaholab/Malcolm-Helm/tree/main/chart,1,1
+/idaholab/Malcolm-Helm/tree/main/chart/templates,1,1
