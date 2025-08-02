@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/BayCal,12,9
+/idaholab/BayCal/tree/main,10,2
+/idaholab/BayCal/tree/main/examples/fgr,7,3
+/idaholab/BayCal/tree/main/examples/fgr/models,6,3
+/idaholab/BayCal/tree/main/src,5,2
+/idaholab/BayCal/tree/main/src/LikelihoodModels,5,2
+/idaholab/BayCal/tree/main/docs,4,1
+/idaholab/BayCal/blob/main/examples/fgr/models/data_preprocessing.py,2,2
+/idaholab/BayCal/blob/main/examples/fgr/models/gp_projection_testing.py,2,2
+/idaholab/BayCal/blob/main/examples/fgr/reductionGPBasis/gp.py,2,2
