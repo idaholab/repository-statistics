@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/ResDEEDS,15,8
+/idaholab/resdeeds,7,1
+/idaholab/ResDEEDS/projects,4,2
+/idaholab/ResDEEDS/commits,4,1
+/idaholab/ResDEEDS/issues,2,2
+/idaholab/ResDEEDS/blob/main/README.md,2,1
+/idaholab/ResDEEDS/blob/main/AGENTS.md,1,1
+/idaholab/ResDEEDS/blob/main/api/Dockerfile,1,1
+/idaholab/ResDEEDS/blob/main/api/Dockerfile.dev,1,1
+/idaholab/ResDEEDS/blob/main/compose.production.yml,1,1
