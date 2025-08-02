@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-omron-fins,12,5
+/cisagov/icsnpp-omron-fins/tree/40b524e7e579ce781f3d09c382d7fc4e33915d32,6,2
+/cisagov/icsnpp-omron-fins/tree/40b524e7e579ce781f3d09c382d7fc4e33915d32/testing,5,1
+/cisagov/icsnpp-omron-fins/blob/40b524e7e579ce781f3d09c382d7fc4e33915d32/analyzer/omron_fins_command_code_01.spicy,3,1
+/cisagov/icsnpp-omron-fins/blob/40b524e7e579ce781f3d09c382d7fc4e33915d32/analyzer/omron_fins.evt,2,1
+/cisagov/icsnpp-omron-fins/blob/40b524e7e579ce781f3d09c382d7fc4e33915d32/analyzer/omron_fins.spicy,2,1
+/cisagov/icsnpp-omron-fins/blob/40b524e7e579ce781f3d09c382d7fc4e33915d32/analyzer/zeek_omron_fins.spicy,2,1
+/cisagov/icsnpp-omron-fins/blob/40b524e7e579ce781f3d09c382d7fc4e33915d32/W227E12_FINS_Commands_Reference_Manual_10_Dec_2009.pdf,2,1
+/cisagov/icsnpp-omron-fins/tree/40b524e7e579ce781f3d09c382d7fc4e33915d32/testing/traces,2,1
+/cisagov/icsnpp-omron-fins/blob/40b524e7e579ce781f3d09c382d7fc4e33915d32/analyzer/omron_fins_command_code_03.spicy,1,1
