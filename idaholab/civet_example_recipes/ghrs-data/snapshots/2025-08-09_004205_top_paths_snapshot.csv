@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/civet_example_recipes,10,7
+/idaholab/civet_example_recipes/tree/master/recipes,3,2
+/idaholab/civet_example_recipes/blob/master/recipes/Basic.cfg,2,2
+/idaholab/civet_example_recipes/blob/master/scripts/build_moose_framework.sh,1,1
+/idaholab/civet_example_recipes/blob/master/scripts/build_moose_libmesh.sh,1,1
+/idaholab/civet_example_recipes/blob/master/scripts/build.sh,1,1
+/idaholab/civet_example_recipes/blob/master/scripts/checkout_latest.sh,1,1
+/idaholab/civet_example_recipes/blob/master/scripts/fetch_and_branch.sh,1,1
+/idaholab/civet_example_recipes/blob/master/scripts/functions.sh,1,1
