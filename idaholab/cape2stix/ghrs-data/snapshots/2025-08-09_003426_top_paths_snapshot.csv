@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/cape2stix,8,7
+/idaholab/cape2stix/blob/main/docs/README.md,5,2
+/idaholab/cape2stix/tree/main/ama_deploy,5,2
+/idaholab/cape2stix/blob/main/docs/ama_deploy.md,4,2
+/idaholab/cape2stix/tree/main,2,2
+/idaholab/cape2stix/blob/main/ama_deploy/prep.py,2,1
+/idaholab/cape2stix/blob/main/ama_deploy/bash_scripts/build_cape.sh,1,1
+/idaholab/cape2stix/blob/main/ama_deploy/bash_scripts/cape.sh,1,1
+/idaholab/cape2stix/blob/main/ama_deploy/bash_scripts/config.sh,1,1
+/idaholab/cape2stix/blob/main/ama_deploy/bash_scripts/kvm.sh,1,1
