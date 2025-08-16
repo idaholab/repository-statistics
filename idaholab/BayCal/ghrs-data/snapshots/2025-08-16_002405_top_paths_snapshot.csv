@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/idaholab/BayCal,5,3
+/idaholab/BayCal/tree/main,2,1
+/idaholab/BayCal/blob/main/tests/multiTargets/model.py,1,1
+/idaholab/BayCal/blob/main/tests/multiTargets/plot.py,1,1
+/idaholab/BayCal/tree/main/docs,1,1
+/idaholab/BayCal/tree/main/.github/workflows,1,1
+/idaholab/BayCal/tree/main/tests,1,1
+/idaholab/BayCal/tree/main/tests/multiTargets,1,1
