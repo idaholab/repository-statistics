@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,9,6
+/idaholab/mastodon/issues/448,2,2
+/idaholab/mastodon/issues/12,2,1
+/idaholab/mastodon/blob/devel/src/base/MastodonApp.C,1,1
+/idaholab/mastodon/blob/devel/src/base/MastodonTypes.C,1,1
+/idaholab/mastodon/blob/devel/src/meshgenerators/BeamMeshGenerator.C,1,1
+/idaholab/mastodon/blob/devel/src/utils/MastodonUtils.C,1,1
+/idaholab/mastodon/commit/1d664013f22e60ad5cf0ae7d6611270cf0b82f7e,1,1
+/idaholab/mastodon/compare/69221afaa616ffc184be10a14a858d79be478d30...7789e3e6ef96d4e598eaf7de3276d7a8142d7fcd,1,1
+/idaholab/mastodon/tree/devel,1,1
