@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm-Helm/tree/main/chart,7,2
+/idaholab/Malcolm-Helm/blob/v25.03.0-3/chart/files/logstashclient.conf,3,1
+/idaholab/Malcolm-Helm/blob/v25.03.0-3/chart/files/logstashserver.conf,3,1
+/idaholab/Malcolm-Helm/blob/v25.03.0-3/chart/templates/02-volumes.yml,3,1
+/idaholab/Malcolm-Helm/blob/v25.03.0-3/README.md,3,1
+/idaholab/Malcolm-Helm/blob/main/chart/values.yaml,2,1
+/idaholab/Malcolm-Helm/blob/v25.03.0-3/chart/files/nginx_ldap.conf,2,1
+/idaholab/Malcolm-Helm/blob/main/README.md,1,1
+/idaholab/Malcolm-Helm/blob/v25.03.0-3/chart/templates/03-opensearch.yml,1,1
+/idaholab/Malcolm-Helm/blob/v25.03.0-3/chart/templates/14-logstash.yml,1,1
