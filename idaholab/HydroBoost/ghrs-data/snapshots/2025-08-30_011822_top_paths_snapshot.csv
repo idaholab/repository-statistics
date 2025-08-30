@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HydroBoost,7,5
+/idaholab/HydroBoost/tree/main/Input_Spreadsheets,5,2
+/idaholab/HydroBoost/blob/main/Core_Models/HydroBoost/generated_data/Project_1/Market/Additive_model_no_regressors.csv,2,1
+/idaholab/HydroBoost/blob/main/Core_Models/HydroBoost/generated_data/Project_1/Market/Additive_model_with_regressors.csv,2,1
+/idaholab/HydroBoost/blob/main/Core_Models/HydroBoost/generated_data/Project_2/Hydro/Daily_flow.csv,2,1
+/idaholab/HydroBoost/blob/main/Core_Models/HydroBoost/generated_data/Project_2/Hydro/Hourly_flow.csv,2,1
+/idaholab/HydroBoost/blob/main/Core_Models/HydroBoost/Manifest.toml,2,1
+/idaholab/HydroBoost/blob/main/Core_Models/HydroBoost/src/HydroBoost_Sim.jl,2,1
+/idaholab/HydroBoost/blob/main/Generate_forecast_price_data.py,2,1
+/idaholab/HydroBoost/blob/main/Generate_results_figures.py,2,1
