@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/ALFRED,13,7
+/idaholab/ALFRED/tree/main/sources,2,2
+/idaholab/ALFRED/blob/main/README.md,2,1
+/idaholab/ALFRED/blob/main/sources/DetectorConstruction.cc,2,1
+/idaholab/ALFRED/blob/main/LICENSE,1,1
+/idaholab/ALFRED/blob/main/NOTICE.txt,1,1
+/idaholab/ALFRED/blob/main/eigenvalue.mac,1,1
+/idaholab/ALFRED/blob/main/include/DetectorConstruction.hh,1,1
+/idaholab/ALFRED/blob/main/include/EventAction.hh,1,1
+/idaholab/ALFRED/blob/main/scripts/keff.py,1,1
