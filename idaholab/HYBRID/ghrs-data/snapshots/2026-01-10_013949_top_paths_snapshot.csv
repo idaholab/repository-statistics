@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HYBRID,38,27
+/idaholab/HYBRID/tree/devel/Models/NHES/Nuclear,9,6
+/idaholab/HYBRID/tree/devel/Models/NHES,9,5
+/idaholab/HYBRID/tree/devel/Models,8,5
+/idaholab/HYBRID/tree/devel,7,3
+/idaholab/HYBRID/tree/devel/Models/NHES/Systems,4,3
+/idaholab/HYBRID/tree/devel/Models/NHES/Systems/PrimaryHeatSystem,4,3
+/idaholab/HYBRID/issues,3,2
+/idaholab/HYBRID/blob/devel/Models/NHES/Electrolysis/HTSE/Examples/HTSEplant_NHES_flowSources.mo,2,2
+/idaholab/HYBRID/tree/devel/Models/NHES/Systems/PrimaryHeatSystem/GenericModular_PWR,2,2
