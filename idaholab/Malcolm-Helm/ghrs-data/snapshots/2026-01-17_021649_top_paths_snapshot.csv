@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm-Helm,45,16
+/idaholab/Malcolm-Helm/tree/main/chart,22,5
+/idaholab/Malcolm-Helm/blob/main/chart/values.yaml,17,5
+/idaholab/Malcolm-Helm/pull/88/files,17,3
+/idaholab/Malcolm-Helm/pull/88,14,4
+/idaholab/Malcolm-Helm/pull/88/changes,10,1
+/idaholab/Malcolm-Helm/blob/976542172647b662789e12450d949120cc2129f2/chart/templates/10-zeek.yml,9,4
+/idaholab/Malcolm-Helm/blob/976542172647b662789e12450d949120cc2129f2/chart/templates/malcolm_configmaps.yaml,7,4
+/idaholab/Malcolm-Helm/tree/main/chart/templates,7,3
+/idaholab/Malcolm-Helm/blob/main/chart/templates/07-arkime.yml,7,2
