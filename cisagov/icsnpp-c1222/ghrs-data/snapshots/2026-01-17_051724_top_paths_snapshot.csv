@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-c1222,14,12
+/cisagov/icsnpp-c1222/tree/main/analyzer,6,3
+/cisagov/icsnpp-c1222/blob/main/analyzer/c1222.spicy,6,2
+/cisagov/icsnpp-c1222/blob/main/testing/traces/c1222overIPv4.cap,5,2
+/cisagov/icsnpp-c1222/tree/0e53bbfd2e784c2b966e29dde9b2f2221e64cfa8,2,2
+/cisagov/icsnpp-c1222/blob/main/testing/traces/c1222_ident_service_tcp.pcap,2,1
+/cisagov/icsnpp-c1222/blob/main/testing/traces/c1222_security_service_tcp.pcap,2,1
+/cisagov/icsnpp-c1222/tree/main/testing,2,1
+/cisagov/icsnpp-c1222/blob/0e53bbfd2e784c2b966e29dde9b2f2221e64cfa8/analyzer/zeek_c1222.spicy,1,1
+/cisagov/icsnpp-c1222/blob/0e53bbfd2e784c2b966e29dde9b2f2221e64cfa8/cmake/FindSpicyPlugin.cmake,1,1
