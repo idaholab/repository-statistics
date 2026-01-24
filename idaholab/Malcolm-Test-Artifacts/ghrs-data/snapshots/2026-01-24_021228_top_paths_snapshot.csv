@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm-Test-Artifacts,3,3
+/idaholab/Malcolm-Test-Artifacts/tree/main/pcap,2,1
+/idaholab/Malcolm-Test-Artifacts/tree/main/pcap/other,2,1
+/idaholab/Malcolm-Test-Artifacts/tree/main/pcap/plugins,2,1
+/idaholab/Malcolm-Test-Artifacts/tree/main/pcap/plugins/CVE-2020-16898,2,1
+/idaholab/Malcolm-Test-Artifacts/blob/main/external-links/README.md,1,1
+/idaholab/Malcolm-Test-Artifacts/network,1,1
+/idaholab/Malcolm-Test-Artifacts/tree/main/evtx,1,1
+/idaholab/Malcolm-Test-Artifacts/tree/main/pcap/other/Digital Bond S4,1,1
+/idaholab/Malcolm-Test-Artifacts/tree/main/pcap/plugins/CVE-2021-1675,1,1
