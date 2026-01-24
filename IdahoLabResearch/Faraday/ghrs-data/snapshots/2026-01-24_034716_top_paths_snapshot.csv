@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IdahoLabResearch/Faraday/tree/development,3,2
+/IdahoLabResearch/Faraday,2,2
+/IdahoLabResearch/Faraday/blob/development/docker-compose.yaml,2,2
+/IdahoLabResearch/Faraday/tree/development/.github/workflows,2,1
+/IdahoLabResearch/Faraday/tree/development/database,2,1
+/IdahoLabResearch/Faraday/blob/development/.github/workflows/development.yaml,1,1
+/IdahoLabResearch/Faraday/blob/development/app/Dockerfiles/Dockerfile.prod.local,1,1
+/IdahoLabResearch/Faraday/blob/development/app/tailwind.config.ts,1,1
+/IdahoLabResearch/Faraday/blob/development/app/tsconfig.app.json,1,1
+/IdahoLabResearch/Faraday/blob/development/database/README.md,1,1
