@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HydroBoost,16,7
+/idaholab/HydroBoost/tree/main,16,4
+/idaholab/HydroBoost/tree/main/Simulation_Results/Model_B,6,1
+/idaholab/HydroBoost/tree/main/Simulation_Results,5,1
+/idaholab/HydroBoost/tree/main/Input_Spreadsheets,4,3
+/idaholab/HydroBoost/blob/main/Input_Spreadsheets/Model_B.xlsx,4,2
+/idaholab/HydroBoost/tree/main/Core_Models,3,2
+/idaholab/HydroBoost/blob/main/Input_Spreadsheets/Model_C.xlsx,2,2
+/idaholab/HydroBoost/actions,1,1
+/idaholab/HydroBoost/blob/main/Generate_forecast_price_data.py,1,1

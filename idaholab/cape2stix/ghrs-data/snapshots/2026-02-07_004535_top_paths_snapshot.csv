@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/cape2stix,9,9
+/idaholab/cape2stix/tree/main/cape2stix,3,1
+/idaholab/cape2stix/blob/main/cape2stix/scripts/convert.py,2,1
+/idaholab/cape2stix/tree/main/cape2stix/scripts,2,1
+/idaholab/cape2stix/blob/main/LICENSE,1,1
+/idaholab/cape2stix/blob/main/docs/README.md,1,1
+/idaholab/cape2stix/blob/main/poetry.lock,1,1
+/idaholab/cape2stix/blob/main/pyproject.toml,1,1
+/idaholab/cape2stix/issues,1,1
+/idaholab/cape2stix/issues/14,1,1

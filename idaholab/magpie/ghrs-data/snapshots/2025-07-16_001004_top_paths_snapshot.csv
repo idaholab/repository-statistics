@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,4,4
+/idaholab/magpie/blob/devel/src/userobjects/PKAFixedPointGenerator.C,4,1
+/idaholab/magpie/tree/devel,3,1
+/idaholab/magpie/blob/89166f9b2cc33eeced364934f795454c4f82f095/doc/content/source/userobjects/PKAGeneratorAlphaDecay.md,2,1
+/idaholab/magpie/blob/89166f9b2cc33eeced364934f795454c4f82f095/src/userobjects/PKAFixedPointGenerator.C,2,1
+/idaholab/magpie/blob/89166f9b2cc33eeced364934f795454c4f82f095/tests/energy_deposition/elemental.i,2,1
+/idaholab/magpie/blob/devel/include/other/MyTRIMElementEnergyAccess.h,2,1
+/idaholab/magpie/blob/devel/src/kernels/MyTRIMElementHeatSource.C,2,1
+/idaholab/magpie/tree/89166f9b2cc33eeced364934f795454c4f82f095/src/userobjects,2,1
+/idaholab/magpie/tree/devel/examples,2,1

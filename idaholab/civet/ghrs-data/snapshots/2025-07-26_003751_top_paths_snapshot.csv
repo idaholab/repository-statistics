@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,16,9
+/idaholab/civet/pulls,9,1
+/idaholab/civet/pull/620,7,3
+/idaholab/civet/pull/620/files,5,3
+/idaholab/civet/pull/621,5,1
+/idaholab/civet/wiki,2,2
+/idaholab/civet/blob/master/.gitignore,2,1
+/idaholab/civet/pull/621/files,2,1
+/idaholab/civet/blob/master/ci/ajax/__init__.py,1,1
+/idaholab/civet/blob/master/ci/ajax/tests/__init__.py,1,1

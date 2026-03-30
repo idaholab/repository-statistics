@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/advcubit,11,7
+/idaholab/advcubit/tree/master/examples,3,3
+/idaholab/advcubit/tree/master/advcubit,3,2
+/idaholab/advcubit/blob/master/setup.py,3,1
+/idaholab/advcubit/blob/master/advcubit/__init__.py,2,1
+/idaholab/advcubit/blob/master/advcubit/class_module.py,1,1
+/idaholab/advcubit/blob/master/examples/cmd.py,1,1
+/idaholab/advcubit/blob/master/examples/parameters.py,1,1
+/idaholab/advcubit/blob/master/run_tests.py,1,1
+/idaholab/advcubit/blob/master/tests/imprint.py,1,1

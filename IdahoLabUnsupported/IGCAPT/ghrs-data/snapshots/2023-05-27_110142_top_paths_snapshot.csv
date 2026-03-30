@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IdahoLabUnsupported/IGCAPT,30,7
+/IdahoLabUnsupported/IGCAPT/pulls,13,2
+/IdahoLabUnsupported/IGCAPT/branches,9,3
+/IdahoLabUnsupported/IGCAPT/compare,8,2
+/IdahoLabUnsupported/IGCAPT/compare/master...dafew_dev,6,2
+/IdahoLabUnsupported/IGCAPT/tree/dafew_dev,5,2
+/IdahoLabUnsupported/IGCAPT/compare/IdahoLabUnsupported:master...IdahoLabUnsupported:dafew_dev,5,1
+/IdahoLabUnsupported/IGCAPT/blob/master/src/main/java/gov/inl/igcapt/gdtaf/data/AssetRepoMgr.java,4,2
+/IdahoLabUnsupported/IGCAPT/tree/master/src,4,2
+/IdahoLabUnsupported/IGCAPT/tree/master/src/main,4,2

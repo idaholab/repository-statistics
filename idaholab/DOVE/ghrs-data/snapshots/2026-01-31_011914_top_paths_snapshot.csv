@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/DOVE,8,8
+/idaholab/DOVE/tree/main/src/dove/models/price_taker,3,1
+/idaholab/DOVE/blob/main/examples/capacity_factor_example.py,2,1
+/idaholab/DOVE/blob/main/src/dove/models/price_taker/rulelib.py,2,1
+/idaholab/DOVE/tree/main/src/dove,2,1
+/idaholab/DOVE/tree/main/src/dove/core,2,1
+/idaholab/DOVE/blob/main/docs/source/assets/DOVE_light_mode.png,1,1
+/idaholab/DOVE/blob/main/src/dove/core/cashflow.py,1,1
+/idaholab/DOVE/blob/main/src/dove/core/system.py,1,1
+/idaholab/DOVE/blob/main/src/dove/models/price_taker/builder.py,1,1

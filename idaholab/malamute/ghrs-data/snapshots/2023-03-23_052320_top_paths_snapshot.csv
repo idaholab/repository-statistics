@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,90,35
+/idaholab/malamute/issues,24,12
+/idaholab/malamute/pulls,22,10
+/idaholab/malamute/tree/devel/examples,16,11
+/idaholab/malamute/pull/62,14,5
+/idaholab/malamute/discussions,13,7
+/idaholab/malamute/tree/devel/examples/melt_pool_3d,11,7
+/idaholab/malamute/blob/devel/examples/melt_pool_3d/melt_pool.i,8,8
+/idaholab/malamute/tree/devel/src,7,5
+/idaholab/malamute/tree/devel/src/kernels,7,3

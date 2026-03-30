@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,100,61
+/idaholab/virtual_test_bed/pull/743,33,5
+/idaholab/virtual_test_bed/pulls,25,10
+/idaholab/virtual_test_bed/tree/devel/microreactors,22,13
+/idaholab/virtual_test_bed/tree/main/htgr/assembly,18,10
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY,18,7
+/idaholab/virtual_test_bed/blob/devel/doc/content/htgr/triso/triso_model.md,18,1
+/idaholab/virtual_test_bed/blob/devel/doc/content/lwr/rpv_fracture/rpv_pfm_3d.md,17,1
+/idaholab/virtual_test_bed/tree/devel/htgr,15,8
+/idaholab/virtual_test_bed/tree/devel/msr/msre/reactivity_insertion,15,2

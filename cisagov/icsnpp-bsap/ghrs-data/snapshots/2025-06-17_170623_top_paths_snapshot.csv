@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bsap,11,7
+/cisagov/icsnpp-bsap/tree/811371566f2c371e2bd2fffaaa3a67f4426c8e21,4,3
+/cisagov/icsnpp-bsap/tree/811371566f2c371e2bd2fffaaa3a67f4426c8e21/scripts,4,2
+/cisagov/icsnpp-bsap/tree/main/src,4,2
+/cisagov/icsnpp-bsap/blob/main/src/consts.pac,3,1
+/cisagov/icsnpp-bsap/blob/main/src/bsap-protocol.pac,2,2
+/cisagov/icsnpp-bsap/tree/811371566f2c371e2bd2fffaaa3a67f4426c8e21/scripts/icsnpp/bsap,2,1
+/cisagov/icsnpp-bsap/blob/811371566f2c371e2bd2fffaaa3a67f4426c8e21/scripts/consts.zeek,1,1
+/cisagov/icsnpp-bsap/blob/811371566f2c371e2bd2fffaaa3a67f4426c8e21/scripts/icsnpp/bsap/main.zeek,1,1
+/cisagov/icsnpp-bsap/blob/811371566f2c371e2bd2fffaaa3a67f4426c8e21/scripts/__load__.zeek,1,1

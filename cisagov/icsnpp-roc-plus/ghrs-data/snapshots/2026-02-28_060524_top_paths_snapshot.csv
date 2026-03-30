@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-roc-plus,19,10
+/cisagov/icsnpp-roc-plus/tree/main/testing,7,1
+/cisagov/icsnpp-roc-plus/blob/main/analyzer/roc_plus_functions.spicy,2,2
+/cisagov/icsnpp-roc-plus/blob/main/analyzer/roc_plus_opcode_006.spicy,2,2
+/cisagov/icsnpp-roc-plus/blob/main/roc-plus-protocol-specification-manual-en-6851618.pdf,2,2
+/cisagov/icsnpp-roc-plus/tree/main,2,2
+/cisagov/icsnpp-roc-plus/tree/main/analyzer,2,2
+/cisagov/icsnpp-roc-plus/blob/main/testing/tests/roc_plus_udp.zeek,2,1
+/cisagov/icsnpp-roc-plus/tree/main/testing/Baseline,2,1
+/cisagov/icsnpp-roc-plus/tree/main/testing/tests,2,1

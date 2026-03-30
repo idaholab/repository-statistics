@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-dnp3,15,14
+/cisagov/icsnpp-dnp3/tree/6f11be57ae9c7320404506c57709c613cdaaa413,9,6
+/cisagov/icsnpp-dnp3/tree/main/testing,3,2
+/cisagov/icsnpp-dnp3/blob/main/testing/traces/dnp3_example.pcap,2,2
+/cisagov/icsnpp-dnp3/tree/6f11be57ae9c7320404506c57709c613cdaaa413/scripts,2,2
+/cisagov/icsnpp-dnp3/blob/main/scripts/main.zeek,2,1
+/cisagov/icsnpp-dnp3/pull/18/changes/6983c735237ecbd972b49dbaa943e5273abf4aca,2,1
+/cisagov/icsnpp-dnp3/blob/main/tests/traces/dnp3_example.pcap,1,1
+/cisagov/icsnpp-dnp3/pull/18,1,1
+/cisagov/icsnpp-dnp3/pull/18/commits,1,1

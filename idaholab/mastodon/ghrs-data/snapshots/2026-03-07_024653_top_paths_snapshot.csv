@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,42,28
+/idaholab/mastodon/tree/devel/test/tests/materials/isoil,15,2
+/idaholab/mastodon/tree/devel/src,12,7
+/idaholab/mastodon/tree/devel/src/materials,12,6
+/idaholab/mastodon/tree/devel/test/tests/materials,8,2
+/idaholab/mastodon/issues,6,3
+/idaholab/mastodon/issues/472,5,2
+/idaholab/mastodon/tree/devel/examples,5,2
+/idaholab/mastodon/blob/devel/src/materials/ComputeFPIsolatorElasticity.C,4,4
+/idaholab/mastodon/tree/devel/test,4,3

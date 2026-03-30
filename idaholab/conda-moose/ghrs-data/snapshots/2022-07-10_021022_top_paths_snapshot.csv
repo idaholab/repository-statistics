@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/conda-moose,8,5
+/idaholab/conda-moose/issues,5,5
+/idaholab/conda-moose/blob/devel/recipes/moose-compilers/recipe/meta.yaml,1,1
+/idaholab/conda-moose/blob/devel/recipes/moose-mpich/recipe/meta.yaml,1,1
+/idaholab/conda-moose/blob/devel/recipes/moose-tools/recipe/conda_build_config.yaml,1,1
+/idaholab/conda-moose/blob/devel/recipes/moose-tools/recipe/meta.yaml,1,1
+/idaholab/conda-moose/commit/3d2512b94b95626fc7c3f9bde8f26cac26983f79,1,1
+/idaholab/conda-moose/tree/devel/recipes,1,1
+/idaholab/conda-moose/tree/devel/recipes/moose-compilers/recipe,1,1
+/idaholab/conda-moose/tree/devel/recipes/moose-mpich,1,1

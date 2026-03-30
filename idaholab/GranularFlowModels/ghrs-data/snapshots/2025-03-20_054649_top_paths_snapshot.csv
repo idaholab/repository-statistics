@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/GranularFlowModels,26,24
+/idaholab/GranularFlowModels/tree/main/src,11,7
+/idaholab/GranularFlowModels/tree/main/examples,10,5
+/idaholab/GranularFlowModels/blob/main/src/VUMAT_NorSand_version2015.f,7,6
+/idaholab/GranularFlowModels/blob/main/src/VUMAT_nonlocal_Hypoplasticity.f,7,4
+/idaholab/GranularFlowModels/tree/main/images,6,5
+/idaholab/GranularFlowModels/blob/main/examples/hopper-hypoplastic.inp,6,4
+/idaholab/GranularFlowModels/blob/main/examples/ringShear-MDPC.inp,6,2
+/idaholab/GranularFlowModels/blob/main/NOTICE.txt,5,3
+/idaholab/GranularFlowModels/blob/main/examples/fundation-norsand.inp,4,3

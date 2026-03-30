@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/idaholab/airflow-provider-deeplynx,10,7
+/idaholab/airflow-provider-deeplynx/tree/main/deeplynx_provider,2,2
+/idaholab/airflow-provider-deeplynx/tree/main/deeplynx_provider/operators,2,2
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/operators/download_file_operator.py,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/operators/set_data_source_active_operator.py,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/operators/set_type_mapping_active_operator.py,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/deeplynx_provider/operators/utils.py,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-ge-srtp,11,7
+/cisagov/icsnpp-ge-srtp/blob/main/reference-docs/Leveraging the SRTP Protocol for Over-the-Network Memory Acquisition of a GE Fanuc Series 90-30.pdf,8,4
+/cisagov/icsnpp-ge-srtp/tree/main/scripts,6,3
+/cisagov/icsnpp-ge-srtp/tree/main/analyzer,3,2
+/cisagov/icsnpp-ge-srtp/blob/main/analyzer/ge_srtp_enums.spicy,2,2
+/cisagov/icsnpp-ge-srtp/blob/main/scripts/ge_srtp_enums.zeek,2,2
+/cisagov/icsnpp-ge-srtp/blob/main/scripts/ge_srtp_types.zeek,2,2
+/cisagov/icsnpp-ge-srtp/blob/main/scripts/main.zeek,2,2
+/cisagov/icsnpp-ge-srtp/blob/main/analyzer/ge_srtp_functions.cc,2,1
+/cisagov/icsnpp-ge-srtp/blob/main/README.md,1,1

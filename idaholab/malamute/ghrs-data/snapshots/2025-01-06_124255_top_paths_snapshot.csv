@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,17,14
+/idaholab/malamute/tree/devel/examples,8,5
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition,4,4
+/idaholab/malamute/tree/devel/src,4,2
+/idaholab/malamute/blob/devel/src/bcs/GaussianWeldEnergyFluxBC.C,4,1
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition/cylinder,3,3
+/idaholab/malamute/tree/devel/examples/laser_welding_problems,3,3
+/idaholab/malamute/tree/devel/tutorials/efas/introduction,3,3
+/idaholab/malamute/blob/devel/examples/melt_pool_3d/melt_pool.i,3,2
+/idaholab/malamute/tree/devel/examples/melt_pool_2d,3,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,12,11
+/idaholab/civet/pull/608,7,2
+/idaholab/civet/pull/607,3,2
+/idaholab/civet/pull/608/files,3,2
+/idaholab/civet/pull/607/files,2,2
+/idaholab/civet/pulls,2,1
+/idaholab/civet/commits/master,1,1
+/idaholab/civet/compare/master...milljm:civet:css-changes,1,1
+/idaholab/civet/compare/master...milljm:civet:moar-css,1,1
+/idaholab/civet/pull/600,1,1

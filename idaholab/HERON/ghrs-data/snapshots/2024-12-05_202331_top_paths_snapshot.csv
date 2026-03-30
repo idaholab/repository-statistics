@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HERON,35,19
+/idaholab/HERON/pulls,11,5
+/idaholab/HERON/pull/393,8,4
+/idaholab/HERON/releases,7,2
+/idaholab/HERON/releases/tag/v0.5,6,4
+/idaholab/HERON/pull/395,6,3
+/idaholab/HERON/pull/391/files,6,2
+/idaholab/heron,6,1
+/idaholab/HERON/issues,5,5
+/idaholab/HERON/blob/devel/tests/integration_tests/XML_check/optimization_type_mean_LC/heron_input__opt_LC_Capex.xml,5,1

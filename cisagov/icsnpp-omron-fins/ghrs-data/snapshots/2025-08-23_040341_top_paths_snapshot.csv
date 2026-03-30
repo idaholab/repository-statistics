@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-omron-fins,3,3
+/cisagov/icsnpp-omron-fins/tree/f13190c018a0a68b3df1e129b86ba0cdf71c1da4,2,2
+/cisagov/icsnpp-omron-fins/blob/main/scripts/__load__.zeek,1,1
+/cisagov/icsnpp-omron-fins/blob/main/testing/btest.cfg,1,1
+/cisagov/icsnpp-omron-fins/blob/main/testing/tests/omron_fins.zeek,1,1
+/cisagov/icsnpp-omron-fins/tree/main/scripts,1,1
+/cisagov/icsnpp-omron-fins/tree/main/testing/tests,1,1
+/cisagov/icsnpp-omron-fins/tree/main/testing/traces,1,1

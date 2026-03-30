@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,182,115
+/idaholab/Malcolm/issues,21,9
+/idaholab/Malcolm/releases,20,13
+/idaholab/malcolm,17,11
+/idaholab/Malcolm/issues/54,12,7
+/idaholab/Malcolm/releases/tag/v5.0.4,9,6
+/idaholab/Malcolm/releases/tag/v5.1.0,8,6
+/idaholab/Malcolm/tree/main/Dockerfiles,5,4
+/idaholab/Malcolm/blob/main/sensor-iso/README.md,4,2
+/idaholab/Malcolm/blob/main/logstash/pipelines/zeek/11_zeek_logs.conf,3,2

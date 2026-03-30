@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bacnet,54,28
+/cisagov/icsnpp-bacnet/tree/main/scripts,38,6
+/cisagov/icsnpp-bacnet/tree/main/src,32,8
+/cisagov/icsnpp-bacnet/tree/main/scripts/icsnpp/bacnet,26,6
+/cisagov/icsnpp-bacnet/blob/main/scripts/icsnpp/bacnet/main.zeek,20,4
+/cisagov/icsnpp-bacnet/blob/main/scripts/consts.zeek,18,4
+/cisagov/icsnpp-bacnet/tree/f3db6258fcac9d9c82277e99cd5f9f08c0cc392f/tests,18,1
+/cisagov/icsnpp-bacnet/blob/f3db6258fcac9d9c82277e99cd5f9f08c0cc392f/scripts/icsnpp/bacnet/main.zeek,14,5
+/cisagov/icsnpp-bacnet/tree/a9f44475a9548dd723a6a1f1830c2e8233785a77,13,10
+/cisagov/icsnpp-bacnet/issues,12,5

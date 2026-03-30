@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,17,13
+/idaholab/civet/pulls,4,1
+/idaholab/civet/blob/master/README.md,2,2
+/idaholab/civet/blob/master/ci/templates/ci/repo_status.html,1,1
+/idaholab/civet/blob/master/ci/views.py,1,1
+/idaholab/civet/pull/515,1,1
+/idaholab/civet/pull/515/files,1,1
+/idaholab/civet/pull/527,1,1
+/idaholab/civet/pull/599,1,1
+/idaholab/civet/pulls/loganharbour,1,1

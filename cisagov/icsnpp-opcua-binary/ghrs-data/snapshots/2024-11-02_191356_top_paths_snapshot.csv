@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-opcua-binary,27,15
+/cisagov/icsnpp-opcua-binary/blob/main/README.md,6,5
+/cisagov/icsnpp-opcua-binary/tree/main/pcaps,5,3
+/cisagov/icsnpp-opcua-binary/tree/main/src,4,2
+/cisagov/icsnpp-opcua-binary/tree/main/tests,4,2
+/cisagov/icsnpp-opcua-binary/tree/main/tests/traces,3,2
+/cisagov/icsnpp-opcua-binary/blob/main/configure,3,1
+/cisagov/icsnpp-opcua-binary/tree/main,3,1
+/cisagov/icsnpp-opcua-binary/blob/main/developer_guide.md,2,2
+/cisagov/icsnpp-opcua-binary/blob/main/pcaps/opcua_with-gap.pcap,2,2

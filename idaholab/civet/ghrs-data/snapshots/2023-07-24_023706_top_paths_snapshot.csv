@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet/tree/master/ci,15,1
+/idaholab/civet/tree/master/ci/client,8,1
+/idaholab/civet,5,3
+/idaholab/civet/blob/master/ci/client/UpdateRemoteStatus.py,4,1
+/idaholab/civet/blob/master/ci/DebugViews.py,4,1
+/idaholab/civet/blob/master/requirements.txt,4,1
+/idaholab/civet/blob/master/civet/apps.py,3,1
+/idaholab/civet/tree/master/ci/management/commands,3,1
+/idaholab/civet/tree/master/civet,3,1
+/idaholab/civet/blob/master/ci/admin.py,2,1

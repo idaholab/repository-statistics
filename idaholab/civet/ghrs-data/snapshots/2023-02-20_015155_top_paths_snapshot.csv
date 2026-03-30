@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,12,7
+/idaholab/civet/wiki,4,3
+/idaholab/civet/blob/master/ci/tests/test_event.py,2,2
+/idaholab/civet/tree/master/ci,2,2
+/idaholab/civet/tree/master/civet,2,2
+/idaholab/civet/blob/master/ci/tests/test_pr_view_selenium.py,1,1
+/idaholab/civet/blob/master/ci/tests/test_repo_view_selenium.py,1,1
+/idaholab/civet/find/master,1,1
+/idaholab/civet/issues/4,1,1
+/idaholab/civet/tree/master/ci/tests,1,1

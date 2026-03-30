@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,290,181
+/idaholab/Malcolm/releases/tag/v26.01.0,215,89
+/idaholab/Malcolm/releases,59,40
+/idaholab/Malcolm/blob/main/docs/README.md,51,32
+/idaholab/Malcolm/issues,25,19
+/idaholab/Malcolm/tree/main,23,11
+/idaholab/Malcolm/tags,21,5
+/idaholab/Malcolm/blob/f1e0199919e7ff0c11d96c4310e84e58f0831413/config/postgres.env.example,17,3
+/idaholab/Malcolm/blob/f1e0199919e7ff0c11d96c4310e84e58f0831413/scripts/release_cleaver.ps1,16,12
+/idaholab/Malcolm/pulls,15,13

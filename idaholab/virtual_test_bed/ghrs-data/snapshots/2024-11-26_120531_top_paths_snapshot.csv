@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,69,45
+/idaholab/virtual_test_bed/pulls,19,6
+/idaholab/virtual_test_bed/blob/devel/msr/msre/multiphysics_core_model/steady_state/neu.i,16,2
+/idaholab/virtual_test_bed/tree/devel/msr,15,8
+/idaholab/virtual_test_bed/blob/devel/msr/lotus/steady_state/run_neutronics_9_group.i,15,2
+/idaholab/virtual_test_bed/blob/devel/msr/lotus/steady_state/run_ns_initial.i,14,2
+/idaholab/virtual_test_bed/tree/devel/htgr,13,8
+/idaholab/virtual_test_bed/blob/devel/msr/lotus/steady_state/run_prec_transport.i,13,2
+/idaholab/virtual_test_bed/tree/devel/msr/msfr/core_cfd,11,4
+/idaholab/virtual_test_bed/tree/devel,9,8

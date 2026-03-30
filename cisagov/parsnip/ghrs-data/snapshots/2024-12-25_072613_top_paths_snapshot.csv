@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,23,16
+/cisagov/parsnip/pull/33,3,1
+/cisagov/parsnip/branches,2,1
+/cisagov/parsnip/issues,2,1
+/cisagov/parsnip/actions,1,1
+/cisagov/parsnip/activity,1,1
+/cisagov/parsnip/blob/main/docs/parsnip.md,1,1
+/cisagov/parsnip/blob/main/frontend/app/parsnip/main/forms.py,1,1
+/cisagov/parsnip/blob/main/frontend/app/parsnip/main/routes.py,1,1
+/cisagov/parsnip/branches/active,1,1

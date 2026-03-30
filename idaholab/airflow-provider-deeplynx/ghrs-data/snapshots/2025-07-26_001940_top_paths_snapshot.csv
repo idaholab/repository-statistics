@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/airflow-provider-deeplynx,12,7
+/idaholab/airflow-provider-deeplynx/blob/main/docs/deeplynx_provider/operators/create_manual_import_operator.md,2,1
+/idaholab/airflow-provider-deeplynx/blob/main/docs/deeplynx_provider/example_dags/data_query.md,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/docs/deeplynx_provider/example_dags/index.md,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/docs/deeplynx_provider/hooks/deeplynx.md,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/docs/deeplynx_provider/hooks/index.md,1,1
+/idaholab/airflow-provider-deeplynx/blob/main/docs/deeplynx_provider/operators/data_query_operator.md,1,1
+/idaholab/airflow-provider-deeplynx/tree/main/docs/deeplynx_provider,1,1
+/idaholab/airflow-provider-deeplynx/tree/main/docs/deeplynx_provider/example_dags,1,1
+/idaholab/airflow-provider-deeplynx/tree/main/docs/deeplynx_provider/hooks,1,1

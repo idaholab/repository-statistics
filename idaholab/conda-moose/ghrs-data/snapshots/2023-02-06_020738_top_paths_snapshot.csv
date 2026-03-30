@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/idaholab/conda-moose,5,3
+/idaholab/conda-moose/tree/devel/recipes,3,1
+/idaholab/conda-moose/tree/devel/recipes/moose-petsc,1,1
+/idaholab/conda-moose/tree/devel/recipes/moose-petsc/recipe,1,1

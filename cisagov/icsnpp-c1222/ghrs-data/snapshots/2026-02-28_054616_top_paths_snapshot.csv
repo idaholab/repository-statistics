@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-c1222,12,10
+/cisagov/icsnpp-c1222/tree/main/scripts,4,2
+/cisagov/icsnpp-c1222/tree/6c5e684aff7015b5f9e558fc5f24796cbccee24c,3,3
+/cisagov/icsnpp-c1222/blob/main/scripts/c1222_enums.zeek,2,1
+/cisagov/icsnpp-c1222/actions,1,1
+/cisagov/icsnpp-c1222/blob/main/scripts/c1222_processing.zeek,1,1
+/cisagov/icsnpp-c1222/blob/main/src/c1222.spicy,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,34,20
+/idaholab/malamute/pulls,30,7
+/idaholab/malamute/pull/65,18,6
+/idaholab/malamute/issues,17,9
+/idaholab/malamute/discussions,13,4
+/idaholab/malamute/pull/65/files,6,4
+/idaholab/malamute/issues/66,5,4
+/idaholab/malamute/tree/devel/examples/sps,5,3
+/idaholab/malamute/blob/devel/examples/sps/microstructure/sps_elec_2D.i,3,2
+/idaholab/malamute/blob/devel/examples/sps/multiapp/yttria_thermoelectric/reference_residual/centroid_version/centroid_block_demo_thermoelectical.i,3,2

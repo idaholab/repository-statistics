@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/LOGOS,7,4
+/idaholab/LOGOS/blob/devel/tests/CapitalInvestments/mkp/gold/test_mkp_scenarios.csv,6,1
+/idaholab/LOGOS/blob/devel/src/CapitalInvestmentModel.py,4,1
+/idaholab/LOGOS/blob/devel/tests/CapitalInvestments/mkp/gold/test_mkp.csv,4,1
+/idaholab/LOGOS/blob/devel/__init__.py,2,1
+/idaholab/LOGOS/blob/devel/README.md,2,1
+/idaholab/LOGOS/blob/devel/src/knapsack/MultipleKnapsackModel.py,2,1
+/idaholab/LOGOS/blob/devel/tests/CapitalInvestments/mkp/gold/test_mkp_1.csv,2,1
+/idaholab/LOGOS/blob/devel/tests/CapitalInvestments/mkp/gold/test_mkp_t.csv,2,1
+/idaholab/LOGOS/blob/devel/tests/CapitalInvestments/mkp/gold/test_mkp_weing.csv,2,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/marlin,26,15
+/idaholab/marlin/tree/devel/examples,8,6
+/idaholab/marlin/tree/devel/src,8,6
+/idaholab/marlin/blob/devel/doc/content/installation.md,6,2
+/idaholab/marlin/tree/devel/src/tensor_computes,5,2
+/idaholab/marlin/issues,4,4
+/idaholab/marlin/pull/129,4,1
+/idaholab/marlin/tree/devel/examples/cahn_hilliard,3,3
+/idaholab/marlin/blob/devel/src/tensor_computes/LibtorchGibbsEnergy.C,3,2
+/idaholab/marlin/pulls,2,2

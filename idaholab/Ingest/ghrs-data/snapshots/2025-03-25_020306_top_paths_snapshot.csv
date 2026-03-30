@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Ingest,52,16
+/idaholab/Ingest/tree/main,12,3
+/idaholab/ingest,9,6
+/idaholab/Ingest/tree/main/config,8,1
+/idaholab/Ingest/tree/main/lib,7,2
+/idaholab/Ingest/tree/main/assets,6,1
+/idaholab/Ingest/tree/main/lib/ingest/azure_storage,6,1
+/idaholab/Ingest/blob/main/server/README.md,4,2
+/idaholab/Ingest/blob/main/lib/ingest_web/router.ex,3,2
+/idaholab/Ingest/blob/main/readme.md,3,1

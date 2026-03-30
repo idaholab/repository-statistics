@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Ingest,26,11
+/idaholab/ingest,13,6
+/idaholab/Ingest/tree/main,6,3
+/idaholab/Ingest/tree/main/config,6,2
+/idaholab/Ingest/blob/main/server/README.md,4,2
+/idaholab/Ingest/blob/main/config/dev.exs,3,1
+/idaholab/Ingest/blob/main/lib/ingest_web/router.ex,2,2
+/idaholab/Ingest/actions,1,1
+/idaholab/Ingest/blob/main/Dockerfile,1,1
+/idaholab/Ingest/blob/main/notebooks/webhooks.livemd,1,1

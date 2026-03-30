@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,52,32
+/idaholab/virtual_test_bed/pulls,24,8
+/idaholab/virtual_test_bed/pull/551,24,5
+/idaholab/virtual_test_bed/tree/devel/msr,15,8
+/idaholab/virtual_test_bed/tree/devel/microreactors,14,8
+/idaholab/virtual_test_bed/tree/devel/msr/msre/reactivity_insertion,14,5
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,13,8
+/idaholab/virtual_test_bed/tree/devel/msr/msfr/steady,13,6
+/idaholab/virtual_test_bed/blob/devel/microreactors/mrad/steady/HPMR_thermo_ss.i,12,6
+/idaholab/virtual_test_bed/pull/554,12,4

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/LOGOS,10,5
+/idaholab/LOGOS/blob/devel/tests/CapitalInvestments/mkp/gold/test_mkp_scenarios.csv,6,1
+/idaholab/LOGOS/blob/devel/README.md,4,2
+/idaholab/LOGOS/blob/devel/src/CapitalInvestmentModel.py,4,1
+/idaholab/LOGOS/blob/devel/tests/CapitalInvestments/mkp/gold/test_mkp.csv,4,1
+/idaholab/LOGOS/blob/devel/doc/user_manual/Makefile,2,1
+/idaholab/LOGOS/blob/devel/doc/user_manual/user_manual.bib,2,1
+/idaholab/LOGOS/blob/devel/doc/user_manual/user_manual.tex,2,1
+/idaholab/LOGOS/blob/devel/.gitlab-ci.yml,2,1
+/idaholab/LOGOS/blob/devel/__init__.py,2,1

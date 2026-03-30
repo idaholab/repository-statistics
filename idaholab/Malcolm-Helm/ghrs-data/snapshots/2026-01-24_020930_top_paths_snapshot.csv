@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm-Helm,37,19
+/idaholab/Malcolm-Helm/tree/main/chart,18,7
+/idaholab/Malcolm-Helm/blob/main/chart/values.yaml,10,5
+/idaholab/Malcolm-Helm/blob/976542172647b662789e12450d949120cc2129f2/chart/templates/10-zeek.yml,6,3
+/idaholab/Malcolm-Helm/blob/main/chart/templates/nginx_configmap.yml,5,1
+/idaholab/Malcolm-Helm/blob/976542172647b662789e12450d949120cc2129f2/chart/templates/malcolm_configmaps.yaml,4,3
+/idaholab/Malcolm-Helm/tree/main,4,3
+/idaholab/Malcolm-Helm/blob/3479f67a4e836990dbcf1dc45ef47692e2e5c028/chart/values.yaml,3,3
+/idaholab/Malcolm-Helm/issues,3,2
+/idaholab/Malcolm-Helm/tree/main/chart/templates,3,2

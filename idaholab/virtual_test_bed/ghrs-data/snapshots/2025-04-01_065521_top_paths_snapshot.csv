@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,103,51
+/idaholab/virtual_test_bed/pulls,50,14
+/idaholab/virtual_test_bed/tree/devel/microreactors,42,15
+/idaholab/virtual_test_bed/tree/devel,32,12
+/idaholab/virtual_test_bed/pull/549,24,6
+/idaholab/virtual_test_bed/blob/devel/htgr/assembly/openmc.i,21,11
+/idaholab/virtual_test_bed/tree/devel/htgr,20,9
+/idaholab/virtual_test_bed/issues,20,7
+/idaholab/virtual_test_bed/pull/546,20,4
+/idaholab/virtual_test_bed/blob/devel/microreactors/gcmr/core/Serpent_Model/serpent_input.i,18,9

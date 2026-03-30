@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,79,56
+/idaholab/virtual_test_bed/tree/devel/microreactors,69,12
+/idaholab/virtual_test_bed/tree/devel/msr,59,12
+/idaholab/virtual_test_bed/tree/devel/htgr,46,14
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY,42,9
+/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/steady_state,35,3
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,30,5
+/idaholab/virtual_test_bed/tree/devel/htgr/generic-pbr-tutorial,27,3
+/idaholab/virtual_test_bed/blob/devel/msr/msre/steady_state/msre_loop_1d.i,26,7
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY/Neutronics,26,5

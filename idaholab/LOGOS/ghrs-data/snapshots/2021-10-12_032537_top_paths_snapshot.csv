@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/LOGOS,14,8
+/idaholab/LOGOS/tree/devel/tests,7,2
+/idaholab/LOGOS/tree/devel/src,6,4
+/idaholab/LOGOS/blob/devel/tests/test_battery_replacement_cashflow.xml,6,1
+/idaholab/LOGOS/blob/devel/tests/test_incremental_npv.xml,5,2
+/idaholab/LOGOS/blob/devel/tests/test_bkp.xml,4,2
+/idaholab/LOGOS/blob/devel/tests/test_BaseKnapsackModel.xml,3,2
+/idaholab/LOGOS/blob/devel/tests/test_MultipleKnapsackModel.xml,3,2
+/idaholab/LOGOS/blob/devel/tests/test_mkp.xml,3,1
+/idaholab/LOGOS/find/devel,3,1

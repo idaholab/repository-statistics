@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,64,38
+/idaholab/virtual_test_bed/tree/devel/sfr/single_assembly,51,2
+/idaholab/virtual_test_bed/tree/devel/htgr,36,10
+/idaholab/virtual_test_bed/tree/devel/pbfhr/gFHR/steady,31,4
+/idaholab/virtual_test_bed/tree/devel/sfr,30,3
+/idaholab/virtual_test_bed/tree/devel/pbfhr/gFHR,28,4
+/idaholab/virtual_test_bed/blob/devel/pbfhr/gFHR/steady/gFHR_griffin_cr_ss.i,27,7
+/idaholab/virtual_test_bed/tree/devel/apps,23,3
+/idaholab/virtual_test_bed/tree/devel/htgr/assembly,22,6
+/idaholab/virtual_test_bed/tree/devel/microreactors,21,7

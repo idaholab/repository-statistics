@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/idaholab/magpie,3,2
+/idaholab/magpie/tree/devel/tests/userobjects,2,1
+/idaholab/magpie/tree/devel/tests/userobjects/lammps_file,2,1
+/idaholab/magpie/blob/devel/tests/userobjects/lammps_file/granular_tet.i,1,1
+/idaholab/magpie/blob/devel/tests/userobjects/spparks/tofrom_spparks.i,1,1
+/idaholab/magpie/issues/282,1,1
+/idaholab/magpie/tree/devel/tests/userobjects/lammps_file/sequence,1,1

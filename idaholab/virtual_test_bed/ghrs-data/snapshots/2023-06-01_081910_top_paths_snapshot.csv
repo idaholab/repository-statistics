@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,60,37
+/idaholab/virtual_test_bed/tree/devel/msr/msre,30,6
+/idaholab/virtual_test_bed/tree/devel/msr,29,8
+/idaholab/virtual_test_bed/tree/devel/msr/msre/reactivity_insertion,24,5
+/idaholab/virtual_test_bed/tree/devel/msr/msre/steady_state,20,6
+/idaholab/virtual_test_bed/blob/devel/msr/msre/steady_state/msre_loop_1d.i,12,6
+/idaholab/virtual_test_bed/blob/devel/msr/msre/reactivity_insertion/msre_pke_ss.i,11,2
+/idaholab/virtual_test_bed/tree/devel/msr/msr_generic,11,2
+/idaholab/virtual_test_bed/blob/devel/doc/content/resources/neams-workbench.md,10,2
+/idaholab/virtual_test_bed/issues,9,3

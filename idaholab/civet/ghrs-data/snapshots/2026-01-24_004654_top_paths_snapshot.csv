@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,26,22
+/idaholab/civet/tree/master/civet,4,3
+/idaholab/civet/blob/master/requirements.txt,2,2
+/idaholab/civet/pull/565,2,2
+/idaholab/civet/blob/master/civet/urls.py,2,1
+/idaholab/civet/pulls,2,1
+/idaholab/civet/blob/master/Makefile,1,1
+/idaholab/civet/blob/master/civet/apps.py,1,1
+/idaholab/civet/blob/master/civet/settings.py,1,1
+/idaholab/civet/blob/master/civet/wsgi.py,1,1

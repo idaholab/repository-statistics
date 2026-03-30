@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,299,184
+/idaholab/Malcolm/releases/tag/v24.10.0,144,71
+/idaholab/Malcolm/issues,132,31
+/idaholab/Malcolm/blob/main/docs/README.md,78,43
+/idaholab/Malcolm/releases,63,35
+/idaholab/Malcolm/blob/main/Dockerfiles/zeek.Dockerfile,41,2
+/idaholab/Malcolm/blob/main/docs/quickstart.md,33,19
+/idaholab/Malcolm/blob/main/scripts/release_cleaver.ps1,23,14
+/idaholab/Malcolm/blob/main/scripts/release_cleaver.sh,22,14
+/idaholab/Malcolm/blob/main/zeek/config/local.zeek,21,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HYBRID,73,38
+/idaholab/HYBRID/tree/devel/Models,12,8
+/idaholab/HYBRID/tree/devel/Models/NHES,10,5
+/idaholab/HYBRID/pulls,5,2
+/idaholab/HYBRID/tree/devel/Models/NHES/Nuclear/ReactorKinetics,5,2
+/idaholab/HYBRID/tree/devel/Costs,4,4
+/idaholab/HYBRID/tree/devel/doc,4,3
+/idaholab/HYBRID/blob/devel/Models/NHES/Nuclear/ReactorKinetics/PointKinetics.mo,4,2
+/idaholab/HYBRID/tree/devel/doc/user_manual,4,2
+/idaholab/HYBRID/blob/devel/Models/NHES/Nuclear/ReactorKinetics/package.mo,4,1

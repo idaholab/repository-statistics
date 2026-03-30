@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,1037,490
+/cisagov/Malcolm/releases,63,27
+/cisagov/Malcolm/issues,61,17
+/cisagov/Malcolm/tree/main/zeek,28,12
+/cisagov/Malcolm/tree/main/dashboards,24,11
+/cisagov/Malcolm/tree/main/scripts,22,12
+/cisagov/Malcolm/search,22,11
+/cisagov/Malcolm/tree/main/logstash,21,7
+/cisagov/Malcolm/tree/main/logstash/pipelines,19,5
+/cisagov/Malcolm/tree/main/zeek/config,18,8

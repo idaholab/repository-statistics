@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-enip,90,28
+/cisagov/icsnpp-enip/blob/master/scripts/icsnpp/enip/main.zeek,14,4
+/cisagov/icsnpp-enip/tree/master/scripts,13,5
+/cisagov/icsnpp-enip/tree/master/src,9,5
+/cisagov/icsnpp-enip/blob/master/src/events.bif,8,2
+/cisagov/icsnpp-enip/blob/master/examples/cip.log,8,1
+/cisagov/icsnpp-enip/tree/master/scripts/icsnpp/enip,7,4
+/cisagov/icsnpp-enip/tree/master/examples,7,3
+/cisagov/icsnpp-enip/blob/master/examples/enip_cip_example.pcap,6,2
+/cisagov/icsnpp-enip/blob/master/examples/cip_io.log,5,1

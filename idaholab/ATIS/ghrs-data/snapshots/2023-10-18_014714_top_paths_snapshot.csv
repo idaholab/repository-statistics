@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/ATIS,6,5
+/idaholab/ATIS/tree/main/output_tests,5,1
+/idaholab/ATIS/blob/main/main.py,4,1
+/idaholab/ATIS/blob/main/variables.TEMPLATE,4,1
+/idaholab/ATIS/blob/main/analysis/analyze.py,3,1
+/idaholab/ATIS/blob/main/graph_generation.py,3,1
+/idaholab/ATIS/blob/main/malware_bazaar.py,3,1
+/idaholab/ATIS/blob/main/utilities.py,3,1
+/idaholab/ATIS/tree/main/analysis,3,1
+/idaholab/ATIS/blob/main/output_tests/input_bundle.json,2,1

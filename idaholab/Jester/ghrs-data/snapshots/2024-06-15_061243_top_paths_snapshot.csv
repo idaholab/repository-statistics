@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Jester/blob/main/readme.md,12,2
+/idaholab/Jester/blob/main/Cargo.toml,6,1
+/idaholab/Jester/blob/main/jester_core/src/errors.rs,6,1
+/idaholab/Jester/blob/main/jester_core/src/lib.rs,6,1
+/idaholab/Jester/blob/main/src/plugin.rs,6,1
+/idaholab/Jester/blob/main/src/templates.rs,6,1
+/idaholab/Jester/blob/main/src/main.rs,5,1
+/idaholab/Jester/blob/main/jester_core/build.rs,3,1
+/idaholab/Jester/blob/main/migrations/001_initial.sql,3,1
+/idaholab/Jester/blob/main/src/deep_lynx.rs,3,1

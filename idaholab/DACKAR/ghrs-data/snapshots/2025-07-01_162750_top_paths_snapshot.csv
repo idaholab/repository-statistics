@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/DACKAR,22,9
+/idaholab/DACKAR/pulls,6,2
+/idaholab/DACKAR/pull/8,2,2
+/idaholab/DACKAR/pull/8/files,2,2
+/idaholab/DACKAR/tree/main/docs,2,2
+/idaholab/DACKAR/tree/main/tests/anomalies,2,2
+/idaholab/DACKAR/blob/main/examples/RuleBasedNLP.ipynb,2,1
+/idaholab/DACKAR/tree/main/tests,2,1
+/idaholab/DACKAR/blob/main/.gitattributes,1,1
+/idaholab/DACKAR/blob/main/src/dackar/knowledge_graph/graph_utils.py,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mytrim/blob/master/tests/json/xe_on_uo2_scale10.json,8,1
+/idaholab/mytrim,6,6
+/idaholab/mytrim/blob/master/tests/json/cu_on_cu.json,4,1
+/idaholab/mytrim/blob/master/tests/json/xe_on_uo2.json,4,1
+/idaholab/mytrim/blob/master/apps/src/TrimVacEnergyCount.C,2,1
+/idaholab/mytrim/blob/master/functions.h,2,1
+/idaholab/mytrim/blob/master/tests/json/README.md,2,1
+/idaholab/mytrim/blob/master/trim.C,2,1
+/idaholab/mytrim/blob/master/trim.h,2,1
+/idaholab/mytrim/tree/master/apps,2,1

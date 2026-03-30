@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,570,258
+/cisagov/Malcolm/tree/main/logstash/pipelines,53,4
+/cisagov/Malcolm/tree/main/logstash,37,4
+/cisagov/Malcolm/tree/main/logstash/pipelines/zeek,30,4
+/cisagov/Malcolm/releases,29,18
+/cisagov/Malcolm/issues,23,10
+/cisagov/Malcolm/tree/main/sensor-iso,20,11
+/cisagov/Malcolm/tree/main/arkime,20,8
+/cisagov/Malcolm/tree/main/logstash/pipelines/output,20,3
+/cisagov/Malcolm/releases/tag/v5.0.4,18,10

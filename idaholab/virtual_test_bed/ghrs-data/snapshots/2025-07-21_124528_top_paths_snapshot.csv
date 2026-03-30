@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,131,59
+/idaholab/virtual_test_bed/pulls,65,17
+/idaholab/virtual_test_bed/tree/devel/microreactors,47,23
+/idaholab/virtual_test_bed/tree/devel/msr/msfr/steady,47,8
+/idaholab/virtual_test_bed/pull/603,40,4
+/idaholab/virtual_test_bed/blob/devel/msr/msfr/steady/run_neutronics.i,32,4
+/idaholab/virtual_test_bed/tree/devel/microreactors/gcmr/core,31,8
+/idaholab/virtual_test_bed/issues/623,29,12
+/idaholab/virtual_test_bed/issues,23,10
+/idaholab/virtual_test_bed/tree/devel/microreactors/gcmr/core/Multiphysics,23,5

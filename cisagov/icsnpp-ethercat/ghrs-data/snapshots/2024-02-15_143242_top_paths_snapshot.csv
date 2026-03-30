@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-ethercat,22,17
+/cisagov/icsnpp-ethercat/pull/12,8,2
+/cisagov/icsnpp-ethercat/tree/3bca34cdb62ade94f603d818eb17bcaaff847e5b,7,3
+/cisagov/icsnpp-ethercat/blob/main/README.md,6,3
+/cisagov/icsnpp-ethercat/tree/2b6d52776b492e24f6ec3c702deb5e638bc16e3f,6,3
+/cisagov/icsnpp-ethercat/blob/2b6d52776b492e24f6ec3c702deb5e638bc16e3f/src/events.bif,6,2
+/cisagov/icsnpp-ethercat/pulls,6,2
+/cisagov/icsnpp-ethercat/blob/main/scripts/icsnpp/ethercat/main.zeek,4,2
+/cisagov/icsnpp-ethercat/tree/2b6d52776b492e24f6ec3c702deb5e638bc16e3f/tests/traces,4,2
+/cisagov/icsnpp-ethercat/blob/main/CMakeLists.txt,4,1

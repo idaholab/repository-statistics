@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-ge-srtp/blob/main/analyzer/ge_srtp_functions.cc,18,3
+/cisagov/icsnpp-ge-srtp/blob/main/analyzer/ge_srtp_functions.spicy,17,3
+/cisagov/icsnpp-ge-srtp,12,9
+/cisagov/icsnpp-ge-srtp/blob/main/analyzer/zeek_ge_srtp.spicy,12,3
+/cisagov/icsnpp-ge-srtp/blob/main/scripts/ge_srtp_processing.zeek,12,2
+/cisagov/icsnpp-ge-srtp/blob/main/scripts/ge_srtp_types.zeek,12,2
+/cisagov/icsnpp-ge-srtp/blob/main/analyzer/ge_srtp_enums.spicy,11,4
+/cisagov/icsnpp-ge-srtp/blob/main/analyzer/ge_srtp.spicy,10,3
+/cisagov/icsnpp-ge-srtp/blob/main/scripts/ge_srtp_enums.zeek,9,2
+/cisagov/icsnpp-ge-srtp/tree/main/analyzer,8,3

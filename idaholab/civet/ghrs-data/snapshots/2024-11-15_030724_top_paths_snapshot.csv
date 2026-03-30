@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,23,16
+/idaholab/civet/blob/master/requirements.txt,5,3
+/idaholab/civet/blob/master/README.md,4,4
+/idaholab/civet/tree/master/ci,3,3
+/idaholab/civet/wiki,3,3
+/idaholab/civet/blame/master/requirements.txt,2,2
+/idaholab/civet/blob/master/LICENSE.txt,2,2
+/idaholab/civet/blob/master/Makefile,2,2
+/idaholab/civet/tree/master/client,2,2
+/idaholab/civet/blob/52ab6d60b52b7fc9e7fd37b1a9ff93fb83a575e5/ci/models.py,2,1

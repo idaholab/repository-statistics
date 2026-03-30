@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IdahoLabResearch/CH4ESE,32,22
+/IdahoLabResearch/CH4ESE/blob/main/requirements.txt,4,2
+/IdahoLabResearch/CH4ESE/blob/main/main.py,3,3
+/IdahoLabResearch/CH4ESE/blob/main/connection/connect.py,2,2
+/IdahoLabResearch/CH4ESE/blob/7e3ccda7373f46dac00e3b94cf911bf86ca8e0d7/schemas_din/V2G_CI_MsgDef.xsd,2,1
+/IdahoLabResearch/CH4ESE/blob/main/schemas_iso-2/V2G_CI_MsgBody.xsd,2,1
+/IdahoLabResearch/CH4ESE/blob/main/LICENSE,1,1
+/IdahoLabResearch/CH4ESE/blob/main/schemas_iso-2/V2G_CI_AppProtocol.xsd,1,1
+/IdahoLabResearch/CH4ESE/blob/main/schemas_iso-2/V2G_CI_MsgDef.xsd,1,1
+/IdahoLabResearch/CH4ESE/blob/main/schemas_iso-2/V2G_CI_MsgHeader.xsd,1,1

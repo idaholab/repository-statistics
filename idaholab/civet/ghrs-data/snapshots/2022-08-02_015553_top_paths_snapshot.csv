@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,13,4
+/idaholab/civet/tree/master/ci/management/commands,10,1
+/idaholab/civet/search,5,1
+/idaholab/civet/tree/master/ci/management,5,1
+/idaholab/civet/tree/master/client,5,1
+/idaholab/civet/pull/541,4,3
+/idaholab/civet/tree/master/ci,4,1
+/idaholab/civet/blob/master/ci/management/commands/cancel_old_jobs.py,3,1
+/idaholab/civet/blob/master/ci/management/commands/user_access.py,2,1
+/idaholab/civet/blob/be6fc9e970190a56a835c45dcfbdc978caafb144/civet/apps.py,1,1

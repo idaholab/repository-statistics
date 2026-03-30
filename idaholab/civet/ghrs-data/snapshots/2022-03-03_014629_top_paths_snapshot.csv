@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,16,9
+/idaholab/civet/wiki,5,4
+/idaholab/civet/tree/master/civet,3,2
+/idaholab/civet/wiki/Server-Installation,3,1
+/idaholab/civet/graphs/contributors,2,1
+/idaholab/civet/pulls,2,1
+/idaholab/civet/blob/c7835f60b92f7f7661da374b9637d32834811d73/ci/github/api.py,1,1
+/idaholab/civet/blob/master/ci/github/api.py,1,1
+/idaholab/civet/blob/master/client/client.py,1,1
+/idaholab/civet/commits,1,1

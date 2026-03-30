@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-c1222,10,7
+/cisagov/icsnpp-c1222/tree/main/analyzer,6,3
+/cisagov/icsnpp-c1222/tree/main/testing,5,2
+/cisagov/icsnpp-c1222/tree/6c5e684aff7015b5f9e558fc5f24796cbccee24c,3,3
+/cisagov/icsnpp-c1222/blob/main/analyzer/c1222.spicy,3,2
+/cisagov/icsnpp-c1222/blob/main/testing/traces/c1222_ident_service_tcp.pcap,3,2
+/cisagov/icsnpp-c1222/blob/main/testing/traces/c1222_security_service_tcp.pcap,3,2
+/cisagov/icsnpp-c1222/blob/main/testing/traces/c1222_std_example8.pcap,3,2
+/cisagov/icsnpp-c1222/blob/main/testing/traces/c1222overIPv4.cap,3,2
+/cisagov/icsnpp-c1222/tree/main/testing/tests,3,2

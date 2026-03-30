@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,14,5
+/idaholab/civet/pull/528,11,1
+/idaholab/civet/pulls,8,2
+/idaholab/civet/pull/528/files,3,1
+/idaholab/civet/issues,2,2
+/idaholab/civet/issues/4,2,2
+/idaholab/civet/find/master,2,1
+/idaholab/civet/wiki,2,1
+/idaholab/civet/blob/488e0c41913c0802dd6ce761e0991410d22f032c/ci/oauth_api.py,1,1
+/idaholab/civet/blob/master/ci/oauth_api.py,1,1

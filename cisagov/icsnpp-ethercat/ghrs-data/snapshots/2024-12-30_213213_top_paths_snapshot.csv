@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-ethercat,11,9
+/cisagov/icsnpp-ethercat/blob/main/scripts/icsnpp/ethercat/main.zeek,1,1
+/cisagov/icsnpp-ethercat/blob/main/src/events.bif,1,1
+/cisagov/icsnpp-ethercat/tree/main/tests,1,1
+/cisagov/icsnpp-ethercat/tree/main/tests/files,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,16,11
+/idaholab/civet/pull/601,12,2
+/idaholab/civet/pull/600,6,1
+/idaholab/civet/pull/601/files,5,2
+/idaholab/civet/pulls,3,2
+/idaholab/civet/pull/601/commits/9ec53e3efc114b4f08cd54c2f4613ef6587995db,3,1
+/idaholab/civet/pull/601/commits,2,1
+/idaholab/civet/pull/601/commits/56d2aa7f4d98d440e5c8a1ff1dba0c86345b8e7f,2,1
+/idaholab/civet/pull/601/commits/e2b65fd16d98700646099b0e9901bd6d88d3669d,2,1
+/idaholab/civet/compare/master...loganharbour:civet:test_sqa,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-dnp3,40,20
+/cisagov/icsnpp-dnp3/tree/main/examples,6,4
+/cisagov/icsnpp-dnp3/blob/main/scripts/main.zeek,5,5
+/cisagov/icsnpp-dnp3/tree/main/scripts,5,5
+/cisagov/icsnpp-dnp3/issues,5,1
+/cisagov/icsnpp-dnp3/issues/new,4,1
+/cisagov/icsnpp-dnp3/issues/new/choose,4,1
+/cisagov/icsnpp-dnp3/blob/main/examples/dnp3_example.pcap,3,2
+/cisagov/icsnpp-dnp3/watchers,3,1
+/cisagov/icsnpp-dnp3/actions,2,1

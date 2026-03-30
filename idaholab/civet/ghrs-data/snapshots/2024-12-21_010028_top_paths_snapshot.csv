@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,11,7
+/idaholab/civet/pull/600,10,2
+/idaholab/civet/pull/600/files,5,2
+/idaholab/civet/wiki,2,2
+/idaholab/civet/blob/master/ci/github/api.py,2,1
+/idaholab/civet/blob/master/ci/github/urls.py,2,1
+/idaholab/civet/blob/master/ci/github/views.py,2,1
+/idaholab/civet/blob/master/ci/github/oauth.py,1,1
+/idaholab/civet/commit/52ab6d60b52b7fc9e7fd37b1a9ff93fb83a575e5,1,1
+/idaholab/civet/compare/master...roystgnr:civet:discard_mid_output,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/salamander,40,20
+/idaholab/salamander/pull/100,34,4
+/idaholab/salamander/pull/125,20,5
+/idaholab/salamander/pulls,20,4
+/idaholab/salamander/issues/90,11,9
+/idaholab/salamander/pull/100/changes,6,2
+/idaholab/salamander/tree/devel/test/tests/neutronics/cad_workflow,6,1
+/idaholab/salamander/pull/100/commits,5,1
+/idaholab/salamander/issues,4,2
+/idaholab/salamander/blob/devel/test/tests/neutronics/cad_workflow/openmc.i,4,1

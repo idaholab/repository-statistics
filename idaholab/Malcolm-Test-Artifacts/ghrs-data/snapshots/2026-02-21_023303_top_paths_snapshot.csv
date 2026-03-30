@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm-Test-Artifacts/tree/main/pcap/protocols,7,2
+/idaholab/Malcolm-Test-Artifacts,4,3
+/idaholab/Malcolm-Test-Artifacts/tree/main/pcap,4,3
+/idaholab/Malcolm-Test-Artifacts/blob/main/pcap/plugins/download_over_dns.pcap,2,1
+/idaholab/Malcolm-Test-Artifacts/blob/main/pcap/protocols/Redis.pcap,2,1
+/idaholab/Malcolm-Test-Artifacts/blob/main/LICENSE,1,1
+/idaholab/Malcolm-Test-Artifacts/blob/main/pcap/plugins/smb_mimikatz_copy_to_host.pcap,1,1
+/idaholab/Malcolm-Test-Artifacts/blob/main/pcap/protocols/BACnet.pcap,1,1
+/idaholab/Malcolm-Test-Artifacts/blob/main/pcap/protocols/DHCP.pcap,1,1
+/idaholab/Malcolm-Test-Artifacts/blob/main/pcap/protocols/ETHERCAT.pcap,1,1

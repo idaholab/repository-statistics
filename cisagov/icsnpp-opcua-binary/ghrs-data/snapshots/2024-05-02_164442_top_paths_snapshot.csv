@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-opcua-binary/tree/main/scripts,17,2
+/cisagov/icsnpp-opcua-binary,16,15
+/cisagov/icsnpp-opcua-binary/compare/main...kkvarfordt:icsnpp-opcua-binary:parser-coverage,9,4
+/cisagov/icsnpp-opcua-binary/blob/main/scripts/get-endpoints-types.zeek,8,4
+/cisagov/icsnpp-opcua-binary/blob/main/scripts/activate-session-types.zeek,6,2
+/cisagov/icsnpp-opcua-binary/blob/main/scripts/create-monitored-items-types.zeek,6,2
+/cisagov/icsnpp-opcua-binary/blob/main/scripts/icsnpp/opcua-binary/main.zeek,6,2
+/cisagov/icsnpp-opcua-binary/tree/main/src,6,2
+/cisagov/icsnpp-opcua-binary/blob/main/scripts/browse-types.zeek,4,2
+/cisagov/icsnpp-opcua-binary/blob/main/scripts/close-session-types.zeek,4,2

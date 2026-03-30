@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Ingest/tree/main/server,23,3
+/idaholab/Ingest/blob/main/server/apps/ingest_web/lib/ingest_web/components_live/destination_form.ex,13,2
+/idaholab/Ingest,12,10
+/idaholab/ingest,10,2
+/idaholab/Ingest/tree/main,10,2
+/idaholab/Ingest/blob/main/server/README.md,8,4
+/idaholab/Ingest/blob/main/server/Dockerfile,8,2
+/idaholab/Ingest/tree/main/server/config,7,2
+/idaholab/Ingest/tree/main/server/apps,5,2
+/idaholab/Ingest/blob/main/server/config/runtime.exs,4,3

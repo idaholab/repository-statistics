@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,103,52
+/idaholab/virtual_test_bed/pulls,33,9
+/idaholab/virtual_test_bed/tree/devel/microreactors,30,17
+/idaholab/virtual_test_bed/pull/506,20,4
+/idaholab/virtual_test_bed/pull/490,19,4
+/idaholab/virtual_test_bed/issues,17,5
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY,16,5
+/idaholab/virtual_test_bed/tree/devel/microreactors/s8er,12,5
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY/Neutronics,12,4
+/idaholab/virtual_test_bed/blob/devel/microreactors/s8er/core_2D_bison_coupled.i,11,4

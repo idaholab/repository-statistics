@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/STIXEnforcer/blob/main/STIX%20Enforcer.docx,3,1
+/idaholab/STIXEnforcer/blob/main/Checkers/MalwareFileReqChecker.py,2,1
+/idaholab/STIXEnforcer/blob/main/STIX_Enforcer.py,2,1
+/idaholab/STIXEnforcer/tree/main/Fixers,2,1
+/idaholab/stixenforcer,1,1
+/idaholab/STIXEnforcer/blob/main/Checkers/AttackPatternReqChecker.py,1,1
+/idaholab/STIXEnforcer/blob/main/Checkers/AuthorReqChecker.py,1,1
+/idaholab/STIXEnforcer/blob/main/Checkers/DescLenChecker.py,1,1
+/idaholab/STIXEnforcer/blob/main/Fixers/BrokenRelFixer.py,1,1
+/idaholab/STIXEnforcer/blob/main/Fixers/UUID5Fixer.py,1,1

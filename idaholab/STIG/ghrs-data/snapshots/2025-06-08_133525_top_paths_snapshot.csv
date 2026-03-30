@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/STIG,32,26
+/idaholab/STIG/tree/stig-v3,15,9
+/idaholab/STIG/commits/master,9,1
+/idaholab/STIG/releases/tag/v3.0.1,8,5
+/idaholab/STIG/releases,6,4
+/idaholab/STIG/blob/master/18-179_STIG_Innovation_Sheet.pdf,2,2
+/idaholab/STIG/blob/stig-v3/docker-compose.yaml,2,2
+/idaholab/STIG/commits,2,1
+/idaholab/STIG/commits/stig-v3,2,1
+/idaholab/STIG/graphs/contributors,2,1

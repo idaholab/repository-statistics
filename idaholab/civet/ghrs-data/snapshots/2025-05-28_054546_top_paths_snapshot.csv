@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/civet,4,3
+/idaholab/civet/blob/master/civet/apps.py,1,1
+/idaholab/civet/blob/master/civet/settings.py,1,1
+/idaholab/civet/blob/master/civet/urls.py,1,1
+/idaholab/civet/blob/master/civet/wsgi.py,1,1
+/idaholab/civet/blob/master/client/scripts/control.sh,1,1
+/idaholab/civet/blob/master/client/tests/ready_jobs.json,1,1
+/idaholab/civet/blob/master/client/tests/test_INLClient.py,1,1
+/idaholab/civet/tree/master/civet,1,1

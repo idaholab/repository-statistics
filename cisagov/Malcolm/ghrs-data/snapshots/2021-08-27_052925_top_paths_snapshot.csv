@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,687,368
+/cisagov/Malcolm/search,28,6
+/cisagov/Malcolm/releases,23,17
+/cisagov/Malcolm/issues,19,7
+/cisagov/Malcolm/releases/tag/v3.2.1,11,11
+/cisagov/Malcolm/tree/master/Dockerfiles,11,9
+/cisagov/Malcolm/tree/master/zeek,11,7
+/cisagov/Malcolm/tree/master/docs,9,7
+/cisagov/Malcolm/tree/master/yara/rules,9,5
+/cisagov/Malcolm/tree/master/sensor-iso,9,4

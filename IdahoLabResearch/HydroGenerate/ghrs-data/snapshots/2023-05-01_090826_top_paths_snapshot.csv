@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IdahoLabResearch/HydroGenerate,31,17
+/IdahoLabResearch/HydroGenerate/tree/main/examples,16,6
+/IdahoLabResearch/HydroGenerate/tree/main/hat,11,5
+/IdahoLabResearch/HydroGenerate/blob/main/examples/1.0-jugc-one_site_analysis.ipynb,9,5
+/IdahoLabResearch/HydroGenerate/blob/main/hat/utils/hydropower_potential.py,8,3
+/IdahoLabResearch/HydroGenerate/tree/main/hat/utils,7,3
+/IdahoLabResearch/HydroGenerate/blob/main/examples/1.0-jugc-query-coordinate-box.ipynb,5,3
+/IdahoLabResearch/HydroGenerate/blob/main/examples/1.0-jugc-read-csv.ipynb,4,2
+/IdahoLabResearch/HydroGenerate/blob/main/examples/test_potential.csv,3,3
+/IdahoLabResearch/HydroGenerate/blob/main/hat/api_call.py,3,3

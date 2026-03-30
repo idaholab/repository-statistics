@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,20,12
+/idaholab/malamute/tree/devel/examples,4,3
+/idaholab/malamute/blob/devel/examples/laser_welding_problems/physics/multi-scale-grain-growth/grain_growth_2D_bottom.i,3,2
+/idaholab/malamute/tree/devel,3,2
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition,2,2
+/idaholab/malamute/tree/devel/tutorials/efas/introduction,2,2
+/idaholab/malamute/blob/devel/examples/laser_welding_problems/physics/surface-tension/2d-one-spot-scaled-2nd-order.i,2,1
+/idaholab/malamute/blob/devel/examples/melt_pool_2d/melt_pool.i,2,1
+/idaholab/malamute/blob/devel/examples/directed_energy_deposition/cylinder/sub_app_thermal.i,1,1
+/idaholab/malamute/blob/devel/examples/directed_energy_deposition/hollow_cylinder/master_app_mechanical.i,1,1

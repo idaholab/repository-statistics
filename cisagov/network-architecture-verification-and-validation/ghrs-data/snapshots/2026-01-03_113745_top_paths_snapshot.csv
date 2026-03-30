@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/network-architecture-verification-and-validation,15,11
+/cisagov/network-architecture-verification-and-validation/blob/develop/docker/README.md,4,2
+/cisagov/network-architecture-verification-and-validation/blob/develop/docker/Dockerfile,2,1
+/cisagov/network-architecture-verification-and-validation/tree/develop/docker,2,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/docker/backup_docker.sh,1,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/docker/build_docker.sh,1,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/docker/local.zeek,1,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/docker/navv-docker.sh,1,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/docs/images/segments.png,1,1
+/cisagov/network-architecture-verification-and-validation/forks,1,1

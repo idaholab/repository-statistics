@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,22,18
+/cisagov/parsnip/pull/33,3,1
+/cisagov/parsnip/issues,2,1
+/cisagov/parsnip/tree/main/docs,2,1
+/cisagov/parsnip/blob/main/docs/parsnip.md,1,1
+/cisagov/parsnip/blob/main/docs/traces/MySimpleProtocol.pcapng,1,1
+/cisagov/parsnip/blob/main/frontend/app/parsnip/main/forms.py,1,1
+/cisagov/parsnip/blob/main/frontend/app/parsnip/main/routes.py,1,1
+/cisagov/parsnip/compare/main...nagilum2007:parsnip:wtforms_update,1,1
+/cisagov/parsnip/tree/main/docs/traces,1,1

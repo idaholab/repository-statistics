@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/network-architecture-verification-and-validation,57,22
+/cisagov/network-architecture-verification-and-validation/tree/develop/src/navv,8,2
+/cisagov/network-architecture-verification-and-validation/blob/develop/docker/README.md,6,3
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/commands.py,4,2
+/cisagov/network-architecture-verification-and-validation/releases/tag/v3.2.2,2,2
+/cisagov/network-architecture-verification-and-validation/blob/develop/docker/navv-docker.sh,2,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/docker/navv-docker.sh&,2,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/spreadsheet_tools.py,2,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/utilities.py,2,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/docs/images/navv-gui.png,1,1

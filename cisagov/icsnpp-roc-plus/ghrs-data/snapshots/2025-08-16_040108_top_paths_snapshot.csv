@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-roc-plus,12,10
+/cisagov/icsnpp-roc-plus/tree/e1887e36c982dcb94abfbc98bb2cbdf573774e65,7,5
+/cisagov/icsnpp-roc-plus/tree/main,3,1
+/cisagov/icsnpp-roc-plus/blob/main/CMakeLists.txt,2,1
+/cisagov/icsnpp-roc-plus/blob/main/install_manifest.txt,2,1
+/cisagov/icsnpp-roc-plus/issues,2,1
+/cisagov/icsnpp-roc-plus/tree/main/analyzer,2,1
+/cisagov/icsnpp-roc-plus/tree/main/cmake,2,1
+/cisagov/icsnpp-roc-plus/blob/e1887e36c982dcb94abfbc98bb2cbdf573774e65/scripts/main.zeek,1,1
+/cisagov/icsnpp-roc-plus/blob/main/analyzer/roc_plus.spicy,1,1

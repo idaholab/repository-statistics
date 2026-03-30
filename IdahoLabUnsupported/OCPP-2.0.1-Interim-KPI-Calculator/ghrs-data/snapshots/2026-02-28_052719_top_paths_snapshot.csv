@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/tree/main,16,6
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator,11,5
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/kpi_calculator/log_parser/ocpp_2_0_1/parser.py,10,3
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/parse_messages.py,10,1
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/split_data_into_charger_files.py,8,1
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/kpi_calculator/log_parser/ocpp_2_0_1/message.py,7,3
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/kpi_calculator/log_parser/ocpp_2_0_1/status_event/code.py,7,3
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/kpi_calculator/log_parser/ocpp_2_0_1/status_event/type.py,7,3
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/kpi_calculator/log_parser/ocpp_2_0_1/transaction_parser.py,5,3
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/reader.py,5,1

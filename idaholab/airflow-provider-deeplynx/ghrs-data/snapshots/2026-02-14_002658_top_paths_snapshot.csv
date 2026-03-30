@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/idaholab/airflow-provider-deeplynx,10,4
+/idaholab/airflow-provider-deeplynx/tree/main/deeplynx_provider,2,1
+/idaholab/airflow-provider-deeplynx/tree/main/docs/deeplynx_provider,2,1
+/idaholab/airflow-provider-deeplynx/branches,1,1
+/idaholab/airflow-provider-deeplynx/tree/main/deeplynx_provider/operators,1,1

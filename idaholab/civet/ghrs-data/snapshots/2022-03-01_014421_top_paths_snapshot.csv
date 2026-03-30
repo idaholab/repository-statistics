@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,18,7
+/idaholab/civet/pulls,5,2
+/idaholab/civet/graphs/contributors,3,2
+/idaholab/civet/tree/master/civet,3,2
+/idaholab/civet/wiki,3,2
+/idaholab/civet/wiki/Server-Installation,3,1
+/idaholab/civet/blob/master/client/scripts/control.sh,2,1
+/idaholab/civet/issues,2,1
+/idaholab/civet/blob/c7835f60b92f7f7661da374b9637d32834811d73/ci/github/api.py,1,1
+/idaholab/civet/blob/f7662f6692daa14e450e927f75f4a69cf3c2d5d9/civet/settings.py,1,1

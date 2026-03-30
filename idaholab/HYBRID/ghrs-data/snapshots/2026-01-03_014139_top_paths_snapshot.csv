@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HYBRID,54,41
+/idaholab/HYBRID/tree/devel/Models/NHES/Nuclear,21,15
+/idaholab/HYBRID/tree/devel,17,7
+/idaholab/HYBRID/tree/devel/Models,6,4
+/idaholab/HYBRID/tree/devel/Models/NHES,6,4
+/idaholab/HYBRID/tree/devel/Models/NHES/Nuclear/CoreSubchannels,3,2
+/idaholab/HYBRID/tree/devel/Models/NHES/Nuclear/PowerProfiles,3,2
+/idaholab/HYBRID/tree/devel/Models/RAVEN_WORKFLOWS,2,2
+/idaholab/HYBRID/blob/devel/Models/NHES/Electrolysis/HTSE/Examples/HTSEplant_NHES_flowSources.mo,1,1
+/idaholab/HYBRID/blob/devel/Models/NHES/Nuclear/CoreSubchannels/Regions_3_CHF_EPRI_with_hotchannel.mo,1,1

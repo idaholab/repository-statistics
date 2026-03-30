@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mytrim/tree/master/apps,8,1
+/idaholab/mytrim/tree/master/inputs,6,1
+/idaholab/mytrim,4,3
+/idaholab/mytrim/tree/master/performance,4,2
+/idaholab/mytrim/tree/master/shim,3,1
+/idaholab/mytrim/blob/master/apps/mytrim_solid.C,2,1
+/idaholab/mytrim/blob/master/inputs/example_layers.in,2,1
+/idaholab/mytrim/blob/master/inputs/samplelayers_ag_on_cu.in,2,1
+/idaholab/mytrim/blob/master/inputs/samplelayers_cu_on_al.in,2,1
+/idaholab/mytrim/blob/master/inputs/samplelayers_zro2_multilayer.in,2,1

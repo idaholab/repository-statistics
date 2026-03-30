@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bsap,10,10
+/cisagov/icsnpp-bsap/blob/main/scripts/icsnpp/bsap/main.zeek,1,1
+/cisagov/icsnpp-bsap/blob/main/src/bsap-protocol.pac,1,1
+/cisagov/icsnpp-bsap/tree/main/src,1,1

@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-bsap,15,4
+/cisagov/icsnpp-bsap/blob/main/tests/baseline/analyzer.ip/bsap_ip_header.log,2,1
+/cisagov/icsnpp-bsap/blob/main/tests/scripts/get-zeek-env,2,1
+/cisagov/icsnpp-bsap/tree/811371566f2c371e2bd2fffaaa3a67f4426c8e21/src,2,1
+/cisagov/icsnpp-bsap/blob/main/tests/scripts/diff-remove-timestamps,1,1
+/cisagov/icsnpp-bsap/tree/811371566f2c371e2bd2fffaaa3a67f4426c8e21,1,1
+/cisagov/icsnpp-bsap/tree/main,1,1

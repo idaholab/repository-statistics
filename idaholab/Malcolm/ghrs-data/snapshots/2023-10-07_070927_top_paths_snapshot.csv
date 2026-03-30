@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,243,153
+/idaholab/Malcolm/blob/main/docs/README.md,118,40
+/idaholab/Malcolm/blob/main/docs/quickstart.md,67,21
+/idaholab/Malcolm/releases,50,32
+/idaholab/Malcolm/blob/main/docs/ubuntu-install-example.md,48,11
+/idaholab/Malcolm/blob/main/docker-compose.yml,47,8
+/idaholab/Malcolm/issues,30,16
+/idaholab/Malcolm/tree/main/docs,24,9
+/idaholab/Malcolm/blob/main/malcolm-iso/build_via_vagrant.sh,22,1
+/idaholab/Malcolm/blob/main/docs/malcolm-hedgehog-e2e-iso-install.md,21,6

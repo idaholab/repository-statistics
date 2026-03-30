@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-roc-plus,7,6
+/cisagov/icsnpp-roc-plus/tree/main,3,1
+/cisagov/icsnpp-roc-plus/tree/e1887e36c982dcb94abfbc98bb2cbdf573774e65,2,2
+/cisagov/icsnpp-roc-plus/tree/main/analyzer,2,1
+/cisagov/icsnpp-roc-plus/blob/main/analyzer/roc_plus.spicy,1,1
+/cisagov/icsnpp-roc-plus/blob/main/testing/traces/all_opcodes_tcp.pcap,1,1
+/cisagov/icsnpp-roc-plus/blob/main/testing/traces/all_opcodes_udp.pcap,1,1
+/cisagov/icsnpp-roc-plus/fork,1,1
+/cisagov/icsnpp-roc-plus/tree/main/testing,1,1
+/cisagov/icsnpp-roc-plus/tree/main/testing/traces,1,1

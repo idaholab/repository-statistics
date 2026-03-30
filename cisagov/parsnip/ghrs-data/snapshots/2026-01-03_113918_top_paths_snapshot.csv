@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,9,6
+/cisagov/parsnip/blob/main/docs/parsnip.md,4,3
+/cisagov/parsnip/blob/d46d47c79a9b4eb400cdb675a509db1d38234aa2/backend/json_processing.py,3,1
+/cisagov/parsnip/blob/main/docs/traces/MySimpleProtocol.pcapng,3,1
+/cisagov/parsnip/tree/main/backend,3,1
+/cisagov/parsnip/blob/main/backend/objects.py,2,1
+/cisagov/parsnip/tree/d46d47c79a9b4eb400cdb675a509db1d38234aa2/backend,2,1
+/cisagov/parsnip/blob/d46d47c79a9b4eb400cdb675a509db1d38234aa2/backend/generation_utils.py,1,1
+/cisagov/parsnip/blob/d46d47c79a9b4eb400cdb675a509db1d38234aa2/backend/objects.py,1,1
+/cisagov/parsnip/blob/main/README.md,1,1

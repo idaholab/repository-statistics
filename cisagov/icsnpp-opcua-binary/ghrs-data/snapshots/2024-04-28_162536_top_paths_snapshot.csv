@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-opcua-binary/tree/main/scripts,31,3
+/cisagov/icsnpp-opcua-binary,25,22
+/cisagov/icsnpp-opcua-binary/tree/main/src,12,4
+/cisagov/icsnpp-opcua-binary/blob/main/scripts/get-endpoints-types.zeek,8,4
+/cisagov/icsnpp-opcua-binary/tree/main/scripts/icsnpp/opcua-binary,8,3
+/cisagov/icsnpp-opcua-binary/blob/main/scripts/icsnpp/opcua-binary/main.zeek,8,2
+/cisagov/icsnpp-opcua-binary/tree/main/src/headers,8,1
+/cisagov/icsnpp-opcua-binary/tree/main/tests,8,1
+/cisagov/icsnpp-opcua-binary/tree/main,7,3
+/cisagov/icsnpp-opcua-binary/compare/main...kkvarfordt:icsnpp-opcua-binary:parser-coverage,6,4

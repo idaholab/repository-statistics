@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,236,140
+/idaholab/Malcolm/blob/main/docs/README.md,130,39
+/idaholab/Malcolm/releases,68,41
+/idaholab/Malcolm/blob/main/arkime/etc/config.ini,52,9
+/idaholab/Malcolm/issues,51,17
+/idaholab/Malcolm/blob/main/logstash/pipelines/zeek/11_zeek_parse.conf,48,11
+/idaholab/Malcolm/tree/main/arkime,47,10
+/idaholab/Malcolm/tree/main/logstash/pipelines/zeek,44,10
+/idaholab/Malcolm/blob/main/arkime/wise/source.zeeklogs.js,42,9
+/idaholab/Malcolm/blob/main/logstash/pipelines/zeek/13_zeek_normalize.conf,42,8

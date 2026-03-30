@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/DOVE,15,13
+/idaholab/DOVE/blob/main/.github/workflows/deploy-docs.yml,1,1
+/idaholab/DOVE/blob/main/examples/capacity_factor_example.py,1,1
+/idaholab/DOVE/blob/main/examples/minimums_example.py,1,1
+/idaholab/DOVE/blob/main/examples/ramping_test.py,1,1
+/idaholab/DOVE/blob/main/examples/storage_limits.py,1,1
+/idaholab/DOVE/blob/main/examples/storage_test.py,1,1
+/idaholab/DOVE/blob/main/tests/unit/models/price_taker/test_builder.py,1,1
+/idaholab/DOVE/blob/main/tests/unit/test_cashflow.py,1,1
+/idaholab/DOVE/blob/main/tests/unit/test_components.py,1,1

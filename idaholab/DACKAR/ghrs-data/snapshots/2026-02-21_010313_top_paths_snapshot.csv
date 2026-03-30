@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/DACKAR,9,7
+/idaholab/DACKAR/blob/main/README.md,4,2
+/idaholab/DACKAR/tree/main/data,2,2
+/idaholab/DACKAR/tree/main/docs,2,2
+/idaholab/DACKAR/tree/main/examples,2,1
+/idaholab/DACKAR/blob/main/data/entities.csv,1,1
+/idaholab/DACKAR/blob/main/data/time_keywords.csv,1,1
+/idaholab/DACKAR/blob/main/data/time_relation_keywords.csv,1,1
+/idaholab/DACKAR/blob/main/examples/images/info_extraction.png,1,1
+/idaholab/DACKAR/blob/main/nltkDownloader.py,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HERON,30,15
+/idaholab/HERON/tree/devel/tests/integration_tests/mechanics,30,2
+/idaholab/HERON/wiki,15,4
+/idaholab/HERON/blob/devel/tests/integration_tests/mechanics/ramp_limits/heron_input.xml,12,4
+/idaholab/HERON/tree/devel/tests/integration_tests,11,2
+/idaholab/HERON/tree/devel/tests/integration_tests/mechanics/transfer_funcs,10,1
+/idaholab/HERON/blob/devel/tests/workshop/ies/heron_input.xml,8,3
+/idaholab/HERON/tree/devel/doc/workshop,8,3
+/idaholab/HERON/blob/devel/tests/integration_tests/mechanics/transfer_funcs/heron_input.xml,8,1
+/idaholab/HERON/tree/devel/tests/integration_tests/mechanics/return_multiple_metrics,8,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-genisys,49,31
+/cisagov/icsnpp-genisys/blob/main/README.md,21,11
+/cisagov/icsnpp-genisys/tree/main/analyzer,16,7
+/cisagov/icsnpp-genisys/blob/main/analyzer/analyzer.spicy,12,4
+/cisagov/icsnpp-genisys/blob/main/analyzer/main.zeek,10,5
+/cisagov/icsnpp-genisys/tree/main/tests,9,5
+/cisagov/icsnpp-genisys/tree/main/tests/traces,8,6
+/cisagov/icsnpp-genisys/blob/main/analyzer/analyzer.evt,7,4
+/cisagov/icsnpp-genisys/blob/main/analyzer/zeek_analyzer.spicy,7,4
+/cisagov/icsnpp-genisys/tree/main/tests/analyzer,6,3

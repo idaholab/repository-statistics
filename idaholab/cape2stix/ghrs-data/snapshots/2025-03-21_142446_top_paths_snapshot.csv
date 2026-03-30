@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/cape2stix,20,10
+/idaholab/cape2stix/blob/main/docs/README.md,7,3
+/idaholab/cape2stix/tree/main,6,1
+/idaholab/cape2stix/blob/main/cape2stix/scripts/convert.py,4,2
+/idaholab/cape2stix/blob/main/docs/ama_deploy.md,4,2
+/idaholab/cape2stix/tree/main/cape2stix,4,2
+/idaholab/cape2stix/fork,3,1
+/idaholab/cape2stix/tree/main/cape2stix/scripts,2,2
+/idaholab/cape2stix/blob/main/cape2stix/core/CAPEAPI.py,1,1
+/idaholab/cape2stix/blob/main/cape2stix/core/stixmodels.py,1,1

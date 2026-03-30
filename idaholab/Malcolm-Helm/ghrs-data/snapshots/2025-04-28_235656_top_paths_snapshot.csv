@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm-Helm,45,15
+/idaholab/Malcolm-Helm/tree/main/chart,12,3
+/idaholab/Malcolm-Helm/pulls,11,3
+/idaholab/Malcolm-Helm/pull/50/files,8,5
+/idaholab/Malcolm-Helm/blob/fb104c3f32beeff78ee56e8da5fa72deef8950f3/chart/templates/malcolm_configmaps.yaml,6,5
+/idaholab/Malcolm-Helm/blob/fb104c3f32beeff78ee56e8da5fa72deef8950f3/chart/templates/18-netbox.yml,6,4
+/idaholab/Malcolm-Helm/tree/main,6,2
+/idaholab/Malcolm-Helm/tree/main/chart/templates,6,2
+/idaholab/Malcolm-Helm/pull/49,5,3
+/idaholab/Malcolm-Helm/pull/50,5,2

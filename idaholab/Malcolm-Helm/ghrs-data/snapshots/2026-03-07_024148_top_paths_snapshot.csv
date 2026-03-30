@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm-Helm,27,19
+/idaholab/Malcolm-Helm/pulls,7,3
+/idaholab/Malcolm-Helm/tree/main/chart,6,5
+/idaholab/Malcolm-Helm/issues,6,2
+/idaholab/Malcolm-Helm/blob/main/docs/Multiple Malcolms Cohabitating on a Cluster.md,5,2
+/idaholab/Malcolm-Helm/blob/main/README.md,4,2
+/idaholab/Malcolm-Helm/blob/main/chart/templates/18-netbox.yml,3,3
+/idaholab/Malcolm-Helm/blob/main/chart/values.yaml,3,3
+/idaholab/Malcolm-Helm/tree/main/chart/templates,3,2
+/idaholab/Malcolm-Helm/blob/main/chart/templates/_suricata_container.tpl,2,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/EMRALD,16,8
+/idaholab/EMRALD/tree/main/CommandLineCP,3,1
+/idaholab/EMRALD/tree/new-emrald-ui,2,2
+/idaholab/EMRALD/blob/main/CommandLineCP/CommandLineCP.csproj,2,1
+/idaholab/EMRALD/blob/new-emrald-ui/Emrald-UI/src/App.tsx,2,1
+/idaholab/EMRALD/blob/new-emrald-ui/Emrald-UI/src/contexts/ActionContext.tsx,2,1
+/idaholab/EMRALD/blob/new-emrald-ui/Emrald-UI/src/util/dataAssembler.tsx,2,1
+/idaholab/EMRALD/commit/6b86e38eba9a597aecfaf1786f41692dc66e2ec3,2,1
+/idaholab/EMRALD/tree/new-emrald-ui/Emrald-UI,2,1
+/idaholab/EMRALD/tree/new-emrald-ui/Emrald-UI/src,2,1

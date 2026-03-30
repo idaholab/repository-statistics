@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,66,39
+/idaholab/virtual_test_bed/pulls,22,9
+/idaholab/virtual_test_bed/pull/506,21,4
+/idaholab/virtual_test_bed/issues,16,5
+/idaholab/virtual_test_bed/tree/devel/microreactors,15,8
+/idaholab/virtual_test_bed/issues/509,8,6
+/idaholab/virtual_test_bed/tree/devel/msr,8,5
+/idaholab/virtual_test_bed/blob/devel/microreactors/s8er/core_2D_bison_coupled.i,8,3
+/idaholab/virtual_test_bed/tree/devel/sfr/single_assembly,8,3
+/idaholab/virtual_test_bed/blob/devel/msr/msre/multiphysics_core_model/steady_state/neu.i,8,1

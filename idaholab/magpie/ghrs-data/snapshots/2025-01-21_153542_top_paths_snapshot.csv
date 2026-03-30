@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,6,5
+/idaholab/magpie/blob/devel/doc/content/getting_started/Installation.md,1,1
+/idaholab/magpie/blob/devel/doc/content/getting_started/Marmot.md,1,1
+/idaholab/magpie/blob/devel/doc/content/source/auxkernels/MyTRIMDensityAux.md,1,1
+/idaholab/magpie/blob/devel/doc/content/source/auxkernels/MyTRIMElementEnergyAux.md,1,1
+/idaholab/magpie/blob/devel/doc/content/source/auxkernels/MyTRIMElementResultAux.md,1,1
+/idaholab/magpie/blob/devel/doc/content/source/kernels/CoupledDefectAnnihilation.md,1,1
+/idaholab/magpie/blob/devel/doc/content/source/kernels/DefectAnnihilation.md,1,1
+/idaholab/magpie/blob/devel/doc/content/source/kernels/MyTRIMElementHeatSource.md,1,1
+/idaholab/magpie/blob/devel/doc/content/source/kernels/MyTRIMElementSource.md,1,1

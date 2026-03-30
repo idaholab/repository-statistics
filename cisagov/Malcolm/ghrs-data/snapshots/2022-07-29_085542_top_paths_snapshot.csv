@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,1050,447
+/cisagov/Malcolm/search,91,12
+/cisagov/Malcolm/tree/main/Dockerfiles,64,14
+/cisagov/Malcolm/tree/main/dashboards,62,5
+/cisagov/Malcolm/issues,52,16
+/cisagov/Malcolm/releases,40,21
+/cisagov/Malcolm/tree/main/logstash,31,7
+/cisagov/Malcolm/tree/main/zeek/config,31,7
+/cisagov/Malcolm/tree/main/logstash/pipelines,28,6
+/cisagov/Malcolm/blob/main/docker-compose.yml,26,12

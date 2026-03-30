@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,19,14
+/idaholab/mastodon/pulls,6,4
+/idaholab/mastodon/pull/422,6,2
+/idaholab/mastodon/pull/422/files,4,2
+/idaholab/mastodon/compare,3,2
+/idaholab/mastodon/graphs/contributors,3,2
+/idaholab/mastodon/issues,2,2
+/idaholab/mastodon/issues/3,2,2
+/idaholab/mastodon/blob/devel/.mailmap,2,1
+/idaholab/mastodon/blob/devel/src/functions/GroundMotionSim.C,2,1

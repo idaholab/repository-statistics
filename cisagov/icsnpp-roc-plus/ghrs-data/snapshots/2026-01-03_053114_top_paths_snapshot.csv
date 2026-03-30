@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-roc-plus,7,6
+/cisagov/icsnpp-roc-plus/blob/main/analyzer/roc_plus_enums.spicy,4,1
+/cisagov/icsnpp-roc-plus/blob/main/scripts/roc_plus_enums.zeek,3,1
+/cisagov/icsnpp-roc-plus/tree/e1887e36c982dcb94abfbc98bb2cbdf573774e65,2,2
+/cisagov/icsnpp-roc-plus/tree/main,2,1
+/cisagov/icsnpp-roc-plus/tree/main/scripts,2,1
+/cisagov/icsnpp-roc-plus/blob/main/scripts/roc_plus_types.zeek,1,1

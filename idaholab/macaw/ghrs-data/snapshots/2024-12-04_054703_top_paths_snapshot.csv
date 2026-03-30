@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/macaw,5,2
+/idaholab/macaw/blob/devel/examples/beavrs_assembly/31enr_16_in.e,2,1
+/idaholab/macaw/blob/devel/scripts/download-openmc-cross-sections.sh,2,1
+/idaholab/macaw/blob/devel/scripts/install-format-hook.sh,2,1
+/idaholab/macaw/tree/devel/examples,2,1
+/idaholab/macaw/tree/devel/scripts,2,1
+/idaholab/macaw/blob/devel/examples/beavrs_assembly/geometry.xml,1,1
+/idaholab/macaw/blob/devel/examples/beavrs_assembly/run_assembly.i,1,1
+/idaholab/macaw/blob/devel/Makefile,1,1
+/idaholab/macaw/blob/devel/README.md,1,1

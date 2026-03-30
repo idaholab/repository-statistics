@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,209,138
+/idaholab/Malcolm/blob/main/docs/README.md,153,41
+/idaholab/Malcolm/blob/main/docs/quickstart.md,68,20
+/idaholab/Malcolm/releases,66,32
+/idaholab/Malcolm/blob/main/docs/ubuntu-install-example.md,42,10
+/idaholab/Malcolm/tree/main/docs,31,10
+/idaholab/Malcolm/blob/c31c7123a84a79cc2d98a8f0b8087486b965ff90/scripts/third-party-environments/aws/ami/packer_build.json,31,1
+/idaholab/Malcolm/issues,29,11
+/idaholab/Malcolm/blob/c31c7123a84a79cc2d98a8f0b8087486b965ff90/scripts/third-party-environments/aws/ami/packer_vars.json.example,26,2
+/idaholab/Malcolm/tree/c31c7123a84a79cc2d98a8f0b8087486b965ff90/scripts/third-party-environments/aws/ami,22,1

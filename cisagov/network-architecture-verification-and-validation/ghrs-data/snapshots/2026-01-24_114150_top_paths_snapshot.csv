@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/network-architecture-verification-and-validation,31,22
+/cisagov/network-architecture-verification-and-validation/tree/develop/src/navv,4,3
+/cisagov/network-architecture-verification-and-validation/tree/develop/src/navv/data,2,2
+/cisagov/network-architecture-verification-and-validation/blob/develop/docs/images/navv-gui.png,1,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/bll.py,1,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/data/mac-vendors.json,1,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/utilities.py,1,1
+/cisagov/network-architecture-verification-and-validation/blob/develop/src/navv/validators.py,1,1
+/cisagov/network-architecture-verification-and-validation/forks,1,1
+/cisagov/network-architecture-verification-and-validation/releases,1,1

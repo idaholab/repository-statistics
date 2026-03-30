@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-enip,25,15
+/cisagov/icsnpp-enip/blob/main/src/events.bif,2,2
+/cisagov/icsnpp-enip/tree/main/src,2,2
+/cisagov/icsnpp-enip/blob/main/CMakeLists.txt,1,1
+/cisagov/icsnpp-enip/blob/main/configure,1,1
+/cisagov/icsnpp-enip/blob/main/configure.plugin,1,1
+/cisagov/icsnpp-enip/blob/main/NOTICE.txt,1,1
+/cisagov/icsnpp-enip/blob/main/README.md,1,1
+/cisagov/icsnpp-enip/blob/main/scripts/__load__.zeek,1,1
+/cisagov/icsnpp-enip/blob/main/scripts/__preload__.zeek,1,1

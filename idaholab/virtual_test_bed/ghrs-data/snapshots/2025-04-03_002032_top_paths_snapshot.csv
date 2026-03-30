@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,90,50
+/idaholab/virtual_test_bed/tree/devel/microreactors,44,15
+/idaholab/virtual_test_bed/tree/devel,31,13
+/idaholab/virtual_test_bed/pulls,29,11
+/idaholab/virtual_test_bed/pull/549,24,6
+/idaholab/virtual_test_bed/blob/devel/microreactors/KRUSTY/Multiphysics_SS/KRUSTY_BISON_PARAMS.i,21,3
+/idaholab/virtual_test_bed/blob/devel/microreactors/gcmr/core/Serpent_Model/serpent_input.i,20,10
+/idaholab/virtual_test_bed/pull/546,20,4
+/idaholab/virtual_test_bed/blob/devel/microreactors/KRUSTY/Multiphysics_SS/KRUSTY_BISON_THERMOMECHANICS.i,20,3
+/idaholab/virtual_test_bed/pull/551,20,2

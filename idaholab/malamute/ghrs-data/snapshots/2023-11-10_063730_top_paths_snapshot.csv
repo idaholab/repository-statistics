@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute/tree/devel/src,37,6
+/idaholab/malamute,22,13
+/idaholab/malamute/tree/devel/examples,18,3
+/idaholab/malamute/tree/devel/src/kernels,10,2
+/idaholab/malamute/issues,8,4
+/idaholab/malamute/blob/devel/test/tests/interfacekernels/thermal_conductance/thermal_interface.i,8,1
+/idaholab/malamute/tree/devel/test/tests/interfacekernels/thermal_conductance,8,1
+/idaholab/malamute/blob/devel/src/base/MalamuteApp.C,7,3
+/idaholab/malamute/tree/devel,6,4
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition,6,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-hart-ip,19,8
+/cisagov/icsnpp-hart-ip/tree/dbc5da4bff9e5f6ab99fd36722e41735efe5feae,4,3
+/cisagov/icsnpp-hart-ip/issues,4,2
+/cisagov/icsnpp-hart-ip/blob/main/testing/traces/hart-ip.pcap,3,1
+/cisagov/icsnpp-hart-ip/blob/main/scripts/main.zeek,2,2
+/cisagov/icsnpp-hart-ip/tree/main,2,2
+/cisagov/icsnpp-hart-ip/tree/main/analyzer,2,2
+/cisagov/icsnpp-hart-ip/issues/21,2,1
+/cisagov/icsnpp-hart-ip/blob/bfc35c1215ad89d63cd9e23ee57ac29d37f1e475/analyzer/hart_ip_enum.spicy,1,1
+/cisagov/icsnpp-hart-ip/blob/dbc5da4bff9e5f6ab99fd36722e41735efe5feae/analyzer/hart_ip_conversion.cc,1,1

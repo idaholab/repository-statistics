@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,23,15
+/cisagov/parsnip/tree/main/docs,10,4
+/cisagov/parsnip/blob/main/docs/syntax.md,8,4
+/cisagov/parsnip/tree/main,7,4
+/cisagov/parsnip/tree/main/docs/parsnip_files/intermediate_language/general,7,4
+/cisagov/parsnip/blob/main/docs/parsnip.md,6,4
+/cisagov/parsnip/tree/main/docs/parsnip_files,6,3
+/cisagov/parsnip/blob/main/docs/parsnip_files/intermediate_language/general/config.json,5,3
+/cisagov/parsnip/tree/main/frontend/app/parsnip,5,1
+/cisagov/parsnip/blob/main/docs/parsnip_files/intermediate_language/general/enums.json,4,2

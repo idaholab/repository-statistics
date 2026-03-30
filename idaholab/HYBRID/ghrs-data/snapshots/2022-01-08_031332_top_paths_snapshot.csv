@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/HYBRID,61,23
+/idaholab/HYBRID/tree/devel/Models/NHES,18,7
+/idaholab/HYBRID/tree/devel/Models,16,7
+/idaholab/HYBRID/tree/devel/Models/NHES/Nuclear,12,5
+/idaholab/HYBRID/tree/devel/Models/NHES/Nuclear/FuelModels,4,3
+/idaholab/HYBRID/tree/devel/Models/NHES/Nuclear/ReactorKinetics,4,3
+/idaholab/HYBRID/tree/devel/Models/NHES/Systems,4,3
+/idaholab/HYBRID/tree/devel/Models/NHES/Desalination,4,2
+/idaholab/HYBRID/tree/devel/Models/NHES/Fluid,4,2
+/idaholab/HYBRID/tree/devel/Models/NHES/Electrolysis,3,3

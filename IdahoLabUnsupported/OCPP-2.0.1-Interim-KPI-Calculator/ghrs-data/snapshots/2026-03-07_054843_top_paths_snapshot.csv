@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/tree/main,15,10
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator,5,3
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/kpi_calculator/printing/KPI_printer.py,2,2
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/tree/main/kpi_calculator,2,2
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/tree/main/kpi_calculator/printing,2,2
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/kpi_calculator/log_parser/ocpp_2_0_1/message.py,1,1
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/kpi_calculator/log_parser/ocpp_2_0_1/parser.py,1,1
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/kpi_calculator/log_parser/ocpp_2_0_1/status_event/code.py,1,1
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/kpi_calculator/log_parser/ocpp_2_0_1/status_event/type.py,1,1
+/IdahoLabUnsupported/OCPP-2.0.1-Interim-KPI-Calculator/blob/main/kpi_calculator/log_parser/ocpp_2_0_1/transaction_parser.py,1,1

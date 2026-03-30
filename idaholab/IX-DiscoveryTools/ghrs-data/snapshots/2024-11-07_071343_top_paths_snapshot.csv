@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/IX-DiscoveryTools,8,7
+/idaholab/IX-DiscoveryTools/blob/main/docs/01-Autodiscover.md,3,2
+/idaholab/IX-DiscoveryTools/tree/main/IX-DiscoveryTools,2,1
+/idaholab/IX-DiscoveryTools/blob/main/config/services_w_cve.yaml,1,1
+/idaholab/IX-DiscoveryTools/blob/main/docs/02-ForensIX.md,1,1
+/idaholab/IX-DiscoveryTools/blob/main/IX-DiscoveryTools/openvas/README.md,1,1
+/idaholab/IX-DiscoveryTools/blob/main/IX-DiscoveryTools/openvas/run.sh,1,1
+/idaholab/IX-DiscoveryTools/issues,1,1
+/idaholab/IX-DiscoveryTools/releases,1,1
+/idaholab/IX-DiscoveryTools/tree/main/autodiscover,1,1

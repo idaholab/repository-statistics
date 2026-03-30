@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,80,51
+/idaholab/virtual_test_bed/tree/devel/msr/msfr/core_cfd/3d_wedge_rans/WA,32,1
+/idaholab/virtual_test_bed/pull/743,23,4
+/idaholab/virtual_test_bed/tree/main/htgr/assembly,17,6
+/idaholab/virtual_test_bed/pulls,16,8
+/idaholab/virtual_test_bed/tree/devel/microreactors,16,7
+/idaholab/virtual_test_bed/tree/devel/htgr,12,8
+/idaholab/virtual_test_bed/tree/devel/msr,11,6
+/idaholab/virtual_test_bed/blob/devel/htgr/assembly/solid.i,10,9
+/idaholab/virtual_test_bed/tree/devel,10,9

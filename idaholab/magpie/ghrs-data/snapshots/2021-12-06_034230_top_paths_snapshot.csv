@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,4,2
+/idaholab/magpie/issues/282,2,2
+/idaholab/magpie/tree/devel/examples,2,1
+/idaholab/magpie/tree/devel/tests,2,1
+/idaholab/magpie/blob/devel/examples/coarsen_example.i,1,1
+/idaholab/magpie/blob/devel/examples/deep_neural_network/dnn.i,1,1
+/idaholab/magpie/blob/devel/examples/nrt_comparison/U_xZr_1-x_C/parkin_coulter_UxZr1-xC.i,1,1
+/idaholab/magpie/blob/devel/examples/polar_pfm/verification/steady_theta.i,1,1
+/idaholab/magpie/blob/devel/examples/spectralLinearElastic2Materials.i,1,1
+/idaholab/magpie/blob/devel/README.md,1,1

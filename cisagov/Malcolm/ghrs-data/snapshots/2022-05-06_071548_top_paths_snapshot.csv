@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,1903,845
+/cisagov/Malcolm/releases,89,56
+/cisagov/Malcolm/issues,83,26
+/cisagov/Malcolm/search,43,17
+/cisagov/Malcolm/tree/main/scripts,35,17
+/cisagov/Malcolm/releases/tag/v5.2.11,32,25
+/cisagov/Malcolm/tree/main/sensor-iso,31,18
+/cisagov/Malcolm/releases/tag/v5.2.10,25,16
+/cisagov/Malcolm/tree/main/docs,23,14
+/cisagov/Malcolm/blob/main/scripts/control.py,21,9

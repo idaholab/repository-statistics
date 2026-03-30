@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,108,51
+/idaholab/malamute/tree/devel/examples,38,10
+/idaholab/malamute/issues,31,13
+/idaholab/malamute/tree/devel/examples/laser_welding_problems,18,5
+/idaholab/malamute/blob/devel/src/base/MalamuteApp.C,16,4
+/idaholab/malamute/tree/devel/include,14,6
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition,14,3
+/idaholab/malamute/blob/devel/include/base/MalamuteHeader.h,14,2
+/idaholab/malamute/tree/devel/examples/melt_pool_3d,13,5
+/idaholab/malamute/blob/devel/examples/melt_pool_2d/melt_pool.i,10,6

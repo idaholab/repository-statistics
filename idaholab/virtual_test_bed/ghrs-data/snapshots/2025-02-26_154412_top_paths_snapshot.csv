@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,67,43
+/idaholab/virtual_test_bed/tree/devel/microreactors,43,15
+/idaholab/virtual_test_bed/pulls,22,8
+/idaholab/virtual_test_bed/pull/514,21,8
+/idaholab/virtual_test_bed/blob/devel/msr/msfr/plant/steady/run_ns.i,17,5
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY,16,6
+/idaholab/virtual_test_bed/tree/devel/microreactors/gHPMR,15,6
+/idaholab/virtual_test_bed/blob/devel/msr/msfr/plant/steady/run_neutronics.i,14,2
+/idaholab/virtual_test_bed/tree/devel/sfr/abtr_xsgen_workflow,14,2
+/idaholab/virtual_test_bed/blob/devel/msr/msfr/plant/steady/msfr_system_1d.i,14,1

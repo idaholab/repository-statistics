@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,55,23
+/idaholab/malamute/issues,24,6
+/idaholab/malamute/pulls,24,4
+/idaholab/malamute/tree/devel/examples,21,5
+/idaholab/malamute/pull/105,17,4
+/idaholab/malamute/pull/98,17,3
+/idaholab/malamute/pull/101,17,2
+/idaholab/malamute/pull/103,12,2
+/idaholab/malamute/blob/9b361688a6f25ad8dc8a30dfe6a5ddfd4e882e2e/test/tests/melt_pool_geometry/rosenthal_temp_source.i,10,2
+/idaholab/malamute/tree/devel/examples/directed_energy_deposition,9,4

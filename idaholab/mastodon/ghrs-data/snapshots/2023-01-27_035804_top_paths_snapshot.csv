@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/mastodon,32,15
+/idaholab/mastodon/pulls,23,2
+/idaholab/mastodon/pull/396,18,2
+/idaholab/mastodon/pull/426,16,2
+/idaholab/mastodon/find/devel,8,3
+/idaholab/mastodon/blob/devel/src/bcs/NonReflectingBC.C,7,2
+/idaholab/mastodon/tree/devel/src,5,3
+/idaholab/mastodon/commit/8dddecdbf846951ab18da983dfba3defb715b33a,5,2
+/idaholab/mastodon/tree/devel/python,4,2
+/idaholab/mastodon/tree/devel/test,3,3

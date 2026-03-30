@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,71,17
+/idaholab/virtual_test_bed/pulls,24,4
+/idaholab/virtual_test_bed/tree/main/msfr,23,6
+/idaholab/virtual_test_bed/pull/21,23,4
+/idaholab/virtual_test_bed/pull/20,12,4
+/idaholab/virtual_test_bed/tree/main/msfr/steady,10,3
+/idaholab/virtual_test_bed/tree/main/mrad,9,3
+/idaholab/virtual_test_bed/tree/main/msfr/mesh,8,4
+/idaholab/virtual_test_bed/blob/main/msfr/steady/run_ns_initial.i,7,4
+/idaholab/virtual_test_bed/tree/a6f852ebbc88c82aeb5eb8c6650afd9bda0dc174,6,5

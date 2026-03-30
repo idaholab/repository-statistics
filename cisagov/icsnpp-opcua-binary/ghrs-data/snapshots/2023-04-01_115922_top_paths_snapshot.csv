@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-opcua-binary/search,83,1
+/cisagov/icsnpp-opcua-binary,65,18
+/cisagov/icsnpp-opcua-binary/tree/main/src,21,2
+/cisagov/icsnpp-opcua-binary/tree/7b24700c58532c5b8cede0a8032583fa4d3e8fd3,7,4
+/cisagov/icsnpp-opcua-binary/blob/fd3f9cdc504761acdb286df1be99b251e0d5222b/src/opcua_binary-analyzer.pac,7,1
+/cisagov/icsnpp-opcua-binary/blob/b61d056757d1eed20c09583cc3c94c556aa5bf75/src/services/get-endpoints/opcua_binary-get_endpoints.pac,6,1
+/cisagov/icsnpp-opcua-binary/blob/main/src/opcua_binary.pac,6,1
+/cisagov/icsnpp-opcua-binary/blob/b61d056757d1eed20c09583cc3c94c556aa5bf75/src/services/get-endpoints/opcua_binary-get_endpoints_analyzer.pac,5,1
+/cisagov/icsnpp-opcua-binary/blob/fd3f9cdc504761acdb286df1be99b251e0d5222b/src/opcua_binary-protocol.pac,5,1
+/cisagov/icsnpp-opcua-binary/blob/main/CMakeLists.txt,5,1

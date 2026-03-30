@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/civet,13,6
+/idaholab/civet/wiki,9,4
+/idaholab/civet/pull/542,5,2
+/idaholab/civet/issues/414,3,3
+/idaholab/civet/wiki/Server-Installation,3,2
+/idaholab/civet/find/master,2,1
+/idaholab/civet/wiki/Running-your-own-client,2,1
+/idaholab/civet/actions,1,1
+/idaholab/civet/blob/e9034abf3e52ab3e0abe31c4eb2c7b634edf1bc8/client/BaseClient.py,1,1
+/idaholab/civet/blob/e9034abf3e52ab3e0abe31c4eb2c7b634edf1bc8/client/INLClient.py,1,1

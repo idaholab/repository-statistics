@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/malamute,21,16
+/idaholab/malamute/tree/devel/examples,18,4
+/idaholab/malamute/tree/devel/examples/laser_welding_problems,12,3
+/idaholab/malamute/tree/devel/src,10,4
+/idaholab/malamute/blob/devel/src/materials/RosenthalTemperatureSource.C,8,3
+/idaholab/malamute/tree/devel/src/kernels,6,2
+/idaholab/malamute/tree/devel/test/tests,6,1
+/idaholab/malamute/tree/devel/examples/laser_welding_problems/physics,5,2
+/idaholab/malamute/blob/devel/test/tests/melt_pool_geometry/rosenthal_temp_source.i,4,2
+/idaholab/malamute/tree/devel/examples/laser_welding_problems/profiling,4,2

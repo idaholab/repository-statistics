@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/magpie,12,7
+/idaholab/magpie/tree/devel/test,5,1
+/idaholab/magpie/tree/devel/examples,4,1
+/idaholab/magpie/tree/devel/test/src,4,1
+/idaholab/magpie/tree/devel/src,2,1
+/idaholab/magpie/blob/devel/examples/grand_potential_magpie/GP_MAGPIE_density.i,1,1
+/idaholab/magpie/blob/devel/src/auxkernels/SPPARKSAux.C,1,1
+/idaholab/magpie/blob/devel/src/userobjects/SPPARKSUserObject.C,1,1
+/idaholab/magpie/blob/devel/tests/userobjects/spparks/tofrom_spparks.i,1,1
+/idaholab/magpie/issues/282,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,164,54
+/idaholab/virtual_test_bed/pulls,47,9
+/idaholab/virtual_test_bed/pull/54,33,9
+/idaholab/virtual_test_bed/issues,31,9
+/idaholab/virtual_test_bed/tree/devel/msr,30,20
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,22,16
+/idaholab/virtual_test_bed/tree/devel/mrad/steady,19,6
+/idaholab/virtual_test_bed/tree/devel/mrad,17,7
+/idaholab/virtual_test_bed/tree/devel/apps,15,11
+/idaholab/virtual_test_bed/tree/devel/htgr,14,8

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,301,189
+/idaholab/Malcolm/blob/main/docs/README.md,122,45
+/idaholab/Malcolm/blob/main/docs/quickstart.md,120,16
+/idaholab/Malcolm/releases,108,61
+/idaholab/Malcolm/blob/6c3917687d57251b422ebc9b50b01cca29456713/shared/bin/pcap_utils.py,80,15
+/idaholab/Malcolm/tree/main,61,15
+/idaholab/Malcolm/blob/6c3917687d57251b422ebc9b50b01cca29456713/file-upload/docker-entrypoint.sh,54,15
+/idaholab/Malcolm/blob/main/docs/ubuntu-install-example.md,38,12
+/idaholab/Malcolm/tree/main/Dockerfiles,35,10
+/idaholab/Malcolm/blob/6c3917687d57251b422ebc9b50b01cca29456713/file-upload/nginx/sites-available/default,33,7

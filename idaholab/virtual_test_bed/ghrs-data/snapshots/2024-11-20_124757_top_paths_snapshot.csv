@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,93,55
+/idaholab/virtual_test_bed/pulls,39,9
+/idaholab/virtual_test_bed/tree/devel/msr,28,13
+/idaholab/virtual_test_bed/issues,27,7
+/idaholab/virtual_test_bed/pull/452,22,4
+/idaholab/virtual_test_bed/blob/devel/msr/msre/multiphysics_core_model/steady_state/neu.i,21,2
+/idaholab/virtual_test_bed/tree/devel/microreactors,17,10
+/idaholab/virtual_test_bed/tree/devel/msr/msre,17,7
+/idaholab/virtual_test_bed/tree/devel/microreactors/KRUSTY,16,8
+/idaholab/virtual_test_bed/blob/devel/microreactors/hpmr_h2/steady/one_twelfth_simba_core.i,16,2

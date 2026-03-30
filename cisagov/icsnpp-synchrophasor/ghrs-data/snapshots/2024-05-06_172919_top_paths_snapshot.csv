@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-synchrophasor,11,7
+/cisagov/icsnpp-synchrophasor/blob/efeacc5734fe519321872fa3f7b5c14d56c9b5f2/analyzer/main.zeek,10,1
+/cisagov/icsnpp-synchrophasor/blob/efeacc5734fe519321872fa3f7b5c14d56c9b5f2/analyzer/synchrophasor.evt,10,1
+/cisagov/icsnpp-synchrophasor/blob/efeacc5734fe519321872fa3f7b5c14d56c9b5f2/analyzer/synchrophasor.spicy,6,1
+/cisagov/icsnpp-synchrophasor/blob/main/.github/workflows/opened-issues-triage.yml,6,1
+/cisagov/icsnpp-synchrophasor/tree/efeacc5734fe519321872fa3f7b5c14d56c9b5f2,3,3
+/cisagov/icsnpp-synchrophasor/blob/main/analyzer/main.zeek,2,1
+/cisagov/icsnpp-synchrophasor/tree/efeacc5734fe519321872fa3f7b5c14d56c9b5f2/analyzer,2,1
+/cisagov/icsnpp-synchrophasor/tree/main/analyzer,2,1
+/cisagov/icsnpp-synchrophasor/issues/10,1,1

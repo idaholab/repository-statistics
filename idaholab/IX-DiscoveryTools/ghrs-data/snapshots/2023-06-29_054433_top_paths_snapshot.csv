@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/IX-DiscoveryTools,22,9
+/idaholab/IX-DiscoveryTools/tree/main/forensix,6,1
+/idaholab/IX-DiscoveryTools/actions/runs/2835154601,2,1
+/idaholab/IX-DiscoveryTools/blob/70f32280a07050223e0b3d28b3108396ad14276c/autodiscover/plugins/nmap.py,2,1
+/idaholab/IX-DiscoveryTools/blob/70f32280a07050223e0b3d28b3108396ad14276c/forensix/forensix.go,2,1
+/idaholab/IX-DiscoveryTools/blob/70f32280a07050223e0b3d28b3108396ad14276c/IX-DiscoveryTools/util/remoteconnectors.py,2,1
+/idaholab/IX-DiscoveryTools/tree/main/autodiscover,2,1
+/idaholab/IX-DiscoveryTools/tree/main/forensix/utils,2,1
+/idaholab/IX-DiscoveryTools/tree/main/processgrabber,2,1
+/idaholab/IX-DiscoveryTools/actions,1,1

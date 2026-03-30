@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-ge-srtp,24,15
+/cisagov/icsnpp-ge-srtp/blob/develop/analyzer/ge_srtp_enums.spicy,15,3
+/cisagov/icsnpp-ge-srtp/blob/develop/analyzer/ge_srtp_functions.cc,12,3
+/cisagov/icsnpp-ge-srtp/tree/develop/scripts,7,4
+/cisagov/icsnpp-ge-srtp/blob/develop/analyzer/ge_srtp_functions.spicy,7,3
+/cisagov/icsnpp-ge-srtp/blob/develop/analyzer/zeek_ge_srtp.spicy,7,2
+/cisagov/icsnpp-ge-srtp/blob/develop/reference-docs/General_Electric_1998_Series_90_PLC_SNP_Commuications_gfk-0529.pdf,6,4
+/cisagov/icsnpp-ge-srtp/tree/develop/analyzer,6,3
+/cisagov/icsnpp-ge-srtp/blob/develop/analyzer/ge_srtp.spicy,6,2
+/cisagov/icsnpp-ge-srtp/tree/develop,5,4

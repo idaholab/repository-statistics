@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/DACKAR,4,4
+/idaholab/DACKAR/tree/main/src/dackar,2,1
+/idaholab/DACKAR/tree/main/src/dackar/utils,2,1
+/idaholab/DACKAR/blob/main/.github/workflows/github-actions.yml,1,1
+/idaholab/DACKAR/blob/main/.github/workflows/sphinx.yml,1,1
+/idaholab/DACKAR/blob/main/nltkDownloader.py,1,1
+/idaholab/DACKAR/blob/main/src/dackar/knowledge_graph/py2neo.py,1,1
+/idaholab/DACKAR/graphs/code-frequency,1,1
+/idaholab/DACKAR/issues,1,1
+/idaholab/DACKAR/tree/main/.github,1,1

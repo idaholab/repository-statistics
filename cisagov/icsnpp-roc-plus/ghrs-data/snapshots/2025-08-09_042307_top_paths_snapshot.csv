@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-roc-plus/tree/e1887e36c982dcb94abfbc98bb2cbdf573774e65,12,10
+/cisagov/icsnpp-roc-plus,8,7
+/cisagov/icsnpp-roc-plus/tree/main/testing,6,1
+/cisagov/icsnpp-roc-plus/tree/c859230573de80d913e6275c0af0dac2510adbf6,5,2
+/cisagov/icsnpp-roc-plus/blob/e1887e36c982dcb94abfbc98bb2cbdf573774e65/scripts/main.zeek,3,2
+/cisagov/icsnpp-roc-plus/blob/c859230573de80d913e6275c0af0dac2510adbf6/scripts/main.zeek,3,1
+/cisagov/icsnpp-roc-plus/tree/main/testing/scripts,3,1
+/cisagov/icsnpp-roc-plus/tree/e1887e36c982dcb94abfbc98bb2cbdf573774e65/scripts,2,2
+/cisagov/icsnpp-roc-plus/tree/e1887e36c982dcb94abfbc98bb2cbdf573774e65/testing,2,2
+/cisagov/icsnpp-roc-plus/tree/e1887e36c982dcb94abfbc98bb2cbdf573774e65/testing/traces,2,2

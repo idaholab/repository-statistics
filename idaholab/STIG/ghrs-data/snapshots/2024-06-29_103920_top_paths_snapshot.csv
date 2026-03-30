@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/STIG,76,36
+/idaholab/STIG/blob/master/docker-compose.yaml,19,6
+/idaholab/STIG/blob/master/docs/source/using-stig.rst,10,3
+/idaholab/STIG/blob/master/18-179_STIG_Innovation_Sheet.pdf,10,2
+/idaholab/STIG/blob/master/README.md,10,1
+/idaholab/STIG/blob/master/src/db/neo4j/index.ts,9,2
+/idaholab/STIG/tree/master/docs,8,3
+/idaholab/STIG/blob/master/Dockerfile,8,2
+/idaholab/STIG/branches,8,2
+/idaholab/STIG/blob/master/package.json,8,1

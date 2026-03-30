@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/idaholab/BinDrill/tree/main,4,1
+/idaholab/BinDrill/tree/main/analysis,4,1
+/idaholab/BinDrill,3,3
+/idaholab/BinDrill/tree/main/analysis/models,2,1
+/idaholab/BinDrill/blob/main/analysis/models/disco_models.py,1,1
+/idaholab/BinDrill/blob/main/analysis/models/sqlalchemy_models.py,1,1
+/idaholab/BinDrill/blob/main/connectors.py,1,1
+/idaholab/BinDrill/blob/main/main.py,1,1
+/idaholab/BinDrill/blob/main/OrientDBWrapper.py,1,1

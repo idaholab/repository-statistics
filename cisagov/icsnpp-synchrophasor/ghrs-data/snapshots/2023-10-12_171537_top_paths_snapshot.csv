@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-synchrophasor,19,12
+/cisagov/icsnpp-synchrophasor/tree/main/analyzer,7,2
+/cisagov/icsnpp-synchrophasor/tree/21ffb5ca73fa6403e2f7100e992efd9bda55cfbf,3,3
+/cisagov/icsnpp-synchrophasor/tree/dedee89c1540d72784172b559543a809ad9eb598/tests,3,1
+/cisagov/icsnpp-synchrophasor/blob/main/analyzer/main.zeek,2,1
+/cisagov/icsnpp-synchrophasor/blob/main/analyzer/synchrophasor.spicy,2,1
+/cisagov/icsnpp-synchrophasor/tree/dedee89c1540d72784172b559543a809ad9eb598/tests/baseline,2,1
+/cisagov/icsnpp-synchrophasor/tree/dedee89c1540d72784172b559543a809ad9eb598/tests/baseline/analyzer.1PMU_TCP,2,1
+/cisagov/icsnpp-synchrophasor/tree/dedee89c1540d72784172b559543a809ad9eb598/tests/baseline/analyzer.1PMU_TCP_no_log_cfg_detail,2,1
+/cisagov/icsnpp-synchrophasor/tree/mainhttps://github.com/ITI/ICS-Security-Tools/blob/master/protocols/README.md,2,1

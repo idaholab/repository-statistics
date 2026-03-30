@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/idaholab/civet,9,8
+/idaholab/civet/tree/master/civet,6,2
+/idaholab/civet/tree/master/ci,4,2
+/idaholab/civet/blob/6fc782799cf3cdf1bcf5c4bf22bfea27a8940785/ci/bitbucket/tests/test_api.py,2,1
+/idaholab/civet/blob/master/ci/GitCommitData.py,2,1
+/idaholab/civet/blob/master/.coveragerc,2,1
+/idaholab/civet/tree/6fc782799cf3cdf1bcf5c4bf22bfea27a8940785,1,1

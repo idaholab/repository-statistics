@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-dnp3,18,16
+/cisagov/icsnpp-dnp3/tree/main/scripts,6,2
+/cisagov/icsnpp-dnp3/tree/main/tests,6,2
+/cisagov/icsnpp-dnp3/tree/main/tests/traces,6,2
+/cisagov/icsnpp-dnp3/tree/c0c7e000ecef4d627ad5f83ff94aaa3e76284654,5,4
+/cisagov/icsnpp-dnp3/blob/main/scripts/main.zeek,4,2
+/cisagov/icsnpp-dnp3/tree/main,3,2
+/cisagov/icsnpp-dnp3/blob/main/LICENSE.txt,2,1
+/cisagov/icsnpp-dnp3/blob/main/tests/traces/dnp3_example.pcap,2,1

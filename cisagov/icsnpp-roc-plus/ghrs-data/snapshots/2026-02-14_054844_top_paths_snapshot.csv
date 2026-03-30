@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-roc-plus,15,8
+/cisagov/icsnpp-roc-plus/tree/main/analyzer,5,2
+/cisagov/icsnpp-roc-plus/tree/e1887e36c982dcb94abfbc98bb2cbdf573774e65,4,4
+/cisagov/icsnpp-roc-plus/tree/main/testing/traces,3,3
+/cisagov/icsnpp-roc-plus/tree/main/testing,3,2
+/cisagov/icsnpp-roc-plus/tree/main/scripts,3,1
+/cisagov/icsnpp-roc-plus/blob/main/roc-plus-protocol-specification-manual-en-6851618.pdf,2,2
+/cisagov/icsnpp-roc-plus/blob/main/testing/tools/pcap-builder.py,2,2
+/cisagov/icsnpp-roc-plus/blob/main/testing/traces/all_opcodes_tcp.pcap,2,2
+/cisagov/icsnpp-roc-plus/tree/main,2,2

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-genisys,21,16
+/cisagov/icsnpp-genisys/tree/b353a3e8ac18556a81bb7a4e951e8bae82313bdd/analyzer,6,2
+/cisagov/icsnpp-genisys/tree/b353a3e8ac18556a81bb7a4e951e8bae82313bdd,3,2
+/cisagov/icsnpp-genisys/blob/main/zkg.meta,2,2
+/cisagov/icsnpp-genisys/blob/b353a3e8ac18556a81bb7a4e951e8bae82313bdd/tools/handshaker.py,2,1
+/cisagov/icsnpp-genisys/blob/b353a3e8ac18556a81bb7a4e951e8bae82313bdd/analyzer/CMakeLists.txt,1,1
+/cisagov/icsnpp-genisys/blob/b353a3e8ac18556a81bb7a4e951e8bae82313bdd/analyzer/analyzer.evt,1,1
+/cisagov/icsnpp-genisys/blob/b353a3e8ac18556a81bb7a4e951e8bae82313bdd/analyzer/analyzer.spicy,1,1
+/cisagov/icsnpp-genisys/blob/b353a3e8ac18556a81bb7a4e951e8bae82313bdd/analyzer/enums.spicy,1,1
+/cisagov/icsnpp-genisys/blob/b353a3e8ac18556a81bb7a4e951e8bae82313bdd/analyzer/zeek_analyzer.spicy,1,1

@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-profinet-io-cm,18,13
+/cisagov/icsnpp-profinet-io-cm/blob/d3333d7dd2ac5e5b2f3f12ec83191d58b1c6391f/testing/Traces/profinet_io_cm_mixed_2.pcapng,8,1
+/cisagov/icsnpp-profinet-io-cm/tree/d3333d7dd2ac5e5b2f3f12ec83191d58b1c6391f,5,4
+/cisagov/icsnpp-profinet-io-cm/tree/main/testing,3,3
+/cisagov/icsnpp-profinet-io-cm/blob/main/analyzer/types.zeek,2,2
+/cisagov/icsnpp-profinet-io-cm/blob/main/testing/Traces/profinet_io_cm.pcap,2,2
+/cisagov/icsnpp-profinet-io-cm/tree/main/analyzer,2,2
+/cisagov/icsnpp-profinet-io-cm/tree/main/testing/tests,2,2
+/cisagov/icsnpp-profinet-io-cm/blob/d3333d7dd2ac5e5b2f3f12ec83191d58b1c6391f/analyzer/main.zeek,1,1
+/cisagov/icsnpp-profinet-io-cm/blob/main/analyzer/profinet_io_cm_enums.spicy,1,1

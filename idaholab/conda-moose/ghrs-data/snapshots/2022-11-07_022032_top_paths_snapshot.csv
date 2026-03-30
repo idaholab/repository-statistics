@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/idaholab/conda-moose,3,3
+/idaholab/conda-moose/blob/devel/recipes/moose-petsc/recipe/mpiexec.sh,1,1
+/idaholab/conda-moose/issues,1,1
+/idaholab/conda-moose/tree/devel/contrib,1,1

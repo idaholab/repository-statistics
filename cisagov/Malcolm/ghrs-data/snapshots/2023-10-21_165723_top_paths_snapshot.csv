@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/Malcolm,601,424
+/cisagov/Malcolm/blob/main/docs/README.md,460,136
+/cisagov/Malcolm/blob/main/docs/quickstart.md,123,39
+/cisagov/Malcolm/blob/main/docs/ubuntu-install-example.md,104,30
+/cisagov/Malcolm/tree/main/zeek,76,11
+/cisagov/Malcolm/blob/main/docker-compose.yml,64,17
+/cisagov/Malcolm/tree/main/docs,60,12
+/cisagov/Malcolm/tree/main,59,26
+/cisagov/Malcolm/tree/main/suricata,59,11
+/cisagov/Malcolm/blob/main/docs/malcolm-hedgehog-e2e-iso-install.md,53,10

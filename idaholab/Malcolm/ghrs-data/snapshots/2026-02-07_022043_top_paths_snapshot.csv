@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/Malcolm,254,171
+/idaholab/Malcolm/releases/tag/v25.12.1,115,54
+/idaholab/Malcolm/releases,90,46
+/idaholab/Malcolm/releases/tag/v26.01.0,72,45
+/idaholab/Malcolm/blob/main/docs/README.md,29,25
+/idaholab/Malcolm/tree/main,22,10
+/idaholab/Malcolm/tree/main/Dockerfiles,20,9
+/idaholab/Malcolm/blob/main/docs/download.md,19,6
+/idaholab/Malcolm/commits/main,18,3
+/idaholab/Malcolm/tree/f36cddb108678545fa59c5391d890787647ed8d2/logstash/pipelines/external,14,2

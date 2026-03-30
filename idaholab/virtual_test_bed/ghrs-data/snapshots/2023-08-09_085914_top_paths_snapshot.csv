@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/virtual_test_bed,79,46
+/idaholab/virtual_test_bed/tree/devel/microreactors,67,14
+/idaholab/virtual_test_bed/tree/devel/msr,55,9
+/idaholab/virtual_test_bed/tree/devel/htgr,54,11
+/idaholab/virtual_test_bed/tree/devel/microreactors/mrad,44,10
+/idaholab/virtual_test_bed/tree/devel/msr/msfr,40,6
+/idaholab/virtual_test_bed/tree/devel/sfr/single_assembly,25,7
+/idaholab/virtual_test_bed/tree/devel/msr/msfr/steady,23,5
+/idaholab/virtual_test_bed/tree/main/sfr/vtr,23,2
+/idaholab/virtual_test_bed/tree/devel/microreactors/mrad/mesh,20,4

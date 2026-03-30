@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/idaholab/DACKAR,10,3
+/idaholab/DACKAR/tree/main/examples,6,3
+/idaholab/DACKAR/pull/3,4,2
+/idaholab/DACKAR/blob/main/examples/WorkOrderProcessing.ipynb,3,2
+/idaholab/DACKAR/tree/6d8baed0687aca26c959fcefdb5b6be1b37f0e91,3,2
+/idaholab/DACKAR/pull/3/files,2,2
+/idaholab/DACKAR/blob/main/src/dackar/workflows/OperatorShiftLogsProcessing.py,2,1
+/idaholab/DACKAR/pulls,2,1
+/idaholab/DACKAR/tree/main,2,1
+/idaholab/DACKAR/blob/main/data/cause_effect_keywords.csv,1,1
