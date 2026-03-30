@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/parsnip,12,8
+/cisagov/parsnip/blob/main/docs/parsnip.md,7,7
+/cisagov/parsnip/blob/main/docs/parsnip_files/intermediate_language/general/config.json,2,1
+/cisagov/parsnip/blob/main/docs/parsnip_files/intermediate_language/general/enums.json,2,1
+/cisagov/parsnip/tree/main/docs/parsnip_files/intermediate_language/general,2,1
+/cisagov/parsnip/blob/main/backend/templates/conversion.spicy.in,1,1
+/cisagov/parsnip/blob/main/backend/templates/generateid.cc.in,1,1
+/cisagov/parsnip/blob/main/backend/templates/main.zeek.in,1,1
+/cisagov/parsnip/blob/main/backend/zeektypes.py,1,1
+/cisagov/parsnip/blob/main/docs/images/add_port.png,1,1
