@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-roc-plus,11,10
+/cisagov/icsnpp-roc-plus/tree/main/testing,5,2
+/cisagov/icsnpp-roc-plus/tree/main/testing/traces,4,1
+/cisagov/icsnpp-roc-plus/tree/4913c23b0f1363ef986f64d09bfa6e547acc381e,3,3
+/cisagov/icsnpp-roc-plus/tree/main/testing/Baseline/tests.roc_plus_tcp,3,1
+/cisagov/icsnpp-roc-plus/tree/main,2,1
+/cisagov/icsnpp-roc-plus/blob/4913c23b0f1363ef986f64d09bfa6e547acc381e/README.md,1,1
+/cisagov/icsnpp-roc-plus/blob/4913c23b0f1363ef986f64d09bfa6e547acc381e/analyzer/roc_plus.evt,1,1
+/cisagov/icsnpp-roc-plus/blob/4913c23b0f1363ef986f64d09bfa6e547acc381e/analyzer/roc_plus.spicy,1,1
+/cisagov/icsnpp-roc-plus/blob/main/roc-plus-protocol-specification-manual-en-6851618.pdf,1,1
