@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-c1222,14,10
+/cisagov/icsnpp-c1222/tree/925e0a4af1f60f7846e99e72c29afce6d5511e98,3,2
+/cisagov/icsnpp-c1222/tree/925e0a4af1f60f7846e99e72c29afce6d5511e98/analyzer,3,1
+/cisagov/icsnpp-c1222/tree/925e0a4af1f60f7846e99e72c29afce6d5511e98/scripts,3,1
+/cisagov/icsnpp-c1222/blob/925e0a4af1f60f7846e99e72c29afce6d5511e98/analyzer/c1222_functions.spicy,2,1
+/cisagov/icsnpp-c1222/blob/925e0a4af1f60f7846e99e72c29afce6d5511e98/scripts/c1222_enums.zeek,2,1
+/cisagov/icsnpp-c1222/blob/925e0a4af1f60f7846e99e72c29afce6d5511e98/analyzer/c1222.spicy,1,1
+/cisagov/icsnpp-c1222/blob/925e0a4af1f60f7846e99e72c29afce6d5511e98/analyzer/c1222_enums.spicy,1,1
+/cisagov/icsnpp-c1222/blob/925e0a4af1f60f7846e99e72c29afce6d5511e98/scripts/__load__.zeek,1,1
+/cisagov/icsnpp-c1222/blob/925e0a4af1f60f7846e99e72c29afce6d5511e98/scripts/c1222_processing.zeek,1,1
