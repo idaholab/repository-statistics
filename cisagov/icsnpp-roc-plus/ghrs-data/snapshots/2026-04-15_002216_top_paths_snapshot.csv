@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cisagov/icsnpp-roc-plus,8,4
+/cisagov/icsnpp-roc-plus/tree/main/scripts,5,1
+/cisagov/icsnpp-roc-plus/tree/main/cmake,3,1
+/cisagov/icsnpp-roc-plus/blob/main/roc-plus-protocol-specification-manual-en-6851618.pdf,2,2
+/cisagov/icsnpp-roc-plus/tree/4913c23b0f1363ef986f64d09bfa6e547acc381e,2,2
+/cisagov/icsnpp-roc-plus/blob/main/scripts/roc_plus_enums.zeek,2,1
+/cisagov/icsnpp-roc-plus/blob/main/cmake/FindSpicyPlugin.cmake,1,1
+/cisagov/icsnpp-roc-plus/blob/main/scripts/main.zeek,1,1
+/cisagov/icsnpp-roc-plus/blob/main/scripts/roc_plus_opcode_008.zeek,1,1
+/cisagov/icsnpp-roc-plus/blob/main/scripts/roc_plus_types.zeek,1,1
